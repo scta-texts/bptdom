@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 2, Pars 2, Capitulum 6</title>
+        <author ref="#per-pbdq09">Bernardus de Parentis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtm">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 2, Pars 2, Capitulum 6</title>
+          <date when="2026-11-14">Nov 14, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-bdp87s">Speyer, 1487</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="87-r"/>
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bptdom-a2b86p"><!-- p2p2c6 -->
+        <head xml:id="bptdom-a2b86p-Hd1e111">Capitulum 6</head>
+        <head xml:id="bptdom-a2b86p-Hd1e113" type="question-title">De sexta parte missae scilicet gratiarum actione et communione</head>
+        <p xml:id="bptdom-a2b86p-d1e116">
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="45"/>De sexta parte
+          mi<lb ed="#S" n="46" break="no"/>ssae, scilicet gratiarum
+          <lb ed="#S" n="47"/>actione ac communione. Ca. vi.
+        </p>
+        <p xml:id="bptdom-a2b86p-d1e127">
+          <lb ed="#S" n="48"/>Dicto in quinque capitulis praecedentibus
+          <lb ed="#S" n="49"/>de quinque partibus missae, consequenter in
+          <lb ed="#S" n="50"/>hoc sexto capitulo et ultimo secundae partis
+          <lb ed="#S" n="51"/>principalis huius tocius operis agendum est de sexta
+          <lb ed="#S" n="52"/>parte missae quae dicitur gratiarumactio, quae habet
+          divi<lb ed="#S" n="53" break="no"/>di in tres partes: nam in prima ponitur populi
+          ex<lb ed="#S" n="54" break="no"/>ultatio, quam ostendit communio, in secunda
+          gratiarumac<lb ed="#S" n="55" break="no"/>tio, in omnibus quae sequuntur, in tertia omnium
+          con<lb ed="#S" n="56" break="no"/>summatio, ibi: Ite missa est. Circa primum
+          notan<lb ed="#S" n="57" break="no"/>dum quod dicitur communio et completio secundum quod dicit Iohannes
+          Bele<lb ed="#S" n="58" break="no"/>th. Ratio autem quare dicitur communio est quia
+          <lb ed="#S" n="59"/>in primitiva ecclesia tunc omnes
+          communi<lb ed="#S" n="60" break="no"/>cabant singulis diebus, ut dictum est supra;
+          <lb ed="#S" n="61"/>modo percipitur ad minus semel in
+          an<lb ed="#S" n="62" break="no"/>no. Vel secundum Iohannem Beleth communio dicitur
+          <lb ed="#S" n="63"/>quasi participatio, quam ideo cantamus ut
+          <lb ed="#S" n="64"/>per eam dei gratiae communicemus cum sanctis.
+        </p>
+        <p xml:id="bptdom-a2b86p-d1e166">
+          <lb ed="#S" n="65"/>Ratio autem quare appellatur completio est
+          <lb ed="#S" n="66"/>quoniam per haec missa completur.
+        </p>
+        <p xml:id="bptdom-a2b86p-d1e174">
+          <lb ed="#S" n="67"/>Sequitur secunda pars quae est gratiarumactio
+          <lb ed="#S" n="68"/>in collecta. Circa quod nota quinque:
+          <lb ed="#S" n="69"/>primo de ritu hic servando. Et dicendum
+          <lb ed="#S" n="70"/>quod dicta et cantata communione sacerdos
+          <lb ed="#S" n="71"/>depositis manibus super altare vel librum,
+          <lb ed="#S" n="72"/>debet se honeste convertere ad populum
+          di<lb ed="#S" n="73" break="no"/>cendo: Dominus vobiscum. Et in
+          conversio<lb ed="#S" n="74" break="no"/>ne manus iungat ante pectus, post
+          sepa<lb ed="#S" n="75" break="no"/>ratis illis se vertat iterum, dicendo:
+          Ore<lb ed="#S" n="76" break="no"/>mus, eas iungat, et post eas separet et dividat,
+          <lb ed="#S" n="77"/>utramque elevando ad humeros, sic quod videri possunt
+          <lb ed="#S" n="78"/>aliquantulum a retro stantibus; et sic eas teneat usque
+          <lb ed="#S" n="79"/>quod dicat: Per dominum, et tunc eas iungat aliquantulum
+          <lb ed="#S" n="80"/>magis elevando; et in fine collectae iterum se eodem
+          <lb ed="#S" n="81"/>modo vertat et eundem ritum quantum ad manus teneat.
+          <lb ed="#S" n="82"/>Secundo, quod quando sacerdos habet diaconum, quod ex quo
+          <lb ed="#S" n="83"/>ultimo se vertit ad populum, non debet se iterum vertere ad
+          <lb ed="#S" n="84"/>altare donec diaconus dixerit: Ite missa; si
+          di<lb ed="#S" n="85" break="no"/>cat: Benedicamus, vel: Requiescant in pace, non debet
+          expecta<lb ed="#S" n="86" break="no"/>re, quia diaconus etiam non vertat se ad populum tunc.
+          <pb ed="#S" n="87-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Tertio notandum quod aliqui, quando dicunt ante collectam Dominus
+          <lb ed="#S" n="2"/>vobiscum, vadunt in medium altaris, et post redeunt ad
+          <lb ed="#S" n="3"/>cornu dextrum et ibi dicunt orationem, quod significat Iudaeos in
+          <lb ed="#S" n="4"/>fine mundi conversuros, iuxta illud Ro. ix: Tunc
+          reli<lb ed="#S" n="5" break="no"/>quiae Israel salvae fient. Omnes tamen, dicta collecta, dicendo
+          <lb ed="#S" n="6"/>Per dominum, ad medium altaris redeunt, ut in
+          conver<lb ed="#S" n="7" break="no"/>tentes populum ultimo salutet et benedicant.
+          Quar<lb ed="#S" n="8" break="no"/>to notandum quod tot collectae debent hic dici quod in principio
+          <lb ed="#S" n="9"/>dictae sunt, excepta xl, ubi una dicitur plus super
+          po<lb ed="#S" n="10" break="no"/>pulum, ratione communionis quae fiebat omnibus diebus et panis
+          <lb ed="#S" n="11"/>benedicti qui sumebatur postea, qui tempore xl sumi non debet,
+          <lb ed="#S" n="12"/>ut dictum est. Quinto pro notabili quaeritur quid haec collecta
+          <lb ed="#S" n="13"/>significat. Dicendum quod signat quod gratia sequens est nobis
+          <lb ed="#S" n="14"/>necessaria, sicut et praecedens. Hic agitur de Ite missa.
+        </p>
+        <p xml:id="bptdom-a2b86p-d1e255">
+          <lb ed="#S" n="15"/>Sequitur tertio tertia pars, in qua ponitur omnium
+          con<lb ed="#S" n="16" break="no"/>summatio, ibi: Ite missa, quae in tres partes
+          di<lb ed="#S" n="17" break="no"/>viditur, quia primo ponitur licentiatio, cum dicitur: Ite missa;
+          <lb ed="#S" n="18"/>secundo finalis supplicatio, ibi: Placeat; tertio
+          <lb ed="#S" n="19"/>populi cum cruce benedictio, ibi: In nomine patris etc.
+        </p>
+        <p xml:id="bptdom-a2b86p-d1e268">
+          <lb ed="#S" n="20"/>Circa primam partem notandum quod tribus modis finitur et
+          <lb ed="#S" n="21"/>terminatur missa: aliquando per Ite missa, aliquando per
+          Be<lb ed="#S" n="22" break="no"/>nedicamus, aliquando per Requiescant. Circa Ite missa
+          <lb ed="#S" n="23"/>videnda sunt aliqua. Primo unde sumptum est. Dico quod
+          <lb ed="#S" n="24"/>ab Exo., non secundum verba sed secundum sensum, quando populus
+          <lb ed="#S" n="25"/>Israel per missu Pharaonis egressus est de Egipto
+          <lb ed="#S" n="26"/>et habuit licentiam eundi, sive quando de civitate
+          Baby<lb ed="#S" n="27" break="no"/>lonica permittente eo egressus est ad propria gratias
+          <lb ed="#S" n="28"/>deo referens; sic et nos, accepta benedictione ultima,
+          <lb ed="#S" n="29"/>ad caelestem patriam ire debemus, ubi in gratiarum actione
+          <lb ed="#S" n="30"/>semper erimus. Haec sunt verba Iohannis Beleth. Secundo quaeritur
+          <lb ed="#S" n="31"/>quid significat Ite missa. Dico: quando dicitur: Ite missa
+          <lb ed="#S" n="32"/>est, est sensus iuxta supradicta uno modo talis: Ite,
+          <lb ed="#S" n="33"/>missa est, id est ite ad propria, quia missa est consummata; et
+          <lb ed="#S" n="34"/>ad istum sensum loquitur supra Iohannes Beleth. Alio
+          <lb ed="#S" n="35"/>modo: Ite, missa, id est hostia, consummata est, scilicet Christus; vel
+          ob<lb ed="#S" n="36" break="no"/>latio est missa: sequamini eam et ite. Tertio quando
+          <lb ed="#S" n="37"/>debet dici. Semper quando cantatur Te deum in matutinis et Gloria
+          <lb ed="#S" n="38"/>in excelsis in missa debet dici; posito etiam quod in matutinis Te
+          <lb ed="#S" n="39"/>deum non fuerit cantatum, si tamen missa aliqua
+          sollem<lb ed="#S" n="40" break="no"/>nis cantetur cum Gloria, adhuc dicitur Ite missa.
+          Quar<lb ed="#S" n="41" break="no"/>to quomodo debet dici: sciendo quod versus populum, nam est quaedam
+          <lb ed="#S" n="42"/>licentia recedendi vel denuntiatio completa, quae
+          ver<lb ed="#S" n="43" break="no"/>sus populum debet dici. Responsio: Deo gratias, et est vox
+          con<lb ed="#S" n="44" break="no"/>gratulativa in gratiis enim dei finire debemus.
+          <lb ed="#S" n="45"/>Nota: Benedicamus sumitur de Iudith viii capitulo, ubi
+          <lb ed="#S" n="46"/>dicitur sic: Capti benedicamus domino; sed responsio sumitur ab
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="47"/>apostolo, ii Cho. ii, ubi dicitur: Deo gratias, qui semper nos
+          trium<lb ed="#S" n="48" break="no"/>phat in Christo. Secundo quaeritur quando debet dici. Dico quod in
+          <lb ed="#S" n="49"/>profestis diebus et semper quando cantatur pro vivis sine
+          <lb ed="#S" n="50"/>Gloria in excelsis. Tertio quaeritur quomodo debet dici. Dico quod semper
+          <lb ed="#S" n="51"/>versus orientem, versus quem oramus, non versus populum
+          <lb ed="#S" n="52"/>sicut Ite missa. Quare versus orientem oramus dictum
+          <lb ed="#S" n="53"/>est supra. Circa Requiescant in pace notantur duo: primo
+          <lb ed="#S" n="54"/>quando debet dici. Dicendum quod semper in missis defunctorum,
+          <lb ed="#S" n="55"/>quibus requiem optamus; ideo respondetur: Amen, id est ita fiat.
+          <lb ed="#S" n="56"/>Secundo quaeritur quomodo debet dici. Dico: versus orientem semper,
+          <lb ed="#S" n="57"/>et sicut Benedicamus, ut mortui ad illam requiem
+          veni<lb ed="#S" n="58" break="no"/>ant ubi est ille de quo dicitur, Zach. vi: Ecce vir
+          ori<lb ed="#S" n="59" break="no"/>ens nomen eius. Ad evidentiam praedictorum notandum quod
+          <lb ed="#S" n="60"/>ratio istius triplicis terminationis missae est quia aliquando
+          ce<lb ed="#S" n="61" break="no"/>lebramus in honorem sanctorum sollemnium, qui iam sunt coram
+          <lb ed="#S" n="62"/>deo in gloria; ideo Ite missa, quasi dicat: festinate
+          in<lb ed="#S" n="63" break="no"/>gredi illam gloriam. Aliquando celebramus pro salute
+          vi<lb ed="#S" n="64" break="no"/>vorum, et quia quamdiu sumus in mundo de salute nostra
+          in<lb ed="#S" n="65" break="no"/>certi sumus; ideo debemus esse solliciti ne per nostram
+          ig<lb ed="#S" n="66" break="no"/>naviam in nobis missae efficacia evanescat, ideo
+          <lb ed="#S" n="67"/>Benedicamus, iuxta ps.: Benedicam dominum in omni tempore.
+          Ali<lb ed="#S" n="68" break="no"/>quando celebramus pro requie optinenda mortuis; ideo
+          <lb ed="#S" n="69"/>optative Requiescant in pace, amen. De
+          fi<lb ed="#S" n="70" break="no"/>nali supplicatione. Sequitur secunda particula:
+          <lb ed="#S" n="71"/>Placeat, ubi sacerdos duo petit: primo seipsum
+          <lb ed="#S" n="72"/>indignum recognoscendo obsequii sui gratam
+          <lb ed="#S" n="73"/>acceptationem, cum dicit: Placeat tibi sancta trinitas etc.;
+          <lb ed="#S" n="74"/>Secundo petit virtutem istius obsequii sui ipsius et
+          <lb ed="#S" n="75"/>tocius populi cum sit persona communis et in communi oratione
+          propitia<lb ed="#S" n="76" break="no"/>tionem, cum subdit: Mihique et omnibus etc. Nota
+          <lb ed="#S" n="77"/>quomodo debeat dici Placeat: dico quod sacerdos
+          <lb ed="#S" n="78"/>inclinatus profunde versus medium altaris manibus
+          <lb ed="#S" n="79"/>iunctis ante pectus suum debet eam dicere, ut finis
+          corresponde<lb ed="#S" n="80" break="no"/>at principio, quia sicut humiliando et inclinando in
+          Confite<lb ed="#S" n="81" break="no"/>or incipit, ita inclinando terminet factum suum.
+          Se<lb ed="#S" n="82" break="no"/>cundo dicta oratione ista sacerdos debet se elevare et
+          <lb ed="#S" n="83"/>manibus hincinde extensis et super altare positis
+          ip<lb ed="#S" n="84" break="no"/>sum altare osculari debet; post crucem accipere, ipsam
+          os<lb ed="#S" n="85" break="no"/>culando si vult: Adoramus te, Christe; vel, si vult, non
+          <lb ed="#S" n="86"/>oportet. De benedictione secunda.
+        </p>
+        <p xml:id="bptdom-a2b86p-d1e418">
+          <lb ed="#S" n="87"/>Sequitur tertia particula de benedictione ultima quae
+          <lb ed="#S" n="88"/>datur in fine missae. Circa quam videbuntur quinque.
+          Pri<lb ed="#S" n="89" break="no"/>mo a quo debet dari benedictio. Et dicendum quod ab episcopo,
+          <lb ed="#S" n="90"/>si est praesens et velit benedicere, xx di., Denique. Si
+          <lb ed="#S" n="91"/>autem nolit benedicere, benedicat sacerdos cum
+          sim<lb ed="#S" n="92" break="no"/>plici benedictione, non cum sollemnitate, di. Sit
+          no<pb ed="#S" n="88-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1" break="no"/>men domini benedictum. Si autem episcopus velit, dicat:
+          <lb ed="#S" n="2"/>Humiliate vos ad benedictionem. Secundo quaeritur
+          <lb ed="#S" n="3"/>quomodo debet dari. Et dicendum quod sacerdos (dicto
+          <lb ed="#S" n="4"/>Placeat, et osculo dato, et cruce accepta) debet
+          <lb ed="#S" n="5"/>se vertere ad populum, ter crucem faciendo ad
+          ter<lb ed="#S" n="6" break="no"/>nam partem, dicendo: Benedicat vos divina
+          maie<lb ed="#S" n="7" break="no"/>stas, pater et filius et spiritussanctus, vel aliam benedictionem secundum ritum
+          <lb ed="#S" n="8"/>ordinis illius vel ecclesiae illius, et hoc tenendo crucem vel
+          <lb ed="#S" n="9"/>corporale vel patenam in manu. Tertio quaeritur quid
+          <lb ed="#S" n="10"/>signat illa benedictio. Dico quod missionem spiritussancti,
+          <lb ed="#S" n="11"/>quem de caelo descendentem misit in apostolos dominus,
+          <lb ed="#S" n="12"/>iuxta quod dixit: Accipietis virtutem spiritussancti in
+          <lb ed="#S" n="13"/>vos. Quarto sciendum quod benedictio ista per
+          ver<lb ed="#S" n="14" break="no"/>bum oris et signum crucis debet exprimi, quoniam
+          mi<lb ed="#S" n="15" break="no"/>ssio spiritussancti, quam signat haec benedictio, per sonum
+          <lb ed="#S" n="16"/>aeris et linguam ignis innotuit, ut habetur Act. ii:
+          <lb ed="#S" n="17"/>Factus est repente de caelo sonus etc.; et sequitur: Et
+          apparue<lb ed="#S" n="18" break="no"/>runt illis dispertitae linguae tamquam ignis. Quinto quaeritur
+          <lb ed="#S" n="19"/>quare in hac benedictione tota trinitas nominatur et
+          <lb ed="#S" n="20"/>nomine trinitatis datur. Dicendum: ratio est quia, licet spiritus
+          <lb ed="#S" n="21"/>sanctus spiritualiter fuerit missus, tamen, quia indivisa sunt
+          <lb ed="#S" n="22"/>opera trinitatis, missionem illam tota trinitas
+          fu<lb ed="#S" n="23" break="no"/>it operata; ideo tam pater quam filius quam spiritussanctus ibi nominantur.
+          <lb ed="#S" n="24"/>Hoc facto debet sacerdos se vertere per eandem partem
+          <lb ed="#S" n="25"/>et crucem deponere. Et tunc potest incipere
+          evan<lb ed="#S" n="26" break="no"/>gelium Iohannis, vel etiam officium beatae Mariae virginis, vel sicut
+          <lb ed="#S" n="27"/>placebit sibi. Deinde expoliare vestibus sacris
+          <lb ed="#S" n="28"/>seu indumentis, dicendo aliquas orationes
+          devo<lb ed="#S" n="29" break="no"/>tas. Et sic finitur secunda pars tocius operis
+          principa<lb ed="#S" n="30" break="no"/>lis quae est de perfectione sacramenti.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

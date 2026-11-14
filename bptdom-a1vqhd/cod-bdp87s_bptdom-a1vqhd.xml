@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prologus</title>
+        <author ref="#per-pbdq09">Bernardus de Parentis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtm">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prologus</title>
+          <date when="2026-11-14">Nov 14, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-bdp87s">Speyer, 1487</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="1-v"/>
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bptdom-a1vqhd"><!-- prol -->
+        <head xml:id="bptdom-a1vqhd-Hd1e111">Prologus</head>
+        <p xml:id="bptdom-a1vqhd-d1e113">
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="42"/>Incipit prologus
+          <lb ed="#S" n="43"/>Quoniam Clamitat sapiens
+          <lb ed="#S" n="44"/>perscrutator maiestatis oppri
+          <lb ed="#S" n="45"/>metur a gloria idcirco nullus ex
+          <lb ed="#S" n="46"/>istimet hoc officium sufficienter expos
+          <lb ed="#S" n="47"/>situm ne forte cum humanum opus
+          <lb ed="#S" n="48"/>extulerit divinum extenuet sacramen
+          <lb ed="#S" n="49"/>tum . Sunt enim in hoc officio tot et
+          <lb ed="#S" n="50"/>tanta preclara misteriis involuta ut
+          <lb ed="#S" n="51"/>nullus eorum sensum noscat aut suffici
+          <lb ed="#S" n="52"/>at explicare nisi unctione spiritus Sanc
+          <lb ed="#S" n="53"/>ti fuerit plinitus quapropter ego re
+          <lb ed="#S" n="54"/>et nescius non prevalens lippientibus
+          <lb ed="#S" n="55"/>oculis solem in rota conspicere canu
+          <lb ed="#S" n="56"/>et eam preclari misterii maiestatem que si
+          <lb ed="#S" n="57"/>per speculum et in enigmate mihi Xio
+          <lb ed="#S" n="58"/>sus ium intueri nec penetrans ad in
+          <lb ed="#S" n="59"/>teriora sed pre foribus stans in vesti
+          <lb ed="#S" n="60"/>bulo post messores Booz spicas colli
+          <lb ed="#S" n="61"/>gens non sufficienter ve volui sed fe
+          <lb ed="#S" n="62"/>ci quod Potui diligenter presertim cum
+          <lb ed="#S" n="63"/>tunc accu in officio lectoris quod vires
+          <lb ed="#S" n="64"/>meas excedebat fuerim occupatus
+          <lb ed="#S" n="65"/>Equidem minor in singulis divisus
+          <lb ed="#S" n="66"/>ad singula vix potui meditanda con
+          <lb ed="#S" n="67"/>cipere nec concepta dictare aut scribe
+          <lb ed="#S" n="68"/>re Stilo Rudi . Quo circa non solum im
+          <lb ed="#S" n="69"/>ploro lectorem benivolum . sed eciam
+          <lb ed="#S" n="70"/>liberum desidero correctorem me et
+          <lb ed="#S" n="71"/>omnia correctioni Sancte matris Ro
+          <lb ed="#S" n="72"/>mane ecclesie subiciens necnon et or
+          <lb ed="#S" n="73"/>dinis mei Sancti qui semper veritate
+          <lb ed="#S" n="74"/>docuit et dilexit . Hanc mercedem solum
+          <lb ed="#S" n="75"/>huius opusculi apud homines expec
+          <lb ed="#S" n="76"/>tans ut ad Piissimum iudicem pro me
+          <lb ed="#S" n="77"/>peccatore devote fundant preces
+          <lb ed="#S" n="78"/>qui liquide novit qua cordis inten
+          <lb ed="#S" n="79"/>one tractatum hunc egerim et si non
+          <lb ed="#S" n="80"/>multis saltem aliquibus tamen aut
+          <lb ed="#S" n="81"/>mihi soli vel in modico proficuum in
+          <lb ed="#S" n="82"/>quo per ordinem omnia prosequor mo
+          <lb ed="#S" n="83"/>vendo dubia aliqua utilia ac etiam
+          <pb ed="#S" n="2-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>curiosa in quibus ut in pluribus sequor
+          <lb ed="#S" n="2"/>sentenciam doctoris preclarissimi Sancti
+          <lb ed="#S" n="3"/>Thome nostri ordinis cuius doctrina
+          <lb ed="#S" n="4"/>lucida ut sol et luna tota ecclesia illus
+          <lb ed="#S" n="5"/>stratur . in quibusdam autem aliis et in
+          <lb ed="#S" n="6"/>casibus iuris sequor viam tutam et docto
+          <lb ed="#S" n="7"/>rum meliorum nullum addens dubium
+          <lb ed="#S" n="8"/>de capite singulare et ut apertius totis
+          <lb ed="#S" n="9"/>huius tractatus processus legentibus
+          <lb ed="#S" n="10"/>appareat . per modum prologi hoc premitto
+          <lb ed="#S" n="11"/>quod in tres dividitur partes principales In
+          <lb ed="#S" n="12"/>quarum prima agitur de quibusdam
+          <lb ed="#S" n="13"/>precedentibus que sunt quinque que ipsum
+          <lb ed="#S" n="14"/>reddunt valde gloriosum et laudabile
+          <lb ed="#S" n="15"/>ut inferius apparebit . In secunda agitur
+          <lb ed="#S" n="16"/>de hoc sacramentum perficientibus que
+          <lb ed="#S" n="17"/>ipsum reddunt ineffabile que sunt duo
+          <lb ed="#S" n="18"/>materia scilicet et forma . in tertia et
+          <lb ed="#S" n="19"/>ultima parte agitur de diversis pericu
+          <lb ed="#S" n="20"/>lis circa hoc sacramentum contingenti
+          <lb ed="#S" n="21"/>bus que ipsum reddunt admirabile
+          <lb ed="#S" n="22"/>que sunt XIIII et videbitur de singulis
+          <lb ed="#S" n="23"/>Deo dante . Hec enim sunt necessaria
+          <lb ed="#S" n="24"/>cuicumque accedenti ad tantum miste
+          <lb ed="#S" n="25"/>rium celebrandum . Primo ut sciat se
+          <lb ed="#S" n="26"/>ipsum disponere aptius Secundo ut sci
+          <lb ed="#S" n="27"/>at ipsum perficere devotius Tertio ut
+          <lb ed="#S" n="28"/>sciat periculis si contingant obviare
+          <lb ed="#S" n="29"/>cautius . Et ut clarius hec valeam ex
+          <lb ed="#S" n="30"/>plicare propter primum spiritus Sancti
+          <lb ed="#S" n="31"/>clementiam qua cunctam bene disponun
+          <lb ed="#S" n="32"/>tur propter secundum Dei patris poten
+          <lb ed="#S" n="33"/>tiam qua cuncta perficiuntur propter ter
+          <lb ed="#S" n="34"/>tium Dei filii sapientiam quam pericula
+          <lb ed="#S" n="35"/>evitantur et omnia caute aguntur suppli
+          <lb ed="#S" n="36"/>cer invoco et imploro Quis novit
+          <lb ed="#S" n="37"/>ordinem celi et ponet rationem eius
+          <lb ed="#S" n="38"/>in terra Puteus enim altus est et in
+          <lb ed="#S" n="39"/>quo Hauriam aquam non habeo nisi
+          <lb ed="#S" n="40"/>ille porrigat qui non improperat sed
+          <lb ed="#S" n="41"/>dat omnibus affluenter quo propinat
+          <lb ed="#S" n="42"/>re Hauriam in gaudio de Fontibus sal
+          <lb ed="#S" n="43"/>vatoris
+          <lb ed="#S" n="44"/>explicit prologus
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

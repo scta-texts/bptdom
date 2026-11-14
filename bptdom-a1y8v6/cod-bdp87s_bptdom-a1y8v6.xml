@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 1, Capitulum 1</title>
+        <author ref="#per-pbdq09">Bernardus de Parentis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtm">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 1, Capitulum 1</title>
+          <date when="2026-11-14">Nov 14, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-bdp87s">Speyer, 1487</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="3-r"/>
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bptdom-a1y8v6"><!-- p1c1 -->
+        <head xml:id="bptdom-a1y8v6-Hd1e111">Capitulum 1</head>
+        <head xml:id="bptdom-a1y8v6-Hd1e113" type="question-title">De diversorum nominum celebritate</head>
+        <p xml:id="bptdom-a1y8v6-d1e116">
+          <lb ed="#S" n="31"/>De primo
+          praeceden<lb ed="#S" n="32" break="no"/>te. Capitulum i.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e123">
+          <lb ed="#S" n="33"/>Primum praecedens quod facit
+          sacra<lb ed="#S" n="34" break="no"/>mentum gloriosum et laudabile est
+          <lb ed="#S" n="35"/>diversorum nominum celebritas.
+          <lb ed="#S" n="36"/>Dico primo quod ad hoc sacramentum
+          <lb ed="#S" n="37"/>debemus accedere cum reverentia et
+          <lb ed="#S" n="38"/>timore et digne quod ostenditur primo
+          <lb ed="#S" n="39"/>ex diversorum nominum celebritate.
+          Vo<lb ed="#S" n="40" break="no"/>catur enim hoc multipliciter. Nam dicitur
+          <lb ed="#S" n="41"/>sacramentum, missa, eucharistia, hostia,
+          <lb ed="#S" n="42"/>immolatio, communio, viaticum,
+          sacri<lb ed="#S" n="43" break="no"/>ficium, actio, ut ex diversis capitulis
+          <lb ed="#S" n="44"/>colligi potest.
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="45"/>De primo nomine
+          <lb ed="#S" n="46"/>quomodo dicitur sacramentum.
+          <lb ed="#S" n="47"/>Primo dicitur sacramentum. Et
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e160">
+          <lb ed="#S" n="48"/>circa declarationem huius
+          no<lb ed="#S" n="49" break="no"/>minis notandum quot modis dicitur
+          <lb ed="#S" n="50"/>sacramentum. Et dicendum, secundum quod
+          <lb ed="#S" n="51"/>dicit Hugo de sancto Victore in libro
+          <lb ed="#S" n="52"/>de sacramentis, quod sacramentum dicitur
+          <lb ed="#S" n="53"/>multipliciter. Primo large, sicut sunt
+          <lb ed="#S" n="54"/>illa per quae fideles disponuntur ad bona,
+          <lb ed="#S" n="55"/>ut cineres, aqua benedicta et huiusmodi;
+          <lb ed="#S" n="56"/>et sic missa dicitur sacramentum. Secundo
+          <lb ed="#S" n="57"/>magis proprie, scilicet pro quibusdam
+          disposi<lb ed="#S" n="58" break="no"/>tionibus ad vera sacramenta, ut est
+          cathe<lb ed="#S" n="59" break="no"/>cisimus et baptisterium et vestes ad
+          mi<lb ed="#S" n="60" break="no"/>ssas. Tertio modo magis proprie et vere,
+          <lb ed="#S" n="61"/>sicut illud in quo virtus divina
+          secre<lb ed="#S" n="62" break="no"/>tius operatur, quod sic diffinitur:
+          Sacramen<lb ed="#S" n="63" break="no"/>tum est invisibilis gratiae visibile signum,
+          <lb ed="#S" n="64"/>cum causa eius existat et imaginem eius
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e200">
+          <lb ed="#S" n="65"/>gerat. Et sic accipiendo propriissime
+          sacra<lb ed="#S" n="66" break="no"/>mentum missa dicit sacramentum. Et
+          <lb ed="#S" n="67"/>bene sacramentum dici potest triplici
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e209">
+          <lb ed="#S" n="68"/>ratione. Nam sacramentum dicitur uno
+          <lb ed="#S" n="69"/>modo quasi sacrans mentem; in missa
+          <lb ed="#S" n="70"/>autem mens sacratur. Vel sacramentum
+          <lb ed="#S" n="71"/>dicitur quasi sacrae rei signum; signa enim
+          <lb ed="#S" n="72"/>exteriora, scilicet panis et vinum, figuratur verum
+          <lb ed="#S" n="73"/>corpus Christi ibi existentis, sicut habetur iii
+          <lb ed="#S" n="74"/>q. i, Multi saecularium. Tertio dicitur
+          sacra<lb ed="#S" n="75" break="no"/>mentum quasi sacrum secretum,
+          cu<lb ed="#S" n="76" break="no"/>iusmodi est hic, quia res sacratissima,
+          <lb ed="#S" n="77"/>scilicet corporis Christi, ibi continetur.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e233">
+          <lb ed="#S" n="78"/>De secundo
+          nomi<lb ed="#S" n="79" break="no"/>ne, quomodo dicitur missa.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e240">
+          <lb ed="#S" n="80"/>Missa dicitur quadruplici ratione.
+          <lb ed="#S" n="81"/>Primo ratione angelorum, qui
+          <lb ed="#S" n="82"/>ibi mittuntur. Secundo ratione filii dei, qui
+          <lb ed="#S" n="83"/>ibi mittitur a deo patre. Tertio ratione
+          <lb ed="#S" n="84"/>nostri, quia per ministerium sacerdotis, qui
+          <lb ed="#S" n="85"/>mediatoris vice fungitur inter deum et
+          <lb ed="#S" n="86"/>hominem, vota nostra mittimus et preces
+          <pb ed="#S" n="3-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>deo fundimus, ibi ut sic deus mittat
+          <lb ed="#S" n="2"/>nobis benedictionem et gratiam.
+          Quar<lb ed="#S" n="3" break="no"/>to ratione assistentium, scilicet
+          cathecumeno<lb ed="#S" n="4" break="no"/>rum, qui foras mittebantur antiquitus
+          <lb ed="#S" n="5"/>in ecclesia primitiva, ut dicit Hugo.
+          <lb ed="#S" n="6"/>Tunc enim solebat diaconus, lecto
+          evan<lb ed="#S" n="7" break="no"/>gelio, clamare dicens: Exite
+          cathecume<lb ed="#S" n="8" break="no"/>ni, quia sacerdos secretum incipit. Ratio
+          <lb ed="#S" n="9"/>autem expulsionis erat, quia illi erant sine
+          <lb ed="#S" n="10"/>sacramento baptismi, quod est
+          fundamen<lb ed="#S" n="11" break="no"/>tum aliorum.
+          <lb ed="#S" n="12"/>De tertio nomine,
+          <lb ed="#S" n="13"/>quomodo dicitur eucharistia.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e290">
+          <lb ed="#S" n="14"/>Eucharistia proprie dici potest ab eu,
+          <lb ed="#S" n="15"/>quod est bonum, et caris, quod est
+          gra<lb ed="#S" n="16" break="no"/>tia, quasi bona gratia, quia
+          commu<lb ed="#S" n="17" break="no"/>nicet illum in quo est plenitudo gratiae;
+          <lb ed="#S" n="18"/>unde Ioh. i: De plenitudine eius omnes
+          <lb ed="#S" n="19"/>accepimus gratiam pro gratia. Et idem:
+          Vidi<lb ed="#S" n="20" break="no"/>mus gloriam eius, gloriam quasi unigeniti
+          <lb ed="#S" n="21"/>a patre plenum gratia.
+          <lb ed="#S" n="22"/>De quarto nomine,
+          <lb ed="#S" n="23"/>quomodo dicitur hostia.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e314">
+          <lb ed="#S" n="24"/>Hostia dicitur, ut habetur in psalmo:
+          <lb ed="#S" n="25"/>Disrupisti vincula mea, tibi
+          sa<lb ed="#S" n="26" break="no"/>crificabo hostiam laudis. Item
+          <lb ed="#S" n="27"/>notandum, secundum Isidorum
+          Ethymologia<lb ed="#S" n="28" break="no"/>rum vi, quod hostia dicitur ab hostibus
+          vincen<lb ed="#S" n="29" break="no"/>dis, sicut victima a victis; unde
+          antiqui<lb ed="#S" n="30" break="no"/>tus antequam irent ad bellum faciebant
+          <lb ed="#S" n="31"/>deo sacrificia, et vocabatur hostia; sed quando
+          <lb ed="#S" n="32"/>vicerant, iterum faciebant, et vocabatur
+          <lb ed="#S" n="33"/>victima. Quia ergo nos hoc
+          sacramen<lb ed="#S" n="34" break="no"/>tum offerimus deo ad vincendum
+          ho<lb ed="#S" n="35" break="no"/>stes nostros, scilicet daemones, ideo
+          meri<lb ed="#S" n="36" break="no"/>to hostia dici potest.
+          <lb ed="#S" n="37"/>De quinto nomine,
+          <lb ed="#S" n="38"/>quomodo dicitur immolatio.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e350">
+          <lb ed="#S" n="39"/>Immolatio, secundum eundem Isidorum
+          <lb ed="#S" n="40"/>quo supra, dicitur ab in et
+          mo<lb ed="#S" n="41" break="no"/>les, quia in mole altaris
+          sacrifi<lb ed="#S" n="42" break="no"/>catur et quia hoc sacramentum debet fieri
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="43"/>in altari, ideo immolatio est et dici potest;
+          <lb ed="#S" n="44"/>ideo dicitur in psalmo: Immola deo
+          sa<lb ed="#S" n="45" break="no"/>crificium laudis.
+          <lb ed="#S" n="46"/>De sexto nomine,
+          <lb ed="#S" n="47"/>quomodo dicitur communio.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e374">
+          <lb ed="#S" n="48"/>Communio dicitur quasi
+          commu<lb ed="#S" n="49" break="no"/>nis esca. Communicare etiam
+          <lb ed="#S" n="50"/>secundum Papiam idem est quod simul
+          <lb ed="#S" n="51"/>participare de uno pane. Et quia omnes de
+          <lb ed="#S" n="52"/>uno pane et de uno calice participamus in
+          <lb ed="#S" n="53"/>hoc sacramento, idcirco bene
+          commu<lb ed="#S" n="54" break="no"/>nio dicitur. Et certe merito, quia
+          commu<lb ed="#S" n="55" break="no"/>nio dici potest a communitatione, quia nobis se
+          <lb ed="#S" n="56"/>communicat, vel a communicatione, quia
+          com<lb ed="#S" n="57" break="no"/>munis est omnibus. ¶ Et circa hoc potest
+          <lb ed="#S" n="58"/>moveri quaestio satis pulchra et ad
+          propo<lb ed="#S" n="59" break="no"/>situm, videlicet utrum Christus realiter sit
+          <lb ed="#S" n="60"/>in sacramento. Et videtur quod non, quia tunc
+          <lb ed="#S" n="61"/>corpus idem esset in diversis locis
+          si<lb ed="#S" n="62" break="no"/>mul; hoc autem est impossibile; ergo etc. Ma‹ior›
+          <lb ed="#S" n="63"/>patet, quia si corpus Christi esset realiter
+          <lb ed="#S" n="64"/>in altari, cum semper sit in caelo, esset simul
+          <lb ed="#S" n="65"/>in caelo et in altari. Item simul esset in
+          plu<lb ed="#S" n="66" break="no"/>ribus altaribus, quod est impossibile. Ad
+          <lb ed="#S" n="67"/>hoc dicendum, quia inferius de hoc magis
+          <lb ed="#S" n="68"/>agetur, quod corpus Christi ibi est realiter et
+          sacra<lb ed="#S" n="69" break="no"/>mentaliter, et hoc necessarium est confiteri.
+          Ve<lb ed="#S" n="70" break="no"/>rum est quod non est ibi localiter nec
+          circum<lb ed="#S" n="71" break="no"/>scriptive, sed modo alio mirabili et
+          in<lb ed="#S" n="72" break="no"/>effabili, licet a nobis nesciatur. Nec est
+          <lb ed="#S" n="73"/>inconveniens, quia ad sensum videmus
+          <lb ed="#S" n="74"/>nos clare quod sol, qui semper est in caelo
+          <lb ed="#S" n="75"/>nec desinit ibi esse, nihilominus
+          appa<lb ed="#S" n="76" break="no"/>ret realiter in terra et in multis
+          fonti<lb ed="#S" n="77" break="no"/>bus et speculis simul, totus in caelo, totus
+          <lb ed="#S" n="78"/>in speculo et totus in multis speculis et
+          fon<lb ed="#S" n="79" break="no"/>tibus; quia licet sol non posset esse nisi in
+          <lb ed="#S" n="80"/>uno loco, puto in caelo, localiter et per
+          mo<lb ed="#S" n="81" break="no"/>dum quantitatis, est tamen in pluribus locis per
+          <lb ed="#S" n="82"/>modum alium simul, scilicet per modum causae in
+          mul<lb ed="#S" n="83" break="no"/>tis effectibus et per modum repraesentati in
+          <lb ed="#S" n="84"/>multis speculis et fontibus. Sic etiam corpus Christi,
+          <lb ed="#S" n="85"/>unum existens in caelo semper localiter et per modum
+          <lb ed="#S" n="86"/>dimensivum virtute divina potest esse et est in
+          <pb ed="#S" n="4-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>multis altaribus sacramentaliter et
+          <lb ed="#S" n="2"/>veraciter. Et per hoc patet responsio ad
+          ar<lb ed="#S" n="3" break="no"/>gumentum, quia loquitur de modo
+          es<lb ed="#S" n="4" break="no"/>sendi localiter, non de modo essendi
+          sa<lb ed="#S" n="5" break="no"/>cramentaliter. Et sic communio dici potest.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e476">
+          <lb ed="#S" n="6"/>De septimo,
+          quo<lb ed="#S" n="7" break="no"/>modo dicitur viaticum.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e483">
+          <lb ed="#S" n="8"/>Viaticum est victus in via
+          necessa<lb ed="#S" n="9" break="no"/>rius et portatus, secundum
+          Huguitio<lb ed="#S" n="10" break="no"/>nem. Iste autem cibus datus est
+          no<lb ed="#S" n="11" break="no"/>bis in via ista, quia, ut Christus dicit Io.
+          <lb ed="#S" n="12"/>vi: Caro mea vere est cibus; et est
+          necessa<lb ed="#S" n="13" break="no"/>rius ad salutem et ad praeventionem
+          ter<lb ed="#S" n="14" break="no"/>mini nostri, quia nisi manducaveritis
+          <lb ed="#S" n="15"/>carnem meam et biberitis meum
+          sang<lb ed="#S" n="16" break="no"/>uinem, non habebitis vitam in vobis.
+          <lb ed="#S" n="17"/>Idcirco bene et proprie viaticum debet
+          <lb ed="#S" n="18"/>dici. Figura huius habetur tertio
+          Re<lb ed="#S" n="19" break="no"/>gum xix, ubi dicitur quod angelus domini
+          <lb ed="#S" n="20"/>portavit Heliae panem subcinericium et
+          <lb ed="#S" n="21"/>vas aquae dicens: Surge, comede;
+          gran<lb ed="#S" n="22" break="no"/>dis enim restat tibi via. Et sequitur quod
+          <lb ed="#S" n="23"/>ambulavit in fortitudine cibi illius
+          <lb ed="#S" n="24"/>usque ad montem dei. Applicatio patet.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e522">
+          <lb ed="#S" n="25"/>De octavo
+          nomi<lb ed="#S" n="26" break="no"/>ne, quomodo dicitur sacrificium.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e529">
+          <lb ed="#S" n="27"/>Sacrificium proprie dicitur
+          secun<lb ed="#S" n="28" break="no"/>dum Isidorum quo prius, quasi
+          <lb ed="#S" n="29"/>sacrum factum, quia prece mystica
+          con<lb ed="#S" n="30" break="no"/>secratur; unde in psalmo: Immola
+          <lb ed="#S" n="31"/>deo sacrificium laudis.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e543">
+          <lb ed="#S" n="32"/>De nono nomine
+          <lb ed="#S" n="33"/>quomodo dicitur actio.
+        </p>
+        <p xml:id="bptdom-a1y8v6-d1e550">
+          <lb ed="#S" n="34"/>Actio dicitur, quia, sicut
+          ha<lb ed="#S" n="35" break="no"/>betur de consecratione di. i,
+          <lb ed="#S" n="36"/>ca. Vocem, etiam Leo papa
+          <lb ed="#S" n="37"/>vocat sacrificium missae actionem, quasi
+          <lb ed="#S" n="38"/>dicat quod missa est quaedam actio quae fit
+          <lb ed="#S" n="39"/>per modum cuiusdam causae. Nam
+          si<lb ed="#S" n="40" break="no"/>cut habemus locum, scilicet oratorium,
+          <lb ed="#S" n="41"/>iudex est deus, accusator est diabolus,
+          <lb ed="#S" n="42"/>reus est populus, conscientia testis.
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="43"/>sacerdos defensor et advocatus, ut
+          di<lb ed="#S" n="44" break="no"/>cit Augustinus in oratione: Quoniam,
+          <lb ed="#S" n="45"/>inquit, me peccatorem inter te et eundem
+          <lb ed="#S" n="46"/>populum medium voluisti esse etc. Et
+          <lb ed="#S" n="47"/>sic patet quomodo redditur hoc
+          sacramen<lb ed="#S" n="48" break="no"/>tum gloriosum et laudabile ex nominum
+          <lb ed="#S" n="49"/>celebritate, ut possumus dicere: Recte
+          <lb ed="#S" n="50"/>vocatum est nomen eius, Gen. xxvii.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

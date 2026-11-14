@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Collatio</title>
+        <author ref="#per-pbdq09">Bernardus de Parentis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtm">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Collatio</title>
+          <date when="2026-11-14">Nov 14, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-bdp87s">Speyer, 1487</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="2-r"/>
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bptdom-a1w4g7"><!-- coll -->
+        <head xml:id="bptdom-a1w4g7-Hd1e111">Collatio</head>
+        <p xml:id="bptdom-a1w4g7-d1e113">
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="45"/>Incipit collatio
+          <lb ed="#S" n="46"/>Domine non sum dignus
+          <lb ed="#S" n="47"/>ut intres sub tectum meum
+          <lb ed="#S" n="48"/>Mathei VIII ad reliquias pre
+          <lb ed="#S" n="49"/>ciosas non debet homo acces
+          <lb ed="#S" n="50"/>dere nisi cum reverentia et timore et
+          <lb ed="#S" n="51"/>quantum poterit digne figura hu expresse
+          <lb ed="#S" n="52"/>habetur II regum de illo Oza qui ad archa
+          <lb ed="#S" n="53"/>domini ubi erant manna Tabule testa
+          <lb ed="#S" n="54"/>menti et virga Aaron presumptuose acce
+          <lb ed="#S" n="55"/>dens et indigne eam tangens statim
+          <lb ed="#S" n="56"/>a domino est percussus Karissimi reli
+          <lb ed="#S" n="57"/>quia preciosissima est Dei filius qui est
+          <lb ed="#S" n="58"/>Sanctus Sanctorum qui bene reliquia pre
+          <lb ed="#S" n="59"/>ciosissima dici potest et est Adeo ut reli
+          <lb ed="#S" n="60"/>quia preciosa in vase cristallino ponit
+          <lb ed="#S" n="61"/>ut ibi a simplicibus Adoretur sic Dei filius
+          <lb ed="#S" n="62"/>qui in seipso videri non potest ab ocu
+          <lb ed="#S" n="63"/>lo corporali quia nemo vidit deum un
+          <lb ed="#S" n="64"/>quam dori ut a nobis videri posset et
+          <lb ed="#S" n="65"/>adorari positus fuit in vase cristallino
+          <lb ed="#S" n="66"/>preciosissimo humanitatis de Purissis
+          <lb ed="#S" n="67"/>mis sanguinibus virginis assumpta
+          <lb ed="#S" n="68"/>et ab omni peccato et macula depura
+          <lb ed="#S" n="69"/>ta quo facto videri potuit et adorari
+          <lb ed="#S" n="70"/>Iuxta illud Io. I Verbum caro fa
+          <lb ed="#S" n="71"/>ctum est et sequitur Vidimus gloriam
+          <lb ed="#S" n="72"/>eius unde Thomas ipsum videns et
+          <lb ed="#S" n="73"/>Palpans statim exclamavit dicens do
+          <lb ed="#S" n="74"/>minus meus et Deus meus Luce XXIIII.
+          <lb ed="#S" n="75"/>Hec enim reliquia tam preciosa nunc
+          <lb ed="#S" n="76"/>nobis exhibetur adoranda necnon et
+          <lb ed="#S" n="77"/>sumenda sub velamento specierum
+          <lb ed="#S" n="78"/>panis et vini in sacramento altaris de
+          <lb ed="#S" n="79"/>quo nunc agere proponimus et hoc vir
+          <lb ed="#S" n="80"/>tute verborum illorum Christi que sunt
+          <lb ed="#S" n="81"/>Mathei XXVI hoc est corpus meum etc
+          <lb ed="#S" n="82"/>Ad tam ergo preciosam reliquiam et
+          <lb ed="#S" n="83"/>venerabilem immo verius ineffabile
+          <lb ed="#S" n="84"/>sacramentum nullus debet accedere
+          <lb ed="#S" n="85"/>nec etiam de ipso loqui aut legere nisi
+          <lb ed="#S" n="86"/>cum reverentia et timore alias non su
+          <pb ed="#S" n="2-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>meret seu reciperet ad utilitatem sed
+          <lb ed="#S" n="2"/>potius ad mortem quia secundum apo
+          <lb ed="#S" n="3"/>stolum ad Corinthe XI . quicumque man
+          <lb ed="#S" n="4"/>ducat et bibit indigne iudicium sibi man
+          <lb ed="#S" n="5"/>ducat et bibit etc . Si ergo ille oza archa
+          <lb ed="#S" n="6"/>Domini ubi erat manna indigne tan
+          <lb ed="#S" n="7"/>gens et ad ipsam accedens ita subi
+          <lb ed="#S" n="8"/>to ultione divina est percussus quid
+          <lb ed="#S" n="9"/>fiet de accedente indigne et imparate
+          <lb ed="#S" n="10"/>ad tam mirabile sacramentum ubi non
+          <lb ed="#S" n="11"/>manna sed verum corpus Christi conti
+          <lb ed="#S" n="12"/>netur per verborum efficatiam tota enim
+          <lb ed="#S" n="13"/>divinitas per quandam concomitantiam
+          <lb ed="#S" n="14"/>Angeli etiam per ministerialem assisten
+          <lb ed="#S" n="15"/>tiam assunt et ideo caveatis et digne
+          <lb ed="#S" n="16"/>ambuletis vocatione qua vocati estis
+          <lb ed="#S" n="17"/>ad Ephes. IIII . Ex hiis dictis patet quod
+          <lb ed="#S" n="18"/>ad reliquias pretiosas adorandas seu
+          <lb ed="#S" n="19"/>tractandas non debet quis accedere
+          <lb ed="#S" n="20"/>nisi cum timore et reverentia et in sa
+          <lb ed="#S" n="21"/>cramento altaris et misse accedit sacer
+          <lb ed="#S" n="22"/>dos ad Christum salvatorem nostrum
+          <lb ed="#S" n="23"/>non solum adorandum immo ad co
+          <lb ed="#S" n="24"/>fuendum et sumendum ergo quilibet
+          <lb ed="#S" n="25"/>debet accedere cum maxima reverentia
+          <lb ed="#S" n="26"/>et timore dicendo verbum assumptum
+          <lb ed="#S" n="27"/>domine non sum dignus etc . Ubi duo
+          <lb ed="#S" n="28"/>necessaria omni accedenti continentur
+          <lb ed="#S" n="29"/>Primum est recognitio divine Maies
+          <lb ed="#S" n="30"/>tis ibi domine Secundum est confessio
+          <lb ed="#S" n="31"/>proprie fragilitatis ibi non sum dignus
+          <lb ed="#S" n="32"/>de primo Nota quod recognitio Dei consistit
+          <lb ed="#S" n="33"/>non solum in verbo sed in facto quia
+          <lb ed="#S" n="34"/>secundum grego probatio dilectionis
+          <lb ed="#S" n="35"/>exhibitio est operis non est dubium
+          <lb ed="#S" n="36"/>quod sacerdotes et clerici verbo cotridie
+          <lb ed="#S" n="37"/>recognoscant Deum et Dominum qui
+          <lb ed="#S" n="38"/>cotridie dicunt dominus vobiscum Ad
+          <lb ed="#S" n="39"/>dominum cum tribularer Domines
+          <lb ed="#S" n="40"/>dominus noster et huiusmodi sed ta
+          <lb ed="#S" n="41"/>lis recognicio vocalis et verbalis mo
+          <lb ed="#S" n="42"/>dicum valet nisi etiam hoc facto mon
+          <lb ed="#S" n="43"/>straretur sibi obediendo obtemperi
+          <lb ed="#S" n="44"/>ando preceptis et mandatis eius quo
+          <lb ed="#S" n="45"/>secundum quod ipse dicit Mathe XIII non
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="46"/>omnis qui dicit mihi domine domi
+          <lb ed="#S" n="47"/>ne introibit in regnum celorum sed
+          <lb ed="#S" n="48"/>qui facit voluntatem patris mei qui
+          <lb ed="#S" n="49"/>in celis est Circa secundum nota quod
+          <lb ed="#S" n="50"/>quilibet debet dicere domine non sum
+          <lb ed="#S" n="51"/>dignus Nam secundum Aristotelem
+          <lb ed="#S" n="52"/>forma non dat esse in quacumque mate
+          <lb ed="#S" n="53"/>ria nisi in disposita et parata forma
+          <lb ed="#S" n="54"/>dans esse non solum corporale verum
+          <lb ed="#S" n="55"/>etiam spirituale est filius Dei in sacra
+          <lb ed="#S" n="56"/>mento contentus qui non solum dat
+          <lb ed="#S" n="57"/>esse . immo etiam vivere ineternum
+          <lb ed="#S" n="58"/>iuxta illud Ioh. VI qui manducat
+          <lb ed="#S" n="59"/>hunc panem vivet ineternum . Et ideo
+          <lb ed="#S" n="60"/>quia dicitur Eccle. IX nescit homo utrum
+          <lb ed="#S" n="61"/>odio vel amore dignus sit idcirco de
+          <lb ed="#S" n="62"/>bet dicere non sum dignus enc propter
+          <lb ed="#S" n="63"/>quod saltem quod in nobis est faciam
+          <lb ed="#S" n="64"/>iuxta consilium apostoli ad Colocens I
+          <lb ed="#S" n="65"/>Ambuletis digne Deo per omnia place
+          <lb ed="#S" n="66"/>ntes Quilibet debet conari ut digne et
+          <lb ed="#S" n="67"/>Sancte et devote accedat ad celebrati
+          <lb ed="#S" n="68"/>onem misse . Hoc autem fieri poterit
+          <lb ed="#S" n="69"/>si sciat precedentia et disponentia ad
+          <lb ed="#S" n="70"/>istud sacramentum que sunt valde no
+          <lb ed="#S" n="71"/>tabilia si cognoscat necessaria et per
+          <lb ed="#S" n="72"/>ficientia hoc sacramentum que sunt
+          <lb ed="#S" n="73"/>mirabilia . Si etiam certe intelligat et
+          <lb ed="#S" n="74"/>presciat pericula consequentia et inmi
+          <lb ed="#S" n="75"/>nentia circa hoc sacrificium et eis obvi
+          <lb ed="#S" n="76"/>are si occuerant talia . et circa hoc tria
+          <lb ed="#S" n="77"/>tota lectura et totus tractatus versa
+          <lb ed="#S" n="78"/>tur Deo dante qui est benedictus in se
+          <lb ed="#S" n="79"/>cula
+          <lb ed="#S" n="80"/>explicit collatio
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

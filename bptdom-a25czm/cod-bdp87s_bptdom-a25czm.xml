@@ -1,0 +1,1969 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 2, Pars 2, Capitulum 1</title>
+        <author ref="#per-pbdq09">Bernardus de Parentis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtm">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 2, Pars 2, Capitulum 1</title>
+          <date when="2026-11-14">Nov 14, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-bdp87s">Speyer, 1487</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="20-r"/>
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bptdom-a25czm"><!-- p2p2c1 -->
+        <head xml:id="bptdom-a25czm-Hd1e111">Capitulum 1</head>
+        <head xml:id="bptdom-a25czm-Hd1e113" type="question-title">De prima parte missae quae vocatur praeparatio</head>
+        <p xml:id="bptdom-a25czm-d1e116">
+          <lb ed="#S" n="30"/>De forma
+          sacra<lb ed="#S" n="31" break="no"/>menti, et primo de his quae praecedunt.
+          <lb ed="#S" n="32"/>Pars ii.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e125">
+          <lb ed="#S" n="33"/>Viso superius de materia
+          hu<lb ed="#S" n="34" break="no"/>ius sacramenti, nunc in
+          se<lb ed="#S" n="35" break="no"/>cunda parte principali
+          vi<lb ed="#S" n="36" break="no"/>dendum est de forma, quae in verbis
+          con<lb ed="#S" n="37" break="no"/>sistit. Et quomodo haec verba
+          consecra<lb ed="#S" n="38" break="no"/>tionis summam habent efficaciam et
+          vir<lb ed="#S" n="39" break="no"/>tutem et sunt verba Christi, ideo propter
+          <lb ed="#S" n="40"/>eorum sollemnitatem multa verba ea
+          prae<lb ed="#S" n="41" break="no"/>cedunt et sequuntur, sicut patet in
+          to<lb ed="#S" n="42" break="no"/>to officio missae, incipiendo ab illa
+          ho<cb ed="#S" n="b"/><lb ed="#S" n="43" break="no"/>ra qua sacerdos incipit se induere usque
+          <lb ed="#S" n="44"/>ad ultimam benedictionem, ideo
+          pri<lb ed="#S" n="45" break="no"/>mo de his quae praecedunt est agendum.
+          <lb ed="#S" n="46"/>Unde illud officium aliqui dividunt,
+          <lb ed="#S" n="47"/>iuxta numerum partium orationis
+          po<lb ed="#S" n="48" break="no"/>situm ab apostolo primo ad Timo. ii,
+          <lb ed="#S" n="49"/>in quattuor partes. Prima est ab
+          introi<lb ed="#S" n="50" break="no"/>tu usque ad Te igitur, quae vocatur
+          obse<lb ed="#S" n="51" break="no"/>crationes; secunda a Te igitur usque
+          <lb ed="#S" n="52"/>Pater noster, et vocatur orationes;
+          ter<lb ed="#S" n="53" break="no"/>tia a Pater noster usque ad collectas, et
+          <lb ed="#S" n="54"/>vocatur postulationes; quarta a
+          col<lb ed="#S" n="55" break="no"/>lectis usque ad Ite missa, et haec vocatur
+          gra<lb ed="#S" n="56" break="no"/>tiarum actiones. Alii dicunt quod habet
+          di<lb ed="#S" n="57" break="no"/>vidi in sex partes principales, quarum
+          <lb ed="#S" n="58"/>prima vocatur praeparatio, et durat usque
+          <lb ed="#S" n="59"/>ad epistolam; secunda instructio, et
+          du<lb ed="#S" n="60" break="no"/>rat usque ad offertorium; tertia oblatio,
+          <lb ed="#S" n="61"/>et durat usque ad praefationem; quarta
+          <lb ed="#S" n="62"/>consecratio, et durat usque ad Oremus
+          prae<lb ed="#S" n="63" break="no"/>ceptis; quinta sacramenti perceptio,
+          <lb ed="#S" n="64"/>et durat usque ad communionem; sexta
+          <lb ed="#S" n="65"/>gratiarum actio, et durat usque ad finem
+          <lb ed="#S" n="66"/>missae. Et secundum illam divisionem
+          di<lb ed="#S" n="67" break="no"/>viditur ista pars in sex capitula,
+          quo<lb ed="#S" n="68" break="no"/>rum primum est de praeparatione, quod
+          di<lb ed="#S" n="69" break="no"/>viditur in duas partes principales,
+          se<lb ed="#S" n="70" break="no"/>cundum quod oportet esse duplicem
+          prae<lb ed="#S" n="71" break="no"/>parationem, scilicet sacerdotis et
+          popu<lb ed="#S" n="72" break="no"/>li. Debet enim accedere minister
+          quili<lb ed="#S" n="73" break="no"/>bet valde digne et reverenter, et ideo
+          <lb ed="#S" n="74"/>quaedam spectant facienda tunc ad
+          mi<lb ed="#S" n="75" break="no"/>nistrum; propter quod primo agetur
+          <lb ed="#S" n="76"/>de praeparatione ministri, secundo de
+          <lb ed="#S" n="77"/>praeparatione populi in officio missae.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e226">
+          <lb ed="#S" n="78"/>Circa primum notandum quod ad
+          mi<lb ed="#S" n="79" break="no"/>nistrum spectant quattuor: primum est
+          <lb ed="#S" n="80"/>debita praeparatio, secundum est
+          de<lb ed="#S" n="81" break="no"/>bita supplicatio, tertium est debita sui
+          <lb ed="#S" n="82"/>recognitio, quartum est sui ipsius
+          re<lb ed="#S" n="83" break="no"/>collectio. Et de istis quattuor per
+          ordi<lb ed="#S" n="84" break="no"/>nem est procedendum. Primum quod
+          <lb ed="#S" n="85"/>spectat ad ministrum est debita
+          dispo<lb ed="#S" n="86" break="no"/>sitio et praeparatio, ad quam quinque
+          oc<lb ed="#S" n="87" break="no"/>currunt. Primum est manuum lotio,
+          <pb ed="#S" n="20-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>propter duo.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e258">
+          <lb ed="#S" n="2"/>Primo ut mundus accedat ad
+          tan<lb ed="#S" n="3" break="no"/>gendum corpus Christi, quia, si munde
+          <lb ed="#S" n="4"/>debet tangi panis materialis, multo
+          <lb ed="#S" n="5"/>plus panis caelestis.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e269">
+          <lb ed="#S" n="6"/>Secundo quia significat
+          ablu<lb ed="#S" n="7" break="no"/>tionem mentis per contritionis
+          ama<lb ed="#S" n="8" break="no"/>ritudinem. Unde Isaiae: Lavamini et
+          <lb ed="#S" n="9"/>mundi estote. Secundum est
+          ca<lb ed="#S" n="10" break="no"/>pitis pectinatio, propter duas
+          ratio<lb ed="#S" n="11" break="no"/>nes.
+          <lb ed="#S" n="12"/>Prima est litteralis, scilicet ut pili
+          de<lb ed="#S" n="13" break="no"/>center ornentur et bene firmati stent, et
+          <lb ed="#S" n="14"/>alii non cadant supra sacrificium.
+          <lb ed="#S" n="15"/>Secunda magis mystica, quia in
+          scrip<lb ed="#S" n="16" break="no"/>tura sacra per pilos intelliguntur
+          co<lb ed="#S" n="17" break="no"/>gitationes nostrae innumerabiles, quarum
+          <lb ed="#S" n="18"/>malae tunc debent eradicari, iuxta illud:
+          <lb ed="#S" n="19"/>Auferte malum cogitationum
+          vestra<lb ed="#S" n="20" break="no"/>rum de medio vestri.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e304">
+          <lb ed="#S" n="21"/>Tertium est de quorundam
+          psalmo<lb ed="#S" n="22" break="no"/>rum oratione, quantum ad illos
+          praeci<lb ed="#S" n="23" break="no"/>pue qui dicunt officium rationum, quod
+          <lb ed="#S" n="24"/>Linus papa instituit: primo Quam
+          dile<lb ed="#S" n="25" break="no"/>cta, Benedixisti, Inclina domine,
+          Credi<lb ed="#S" n="26" break="no"/>di, De profundis. Dicuntur quinque
+          psal<lb ed="#S" n="27" break="no"/>mi, secundum Innocentium, ut, si quid
+          <lb ed="#S" n="28"/>in mundum sensuum quinque
+          transgre<lb ed="#S" n="29" break="no"/>ssione commisit, quinque psalmorum
+          or<lb ed="#S" n="30" break="no"/>dine detergat. Sed dicuntur isti
+          sin<lb ed="#S" n="31" break="no"/>gulariter quia in quolibet istorum fit
+          <lb ed="#S" n="32"/>commemoratio de his quae spectant
+          <lb ed="#S" n="33"/>ad hoc sacrificium vel remissionem
+          pec<lb ed="#S" n="34" break="no"/>catorum. In primo de altare fit mentio:
+          <lb ed="#S" n="35"/>Altaria tua domine virtutum. In
+          se<lb ed="#S" n="36" break="no"/>cundo de misericordiae dei
+          condescen<lb ed="#S" n="37" break="no"/>sione: Ostende nobis domine
+          miseri<lb ed="#S" n="38" break="no"/>cordiam tuam et salutare tuum da
+          no<lb ed="#S" n="39" break="no"/>bis. Tertio de adoratione: Venient et
+          <lb ed="#S" n="40"/>adorabunt coram te domine. In
+          quar<lb ed="#S" n="41" break="no"/>to de devota oblatione: Calicem
+          salu<cb ed="#S" n="b"/><lb ed="#S" n="42" break="no"/>taris accipiam et nomen domini
+          invo<lb ed="#S" n="43" break="no"/>cabo. In quinto de finali
+          redemptio<lb ed="#S" n="44" break="no"/>ne: Apud dominum misericordia et copiosa
+          <lb ed="#S" n="45"/>apud eum redemptio.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e362">
+          <lb ed="#S" n="46"/>Quartum est sui et populi cum aqua
+          <lb ed="#S" n="47"/>benedicta aspersio, praecipue die
+          domi<lb ed="#S" n="48" break="no"/>nico. Circa quae videbuntur haec per
+          or<lb ed="#S" n="49" break="no"/>dinem.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e373">
+          <lb ed="#S" n="50"/>Primum est ex quibus debet
+          con<lb ed="#S" n="51" break="no"/>stare aqua et quomodo debet
+          benedi<lb ed="#S" n="52" break="no"/>ci. Et sciendum quod debet esse ex aqua et
+          <lb ed="#S" n="53"/>sale. Sal autem significat sacerdotis
+          <lb ed="#S" n="54"/>discretionem. Unde in antiqua lege
+          <lb ed="#S" n="55"/>in omni sacrificio ponebatur sal.
+          <lb ed="#S" n="56"/>Item in mersione salis fiunt tres
+          cru<lb ed="#S" n="57" break="no"/>ces ad denotandum quod totum procedit
+          <lb ed="#S" n="58"/>a beata trinitate. Aqua autem significat
+          <lb ed="#S" n="59"/>populum, Apocalip. sedeci: Aquae multae
+          <lb ed="#S" n="60"/>populi multi.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e399">
+          <lb ed="#S" n="61"/>Secundo quomodo debet aspergi.
+          <lb ed="#S" n="62"/>Et sciendum quod primo debet aspergi
+          <lb ed="#S" n="63"/>ad altare, quod significat Christum, ad
+          effu<lb ed="#S" n="64" break="no"/>gandum daemones ab isto a quo
+          gra<lb ed="#S" n="65" break="no"/>tia ad populum derivatur. Postea ad
+          <lb ed="#S" n="66"/>populum, et hoc propter tria. Primo
+          <lb ed="#S" n="67"/>propter daemonum expulsionem, de
+          con<lb ed="#S" n="68" break="no"/>secratione distinctione tertia, Aquam.
+          <lb ed="#S" n="69"/>Secundo ad venialium deletionem
+          <lb ed="#S" n="70"/>eadem distinctione, Aquam sale aspersam:
+          <lb ed="#S" n="71"/>Nam si cinis vitulae aspersus populum
+          <lb ed="#S" n="72"/>sanctificabat atque mundabat, multo
+          ma<lb ed="#S" n="73" break="no"/>gis aqua sale aspersa divinis precibus
+          <lb ed="#S" n="74"/>sanctificat populum atque mundat?
+          <lb ed="#S" n="75"/>Et si sterilitas aquae sanata est per
+          He<lb ed="#S" n="76" break="no"/>lizeum prophetam, quantomagis sal
+          <lb ed="#S" n="77"/>precibus divinis sacramentum
+          steri<lb ed="#S" n="78" break="no"/>litatem rerum humanarum
+          sanctifi<lb ed="#S" n="79" break="no"/>cat et coinquinatos purgat? Tertio ad
+          <lb ed="#S" n="80"/>mentis sanctificationem, de
+          consecra<lb ed="#S" n="81" break="no"/>tione distinctione quarta,
+          Nequa<lb ed="#S" n="82" break="no"/>quam.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e450">
+          <pb ed="#S" n="21-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Tertium quid debet cantari. Et
+          <lb ed="#S" n="2"/>sciendum quod a festo Pentecostes usque
+          <lb ed="#S" n="3"/>ad Pascha cantatur in aspersione aquae
+          <lb ed="#S" n="4"/>benedictae: Asperges me domine, cum
+          <lb ed="#S" n="5"/>versu: Miserere mei deus. Cuius
+          sen<lb ed="#S" n="6" break="no"/>sus talis est. Asperges me: hic
+          peti<lb ed="#S" n="7" break="no"/>mus gratiam iustificantem dicendo
+          <lb ed="#S" n="8"/>asperges, id est aspergas me (Hebraei
+          <lb ed="#S" n="9"/>enim non habent optativum modum,
+          <lb ed="#S" n="10"/>sed pro eo utuntur futuro indicativi
+          <lb ed="#S" n="11"/>modi). Hyssopo et mundabor: loquitur de
+          <lb ed="#S" n="12"/>mundatione spirituali per modum
+          <lb ed="#S" n="13"/>emendationis corporalis, quia
+          emun<lb ed="#S" n="14" break="no"/>datio leprosi et contaminati ex tactu
+          <lb ed="#S" n="15"/>morticinii fiebat cum hyssopo, ut
+          habe<lb ed="#S" n="16" break="no"/>tur in Levitico; et in hoc confitemur
+          <lb ed="#S" n="17"/>nos incurrisse lepram spiritualem
+          <lb ed="#S" n="18"/>peccati. Lavabis me, id est laves me
+          <lb ed="#S" n="19"/>aqua baptismali vel gratiae tuae. Et
+          su<lb ed="#S" n="20" break="no"/>per nivem dealbabor: et hoc dicit quia
+          <lb ed="#S" n="21"/>dealbatio spiritualis maior est
+          corpo<lb ed="#S" n="22" break="no"/>rali et melior; nam in spiritualibus
+          <lb ed="#S" n="23"/>idem est esse maius et melius; quanto
+          <lb ed="#S" n="24"/>ergo mundatio spiritualis est melior
+          <lb ed="#S" n="25"/>tanto maior. Versus est: Miserere mei
+          <lb ed="#S" n="26"/>deus secundum mag. etc. Nam
+          secun<lb ed="#S" n="27" break="no"/>dum Augustinum misericordia
+          mi<lb ed="#S" n="28" break="no"/>seris est necessaria; ideo petimus
+          <lb ed="#S" n="29"/>magnam, qui habemus miseriam
+          mag<lb ed="#S" n="30" break="no"/>nam, scilicet peccatorum et per
+          conse<lb ed="#S" n="31" break="no"/>quens afflictionem poenarum.
+          <lb ed="#S" n="32"/>Nota quod a Paschae festo usque ad
+          Pen<lb ed="#S" n="33" break="no"/>tecostes in aspersione aquae
+          bene<lb ed="#S" n="34" break="no"/>dictae cantatur: Vidi aquam
+          egredi<lb ed="#S" n="35" break="no"/>entem de templo a latere dextro. Et
+          <lb ed="#S" n="36"/>est sumptum de Ezechiele, unde duo
+          <lb ed="#S" n="37"/>ibi figurantur, scilicet redemptio per
+          <lb ed="#S" n="38"/>sacramentorum institutionem, et ideo
+          <lb ed="#S" n="39"/>illo tempore cantatur quod est
+          propin<lb ed="#S" n="40" break="no"/>quum passioni et sanctificationi et usui
+          <lb ed="#S" n="41"/>et baptismus quod fiebat antiquitus
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="42"/>sabbato sancto Paschae et Pentecostes,
+          <lb ed="#S" n="43"/>de consecratione distinctione quarta,
+          <lb ed="#S" n="44"/>Baptizandi.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e554">
+          <lb ed="#S" n="45"/>Quintum est ad altare cum
+          mini<lb ed="#S" n="46" break="no"/>stris accessio vel processio, iuxta quod
+          <lb ed="#S" n="47"/>notandum quod sic debent procedere.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e563">
+          <lb ed="#S" n="48"/>Primo debent procedere
+          thurife<lb ed="#S" n="49" break="no"/>rarii, qui designat odorem bonae famae,
+          <lb ed="#S" n="50"/>ut possint dicere: Christi bonus odor
+          su<lb ed="#S" n="51" break="no"/>mus, ii ad Chorinth. secundo.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e574">
+          <lb ed="#S" n="52"/>Item significat qualiter sacerdos
+          <lb ed="#S" n="53"/>debet orare, quia existens in caritate. Ad
+          <lb ed="#S" n="54"/>sensum enim patet quia incensi
+          fu<lb ed="#S" n="55" break="no"/>mus non est nec ascendit sursum nisi
+          <lb ed="#S" n="56"/>in thuribulo sit ignis; sic nec oratio
+          <lb ed="#S" n="57"/>ascendit ad deum nec placet sibi nisi
+          <lb ed="#S" n="58"/>in corde facientis sit ignis caritas, et
+          <lb ed="#S" n="59"/>tunc ascendit optime. Unde psalmista:
+          <lb ed="#S" n="60"/>Dirigatur domine oratio mea sicut
+          <lb ed="#S" n="61"/>incensum in conspectu tuo.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e598">
+          <lb ed="#S" n="62"/>Secundo debent sequi ceroferarii
+          <lb ed="#S" n="63"/>cum lumine qui designant utriusque
+          <lb ed="#S" n="64"/>testamenti claritatem et veritatem per
+          <lb ed="#S" n="65"/>Christum propalatam et declaratam.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e609">
+          <lb ed="#S" n="66"/>Et notandum quod in diebus festivis
+          <lb ed="#S" n="67"/>duo sunt accoliti, in profestis autem
+          <lb ed="#S" n="68"/>diebus tantummodo unus.
+          <lb ed="#S" n="69"/>Ratio autem potest esse, quia sacerdos
+          <lb ed="#S" n="70"/>ad altare veniens significat Christum
+          ve<lb ed="#S" n="71" break="no"/>nientem in hunc mundum, Io. i.
+          Du<lb ed="#S" n="72" break="no"/>plex autem est adventus Christi: unus
+          qua<lb ed="#S" n="73" break="no"/>si ferialis et occultus, scilicet in carnem,
+          <lb ed="#S" n="74"/>quem praecessit tantummodo unus
+          prae<lb ed="#S" n="75" break="no"/>cursor, videlicet Iohannes Baptista, de
+          <lb ed="#S" n="76"/>quo dicitur Lucae i: Praeibis enim ante
+          <lb ed="#S" n="77"/>faciem domini parare vias eius. Alius
+          <lb ed="#S" n="78"/>autem adventus est sollemnis,
+          genera<lb ed="#S" n="79" break="no"/>lis et manifestus, scilicet ad iudicium,
+          <lb ed="#S" n="80"/>de quo Ps.: Deus manifeste veniet etc.
+          <lb ed="#S" n="81"/>Hunc autem adventum duo
+          praece<lb ed="#S" n="82" break="no"/>dent, scilicet Helias et Enoch.
+          <pb ed="#S" n="21-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Et ideo in profestis diebus et ferialibus
+          <lb ed="#S" n="2"/>est unus accolitus repraesentans
+          Ioha<lb ed="#S" n="3" break="no"/>nem Baptistam; in sollemnibus autem
+          <lb ed="#S" n="4"/>duo, repraesentantes scilicet Helyam et
+          <lb ed="#S" n="5"/>Enoch. Tertio sequitur subdiaconus
+          <lb ed="#S" n="6"/>portans librum legis Christi et Moysi.
+          <lb ed="#S" n="7"/>Quarto diaconus, qui habet populum
+          <lb ed="#S" n="8"/>praedicare et monere. Quinto sacerdos
+          <lb ed="#S" n="9"/>qui gerit locum et vicem Christi. Hoc ergo
+          <lb ed="#S" n="10"/>ordine procedere debent, dicendo
+          psal<lb ed="#S" n="11" break="no"/>mum Iudica me etc.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e678">
+          <lb ed="#S" n="12"/>De debita
+          suppli<lb ed="#S" n="13" break="no"/>catione ministri.
+          <lb ed="#S" n="14"/>Secundum quod spectat ad
+          mi<lb ed="#S" n="15" break="no"/>nistrum est debita supplicatio.
+          <lb ed="#S" n="16"/>Ista autem supplicatio
+          conti<lb ed="#S" n="17" break="no"/>netur in psalmo Iudica me deus etc., ante
+          <lb ed="#S" n="18"/>quem praemittatur versus: Et
+          introi<lb ed="#S" n="19" break="no"/>bo ad altare dei. In quo datur intelligi
+          <lb ed="#S" n="20"/>quod sacerdos accedit ad altare et ad deum
+          <lb ed="#S" n="21"/>non propter aliquod temporale, sed
+          spi<lb ed="#S" n="22" break="no"/>rituale, ut sic transeat per bona
+          tempo<lb ed="#S" n="23" break="no"/>ralia ut non amittat aeterna, quia
+          laetifi<lb ed="#S" n="24" break="no"/>cationem gratiae sperat in praesenti et
+          <lb ed="#S" n="25"/>gloriae in futuro. Et tunc sequitur ps.
+          <lb ed="#S" n="26"/>Iudica me deus. In primo petit a
+          dia<lb ed="#S" n="27" break="no"/>bolo liberari, quia aliquando per se,
+          ali<lb ed="#S" n="28" break="no"/>quando per homines, vel etiam in forma
+          <lb ed="#S" n="29"/>hominis temptat; ideo dicit:
+          Discer<lb ed="#S" n="30" break="no"/>ne causam meam de gente non sancta,
+          <lb ed="#S" n="31"/>scilicet diabolis, ab homine iniquo et
+          dolo<lb ed="#S" n="32" break="no"/>so etc. Homo iniquus potest dici daemon,
+          <lb ed="#S" n="33"/>iuxta illud: Inimicus homo hoc fecit,
+          <lb ed="#S" n="34"/>quod dicitur quando in forma hominis
+          <lb ed="#S" n="35"/>vel per homines temptet. In secundo
+          <lb ed="#S" n="36"/>invocat dei auxilium: Quia tu es deus
+          <lb ed="#S" n="37"/>fortitudo mea. In tertio optat gratiam
+          <lb ed="#S" n="38"/>divinam: Emitte lucem tuam. In
+          quar<lb ed="#S" n="39" break="no"/>to promittitur sacrificium pro se et populo
+          <lb ed="#S" n="40"/>facere cum dicit: Et introibo ad altare
+          <lb ed="#S" n="41"/>dei. In quinto promittit peccata
+          detesta<lb ed="#S" n="42" break="no"/>ri: Confitebor. In sexto ostendit se solum
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="43"/>de dei praesentia consolari cum dicit:
+          <lb ed="#S" n="44"/>Spera in deo quoniam adhuc. Septimo
+          <lb ed="#S" n="45"/>ponitur Gloria patri, et significat quod non
+          so<lb ed="#S" n="46" break="no"/>lum unam personam, sed totam
+          trinita<lb ed="#S" n="47" break="no"/>tem cupit laudare. Postea signat se
+          sig<lb ed="#S" n="48" break="no"/>no crucis, quod signum daemones valde
+          <lb ed="#S" n="49"/>timent. Psalmum ergo hunc, scilicet
+          Iudi<lb ed="#S" n="50" break="no"/>ca me deus dicit sacerdos secundum
+          In<lb ed="#S" n="51" break="no"/>nocentium, ut separatus a gente non sancta
+          <lb ed="#S" n="52"/>et liberatus ab homine iniquo ad
+          alta<lb ed="#S" n="53" break="no"/>re dei introeat securus.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e774">
+          <lb ed="#S" n="54"/>De debita
+          recogni<lb ed="#S" n="55" break="no"/>tione ministri.
+          <lb ed="#S" n="56"/>Tertium quod spectat ad
+          mini<lb ed="#S" n="57" break="no"/>strum est debita sui recognitio.
+          <lb ed="#S" n="58"/>Ideo consequenter dicit:
+          Confite<lb ed="#S" n="59" break="no"/>or deo omnipotenti. Sed circa hoc
+          sta<lb ed="#S" n="60" break="no"/>tim quaeritur quare dicit melius
+          omni<lb ed="#S" n="61" break="no"/>potenti quam omniscienti, cum scientia plus
+          <lb ed="#S" n="62"/>faciat ad cognitionem peccatorum quam
+          poten<lb ed="#S" n="63" break="no"/>tia. Responsio: quia secundum Augustinum plus
+          <lb ed="#S" n="64"/>est peccatores iustificare quam mundum
+          <lb ed="#S" n="65"/>creare; ratio est quia productio non habuit
+          <lb ed="#S" n="66"/>aliquem obicem vel resistentem, cum de
+          <lb ed="#S" n="67"/>nihilo fiat, sed iustificatio impii habet
+          <lb ed="#S" n="68"/>obicem, scilicet voluntatem pravam
+          pecca<lb ed="#S" n="69" break="no"/>torum et peccatum inclinans. Ideo
+          di<lb ed="#S" n="70" break="no"/>cit omnipotenti, quia summa potentia
+          <lb ed="#S" n="71"/>requiritur ad iustificationem. Sequitur:
+          <lb ed="#S" n="72"/>Et beatae Mariae, quia sine illa non habet
+          acce<lb ed="#S" n="73" break="no"/>ssum ad deum, cum sit mediatrix
+          homi<lb ed="#S" n="74" break="no"/>num. Et post sequitur: Et omnibus sanctis,
+          <lb ed="#S" n="75"/>ut scilicet sint nobis gratiosi ad impetrandum
+          <lb ed="#S" n="76"/>veniam. Et sequitur: Et tibi patri, quasi scilicet
+          defen<lb ed="#S" n="77" break="no"/>sor sis pro me. Sequitur: Me graviter
+          pec<lb ed="#S" n="78" break="no"/>casse, ubi tangit primo peccatum primum,
+          <lb ed="#S" n="79"/>deinde peccata oris, cordis et operis.
+          Se<lb ed="#S" n="80" break="no"/>quitur: Mea culpa. Ideo precor b. virginem, quia
+          <lb ed="#S" n="81"/>tamquam indigne ad reginam misericordiae et ad omnes
+          <lb ed="#S" n="82"/>sanctos debemus recurrere, quia immediate
+          <lb ed="#S" n="83"/>accedere ad deum non sumus digni. Postea
+          sequi<lb ed="#S" n="84" break="no"/>tur: Misereatur v., Indulgentiam: venialium
+          <lb ed="#S" n="85"/>et mortalium obligatorum datur. De
+          tri<lb ed="#S" n="86" break="no"/>bus quae continentur in confessione generali.
+          <pb ed="#S" n="22-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Nota primo quod tria continentur in
+          con<lb ed="#S" n="2" break="no"/>fessione generali, scilicet Confiteor,
+          Mi<lb ed="#S" n="3" break="no"/>sereatur, Indulgentiam. Circa haec tria
+          <lb ed="#S" n="4"/>notanda sunt aliqua. Primo quod hic
+          <lb ed="#S" n="5"/>sunt tria, scilicet Confiteor, Misereatur,
+          <lb ed="#S" n="6"/>veniam et indulgentiam vel absolutionem
+          <lb ed="#S" n="7"/>et remissionem secundum ordinem nostrum,
+          <lb ed="#S" n="8"/>quae possunt exponi ex parte dei, in quo
+          <lb ed="#S" n="9"/>sunt tria, scilicet scientia ineffabilis, quia
+          <lb ed="#S" n="10"/>omnia videt oculus eius, Eccle. xxiii; ideo
+          <lb ed="#S" n="11"/>nihil est sibi celandum sed dicendum.
+          <lb ed="#S" n="12"/>Confiteor etc. Item potentia
+          invincibi<lb ed="#S" n="13" break="no"/>lis, Ps.: Omnipotens dominus; ideo dicemus:
+          <lb ed="#S" n="14"/>Misereatur nostri omnipotens deus. Item
+          <lb ed="#S" n="15"/>misericordia ineffabilis; ideo addimus:
+          <lb ed="#S" n="16"/>Veniam et indulgentiam. De tribus quae
+          <lb ed="#S" n="17"/>in percussione pectoris continentur.
+          Se<lb ed="#S" n="18" break="no"/>cundo notandum quod secundum Innocentium in
+          <lb ed="#S" n="19"/>Confiteor, dicendo cum pectus
+          percuti<lb ed="#S" n="20" break="no"/>tur, sunt tria, scilicet ictus, sonus et tactus,
+          <lb ed="#S" n="21"/>qui signant tres partes paenitentiae quae
+          <lb ed="#S" n="22"/>debent in nobis esse: in ictu contritio,
+          <lb ed="#S" n="23"/>in sono confessio, in tactu satisfactio,
+          <lb ed="#S" n="24"/>quia tripliciter peccavimus, scilicet
+          cogitan<lb ed="#S" n="25" break="no"/>do corde, loquendo ore et exequendo opere;
+          <lb ed="#S" n="26"/>Ideo debemus habere contritionem
+          <lb ed="#S" n="27"/>in corde, confessionem in ore, satisfactionem
+          <lb ed="#S" n="28"/>in opere. Quare solus homo dicit Tibi patri
+          <lb ed="#S" n="29"/>et Misereatur nostri? Tertio nota quod in
+          <lb ed="#S" n="30"/>Confiteor minister sacerdoti loquitur
+          sin<lb ed="#S" n="31" break="no"/>gulariter, dicendo Tibi patri et Misereatur
+          <lb ed="#S" n="32"/>tui, quia ipse gerit vicem unius personae
+          <lb ed="#S" n="33"/>communis; sed ipse adiutori loquitur
+          <lb ed="#S" n="34"/>pluraliter quia adiutor tenet locum
+          ec<lb ed="#S" n="35" break="no"/>clesiae totius et fidelium omnium
+          qui<lb ed="#S" n="36" break="no"/>bus sacerdos loquitur in plurali. Quarto
+          <lb ed="#S" n="37"/>nota quod in hac confessione generali non
+          <lb ed="#S" n="38"/>debet fieri peccatorum expressio sicut
+          <lb ed="#S" n="39"/>fatui faciunt, credentes ibi absolvi, quod
+          <lb ed="#S" n="40"/>non est verum; sed non debent dici nisi
+          <lb ed="#S" n="41"/>verba honesta et generalia, sicut fit in
+          <lb ed="#S" n="42"/>ordine nostro, ubi nihil plus dicimus
+          <lb ed="#S" n="43"/>nisi sic: Confiteor deo et beatae Mariae et
+          <lb ed="#S" n="44"/>beato Dominico et omnibus sanctis et
+          <lb ed="#S" n="45"/>tibi patri quia peccavi nimis cogitatione
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="46"/>locutione, opere, omissione; mea culpa;
+          pre<lb ed="#S" n="47" break="no"/>cor te ora pro me. Aliquando autem
+          ad<lb ed="#S" n="48" break="no"/>dunt pollutione et quaedam inhonesta,
+          <lb ed="#S" n="49"/>quod non est faciendum; nec peccatum
+          <lb ed="#S" n="50"/>in speciali commissum ibi debet
+          nomi<lb ed="#S" n="51" break="no"/>nari, sed in confessione alia
+          sacramen<lb ed="#S" n="52" break="no"/>tali, quia haec confessio generalis non
+          <lb ed="#S" n="53"/>valet ad delendum peccata. Idcirco
+          <lb ed="#S" n="54"/>hoc sunt multa quaerenda. Primo utrum
+          <lb ed="#S" n="55"/>per confessionem generalem deleantur
+          <lb ed="#S" n="56"/>peccata venialia. Dicendum quod sic, quia
+          <lb ed="#S" n="57"/>actus caritatis contra venialia directus
+          <lb ed="#S" n="58"/>ea suo contrario delet; unde, cum
+          con<lb ed="#S" n="59" break="no"/>fessio generalis sit actus ex caritate
+          pro<lb ed="#S" n="60" break="no"/>cedens in eo qui caritatem habet, in
+          ve<lb ed="#S" n="61" break="no"/>nialia directus, constat quod valet ad
+          ve<lb ed="#S" n="62" break="no"/>nialium peccatorum dimissionem quantum
+          <lb ed="#S" n="63"/>ad culpam, et quandoque ad poenam, quia
+          <lb ed="#S" n="64"/>tanta potest esse caritas et contritio con
+          <lb ed="#S" n="65"/>fitentis. Sed nota quod duplex est
+          confe<lb ed="#S" n="66" break="no"/>ssio generalis, quia quaedam est
+          sacramen<lb ed="#S" n="67" break="no"/>talis, qua scilicet aliquis confitetur
+          sa<lb ed="#S" n="68" break="no"/>cerdoti in secreto quaedam quorum
+          me<lb ed="#S" n="69" break="no"/>minit et alia venialia in generali, et tunc
+          <lb ed="#S" n="70"/>talis confessio valet ex iiii ad
+          remissi<lb ed="#S" n="71" break="no"/>onem venialium quantum ad culpam
+          <lb ed="#S" n="72"/>et quantum ad poenam, vel in toto vel
+          <lb ed="#S" n="73"/>in parte: scilicet ex contritione
+          confiten<lb ed="#S" n="74" break="no"/>tis, ex humilitate confessionis, ex
+          ora<lb ed="#S" n="75" break="no"/>tione sacerdotis in quantum est
+          perso<lb ed="#S" n="76" break="no"/>na quaedam, et ex vi clavium. Alia
+          confe<lb ed="#S" n="77" break="no"/>ssio est generalis non sacramentalis, quae
+          <lb ed="#S" n="78"/>fit publice coram multis in ecclesia, in
+          <lb ed="#S" n="79"/>prima, completorio, ante missam; et haec
+          <lb ed="#S" n="80"/>habet efficaciam ex tribus primis et non
+          <lb ed="#S" n="81"/>ex quarto, scilicet ex vi clavium; et propter
+          <lb ed="#S" n="82"/>hoc non subiungitur in prima et
+          com<lb ed="#S" n="83" break="no"/>pletorio absolutio nec satisfactionis
+          <lb ed="#S" n="84"/>iniunctio, sed solum oratio Misereatur
+          <lb ed="#S" n="85"/>tui.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1039">
+          <lb ed="#S" n="86"/>Secundo quaeritur quot modis
+          <lb ed="#S" n="87"/>delentur peccata venialia. Dicendum
+          <lb ed="#S" n="88"/>secundum Ray. in summa sua quod sex
+          mo<lb ed="#S" n="89" break="no"/>dis. Primo per eucharistiae dignam
+          sump<lb ed="#S" n="90" break="no"/>tionem, de conse. di. ii, Cum omne crimen.
+          <pb ed="#S" n="22-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Secundo per aquae benedictae
+          aspersio<lb ed="#S" n="2" break="no"/>nem, de conse. di. iii: Aqua sale
+          consper<lb ed="#S" n="3" break="no"/>sa populos benedicimus, ut ea conspersa
+          <lb ed="#S" n="4"/>sanctificentur. Tertio per ieiunia et
+          ele<lb ed="#S" n="5" break="no"/>mosinarum largitionem, di. lxxxii,
+          Pre<lb ed="#S" n="6" break="no"/>sbyter, et de pe. di. i, Medicinam.
+          Quar<lb ed="#S" n="7" break="no"/>to per devotam orationem, praecipue
+          domini<lb ed="#S" n="8" break="no"/>cam, scilicet Pater noster, de pe. di. iii.
+          Quin<lb ed="#S" n="9" break="no"/>to per generalem confessionem, de pe. di.
+          <lb ed="#S" n="10"/>iii, De cotidianis. Sexto per
+          episcopa<lb ed="#S" n="11" break="no"/>lem benedictionem, i quaestione i,
+          Di<lb ed="#S" n="12" break="no"/>ctum, et sic benedictio et sic multi
+          <lb ed="#S" n="13"/>in fine, scilicet cum quis accipit cum
+          <lb ed="#S" n="14"/>devotione et praecedentia devote
+          fa<lb ed="#S" n="15" break="no"/>cit et implet. Hostiensis autem
+          ad<lb ed="#S" n="16" break="no"/>dit vii, scilicet per devotam pectoris
+          tonsio<lb ed="#S" n="17" break="no"/>nem, de pe. di. i, Tres actiones. Ibidem
+          <lb ed="#S" n="18"/>glosa addit viii, scilicet per extremam
+          unctio<lb ed="#S" n="19" break="no"/>nem, extra de sacra unctione, c. i, c. lu,
+          <lb ed="#S" n="20"/>de pe. Raymundus quoque et G. Durandi addunt
+          <lb ed="#S" n="21"/>nonum, scilicet per benedictionem
+          sacerdota<lb ed="#S" n="22" break="no"/>lem in missa, et hoc probant per
+          auctorita<lb ed="#S" n="23" break="no"/>tes positas super verbo sexto, et xxi di.,
+          Ec<lb ed="#S" n="24" break="no"/>ce ego, et vi di., c. i. Sequitur etiam in
+          <lb ed="#S" n="25"/>summa Raymundus decimus, scilicet quod non solum
+          <lb ed="#S" n="26"/>per ista, sed per cuiuslibet boni operationem
+          <lb ed="#S" n="27"/>deleantur, de pe. di. i, Medicina, ut:
+          Redi<lb ed="#S" n="28" break="no"/>me te operibus tuis. Et nota secundum Thomam
+          <lb ed="#S" n="29"/>quod plura vel pauciora venialia
+          remittun<lb ed="#S" n="30" break="no"/>tur per ista, secundum quod per maiorem vel
+          mi<lb ed="#S" n="31" break="no"/>norem fervorem concitatur, qui de
+          plu<lb ed="#S" n="32" break="no"/>ribus vel paucioribus implicite ad
+          mi<lb ed="#S" n="33" break="no"/>nus contritionem contineat. Unde non
+          <lb ed="#S" n="34"/>oportet quod per haec omnia venialia semper
+          <lb ed="#S" n="35"/>dimittantur. Tertio quaeritur utrum
+          <lb ed="#S" n="36"/>de peccato veniali sit necessaria confessio.
+          <lb ed="#S" n="37"/>Dicendum secundum Thomam quod ad
+          con<lb ed="#S" n="38" break="no"/>fessionem venialium non tenetur homo,
+          <lb ed="#S" n="39"/>sed in casu est dubium; quia certum est
+          <lb ed="#S" n="40"/>quod praeceptum ecclesiae est semel in anno
+          <lb ed="#S" n="41"/>confiteri; ponatur ergo quod aliquis sit
+          <lb ed="#S" n="42"/>homo qui non habet peccatum mortale,
+          <lb ed="#S" n="43"/>numquid talis ex praecepto ecclesiae
+          tene<lb ed="#S" n="44" break="no"/>tur tunc confiteri peccata venialia quae
+          <lb ed="#S" n="45"/>habet. Dicendum: quidam dicunt quod
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="46"/>sic, propter praeceptum ecclesiae servandum.
+          <lb ed="#S" n="47"/>Alii dicunt quod non tenetur, sed sufficit quod
+          <lb ed="#S" n="48"/>in hoc casu praesentet se sacerdoti et esse
+          <lb ed="#S" n="49"/>immunem a peccato mortali ostendat
+          <lb ed="#S" n="50"/>ut possit ad communionem admitti, quia
+          prae<lb ed="#S" n="51" break="no"/>ceptum ecclesiae obligat tantum eos qui
+          <lb ed="#S" n="52"/>habent talia peccata, scilicet mortalia, quae
+          ne<lb ed="#S" n="53" break="no"/>cesse est confiteri. Quarto quaeritur
+          <lb ed="#S" n="54"/>utrum unum veniale sine alio possit
+          di<lb ed="#S" n="55" break="no"/>mitti. Dicendum quod sic, quoniam non habent
+          <lb ed="#S" n="56"/>connexionem adinuicem ex parte
+          aver<lb ed="#S" n="57" break="no"/>sionis, sicut habent peccata mortalia, quia
+          <lb ed="#S" n="58"/>in eis nulla est aversio a deo, nec etiam
+          <lb ed="#S" n="59"/>ex parte conversionis, ut patet; ideo
+          <lb ed="#S" n="60"/>unum veniale sine alio potest dimitti;
+          <lb ed="#S" n="61"/>mortalia autem non, quia quodlibet
+          mor<lb ed="#S" n="62" break="no"/>tale tollit gratiam et caritatem, nec cum
+          <lb ed="#S" n="63"/>caritate stare potest, sine qua nullum
+          pec<lb ed="#S" n="64" break="no"/>catum remittitur; ideo unum
+          morta<lb ed="#S" n="65" break="no"/>le sine alio dimitti non potest.
+          Se<lb ed="#S" n="66" break="no"/>quitur versus: Deus tu convertisti, et:
+          <lb ed="#S" n="67"/>Ostende nobis domine etc. Unde petitur
+          per<lb ed="#S" n="68" break="no"/>fecta conversio et laetificatio; deinde
+          di<lb ed="#S" n="69" break="no"/>vinae misericordiae imploratio:
+          Osten<lb ed="#S" n="70" break="no"/>de nobis domine misericordiam tuam.
+          <lb ed="#S" n="71"/>Et tandem pro omnibus exauditio: Domine
+          <lb ed="#S" n="72"/>exaudi orationem meam etc. Et post dei
+          ad<lb ed="#S" n="73" break="no"/>iutorium: Dominus vobiscum. Et post
+          <lb ed="#S" n="74"/>petit peccatorum ablutionem cum
+          di<lb ed="#S" n="75" break="no"/>citur: Aufer a nobis domine etc.
+          Se<lb ed="#S" n="76" break="no"/>cundum autem ordinem nostrum
+          bre<lb ed="#S" n="77" break="no"/>vius nos expedimus quia primo
+          dici<lb ed="#S" n="78" break="no"/>mus Confiteor, sicut supradictum est,
+          <lb ed="#S" n="79"/>et Misereatur; secundo Absolutionem
+          <lb ed="#S" n="80"/>et remissionem etc.; tertio Adiutorium,
+          <lb ed="#S" n="81"/>et cetera.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1234">
+          <lb ed="#S" n="82"/>De debita
+          suiipsi<lb ed="#S" n="83" break="no"/>us recollectione.
+          <lb ed="#S" n="84"/>Quartum quod spectat ad
+          mi<lb ed="#S" n="85" break="no"/>nistrum est suiipsius debita
+          <lb ed="#S" n="86"/>recollectio, quia his peractis
+          <lb ed="#S" n="87"/>debet se recolligere considerando
+          <pb ed="#S" n="23-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>divinae potentiae assistentiam, ut sic in
+          pri<lb ed="#S" n="2" break="no"/>mis accedat ad altare, ubi ista notantur.
+          <lb ed="#S" n="3"/>Primo quod debet dare osculum altari in
+          <lb ed="#S" n="4"/>signum quod Christus veniens in mundum
+          san<lb ed="#S" n="5" break="no"/>ctam univit ecclesiam in osculo pacis,
+          <lb ed="#S" n="6"/>quod osculum optat ecclesia dicens illud
+          <lb ed="#S" n="7"/>Canticorum i: Osculetur me osculo oris sui.
+          <lb ed="#S" n="8"/>Osculum enim optime designat
+          incar<lb ed="#S" n="9" break="no"/>nationem et unionem naturarum in Christo,
+          <lb ed="#S" n="10"/>quia in osculo os ori coniungitur et in
+          incar<lb ed="#S" n="11" break="no"/>natione divinitas humanitati. Unde Bernardus
+          su<lb ed="#S" n="12" break="no"/>per Cantica dicit quod osculans est verbum
+          <lb ed="#S" n="13"/>dei, osculatum homo est sive natura
+          huma<lb ed="#S" n="14" break="no"/>na. Secundo nota quod debet accipere
+          secun<lb ed="#S" n="15" break="no"/>dum ritum ecclesiarum (quod in ordine
+          <lb ed="#S" n="16"/>nostro non fit) thuribulum, quod est
+          clau<lb ed="#S" n="17" break="no"/>sum inferius et apertum superius et
+          fumi<lb ed="#S" n="18" break="no"/>gans, quod significat quod sacerdos debet esse
+          <lb ed="#S" n="19"/>clausus ad terrena et inferiora, apertus
+          <lb ed="#S" n="20"/>autem ad caelestia et superna, iuxta dictum
+          <lb ed="#S" n="21"/>apostoli: Quae sursum sunt quaerite, non
+          <lb ed="#S" n="22"/>quae sunt super terram; et sic fumum
+          de<lb ed="#S" n="23" break="no"/>votae orationis emittere ad deum debet, cum Ps.
+          <lb ed="#S" n="24"/>dicens: Dirigatur domine oratio mea sicut
+          in<lb ed="#S" n="25" break="no"/>censum et in conspectu etc. Tertio
+          no<lb ed="#S" n="26" break="no"/>ta quod debet crucem accipere et adorare, ut
+          re<lb ed="#S" n="27" break="no"/>cordetur passionem Christi, cuius hoc totum
+          <lb ed="#S" n="28"/>sacrificium est memorativum dicendo:
+          <lb ed="#S" n="29"/>Adoramus te domine et benedicimus.
+          <lb ed="#S" n="30"/>Quarto et ultimo debet librum aperire, quod
+          <lb ed="#S" n="31"/>signat apertio conscientiae; et sic finitur
+          prae<lb ed="#S" n="32" break="no"/>paratio sacerdotis.
+          <lb ed="#S" n="33"/>De his quae
+          sum<lb ed="#S" n="34" break="no"/>mi pontifices addiderunt circa
+          <lb ed="#S" n="35"/>missam.
+          <lb ed="#S" n="36"/>Nunc ergo agamus de
+          addita<lb ed="#S" n="37" break="no"/>mentis summorum pontificum
+          <lb ed="#S" n="38"/>circa officium missae. Quoniam
+          proce<lb ed="#S" n="39" break="no"/>ssum temporis multa circa missae
+          celebratio<lb ed="#S" n="40" break="no"/>nem ad decorem et sollemnitatem
+          addi<lb ed="#S" n="41" break="no"/>ta fuerunt per summos pontifices
+          suc<lb ed="#S" n="42" break="no"/>cessive, ideo quot et quae addiderunt
+          osten<lb ed="#S" n="43" break="no"/>dam nunc, ut ex dictis, gestis et
+          croni<lb ed="#S" n="44" break="no"/>cis pontificum Romanorum habetur.
+          Da<cb ed="#S" n="b"/><lb ed="#S" n="45" break="no"/>masius, Hispanus natione, qui incepit
+          <lb ed="#S" n="46"/>anno dominicae incarnationis lxx. Hic
+          prae<lb ed="#S" n="47" break="no"/>cepit ut presbyter confessionem faciat
+          <lb ed="#S" n="48"/>antequam vadat ad altare; item ut
+          psal<lb ed="#S" n="49" break="no"/>mi in fine cum Gloria patri canentur.
+          Sil<lb ed="#S" n="50" break="no"/>vester primus, natione Romanus, qui
+          <lb ed="#S" n="51"/>incepit anno domini cccxx: hic instituit ut
+          <lb ed="#S" n="52"/>diaconi dalmaticis uterentur in ecclesia,
+          <lb ed="#S" n="53"/>et palleo linestino eorum leva tegatur.
+          <lb ed="#S" n="54"/>Primo quidam sacerdotes utebantur
+          <lb ed="#S" n="55"/>dalmaticis, sed post casularum usum, cum
+          <lb ed="#S" n="56"/>casulis uti cepissent, dalmaticae
+          diaco<lb ed="#S" n="57" break="no"/>nis sunt commissae. Item instituit ut
+          <lb ed="#S" n="58"/>corporalia fierent non de serico, sed de
+          <lb ed="#S" n="59"/>panno lineo albo non intincto et
+          conse<lb ed="#S" n="60" break="no"/>crato, de conse. di. i, Consultu omnium.
+          <lb ed="#S" n="61"/>Stephanus primus, natione
+          Roma<lb ed="#S" n="62" break="no"/>nus, qui incepit anno domini ccclviii:
+          <lb ed="#S" n="63"/>hic instituit ut vestimenta ecclesiae
+          qui<lb ed="#S" n="64" break="no"/>bus deo ministratur sacra sint et
+          hone<lb ed="#S" n="65" break="no"/>sta, quibus in aliis quam in ecclesiasticis
+          usi<lb ed="#S" n="66" break="no"/>bus nemo debet uti, de conse. di. i,
+          Ve<lb ed="#S" n="67" break="no"/>stimenta ecclesiae. Celestinus primus,
+          <lb ed="#S" n="68"/>natione Romanus, qui incepit anno
+          do<lb ed="#S" n="69" break="no"/>mini ccccxxvii: hic instituit ut ad
+          in<lb ed="#S" n="70" break="no"/>troitum missae officium diceretur; nam
+          <lb ed="#S" n="71"/>antea a lectionibus inchoabant missam
+          <lb ed="#S" n="72"/>qui adhuc usus retinetur in vigilia
+          Pa<lb ed="#S" n="73" break="no"/>schae et Pentecostes. Item quod Ps. cl cum
+          <lb ed="#S" n="74"/>antiphonis ante sacrificium
+          psalleren<lb ed="#S" n="75" break="no"/>tur, quod antea non fiebat, sed
+          epi<lb ed="#S" n="76" break="no"/>stola et evangelium recitabantur, et sic
+          <lb ed="#S" n="77"/>missae celebrantur. Thelesphorus,
+          na<lb ed="#S" n="78" break="no"/>tione Graecus, successit Sixto anno
+          domi<lb ed="#S" n="79" break="no"/>ni ccccxxxix: hic in nocte natalis
+          do<lb ed="#S" n="80" break="no"/>mini instituit tres missas a
+          presbyte<lb ed="#S" n="81" break="no"/>ris celebrari et in illis hymnum
+          angeli<lb ed="#S" n="82" break="no"/>cum decantari, de conse. di. i, Nocte
+          <lb ed="#S" n="83"/>sancta. Gregorius tertius, natione
+          <lb ed="#S" n="84"/>Romanus, incepit anno domini
+          octin<lb ed="#S" n="85" break="no"/>gentesimo xxxi, faciens oratorium
+          <lb ed="#S" n="86"/>in basilica beati Petri in honore
+          omni<lb ed="#S" n="87" break="no"/>um sanctorum, et cotidiana officia
+          <lb ed="#S" n="88"/>ibidem ac missas in eorum
+          veneratio<lb ed="#S" n="89" break="no"/>ne constituit celebrari.
+          <pb ed="#S" n="23-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Gregorius primus, natione Romanus,
+          <lb ed="#S" n="2"/>incepit anno domini ccccclxxxi. Hic
+          insti<lb ed="#S" n="3" break="no"/>tuit cantari antiphonam ante missam quae
+          <lb ed="#S" n="4"/>dicitur introitus; deinde Kyrieleison
+          noni<lb ed="#S" n="5" break="no"/>es; post epistolam graduale et alleluia extra
+          <lb ed="#S" n="6"/>lxx cantari instituit, et tunc tractus. Item
+          <lb ed="#S" n="7"/>addidit in canone: Diesque nostros in tua
+          <lb ed="#S" n="8"/>pace disponis. Item post canonem
+          conse<lb ed="#S" n="9" break="no"/>crationis addidit: Praeceptis salutaribus
+          <lb ed="#S" n="10"/>moniti etc.; et orationem dominicam alta voce
+          <lb ed="#S" n="11"/>super hostiam censuit cantari.
+          Ordinatio<lb ed="#S" n="12" break="no"/>nem cantus etiam diurnis sive nocturnis
+          <lb ed="#S" n="13"/>dicendum horis creditur plenaria
+          ordi<lb ed="#S" n="14" break="no"/>natione distribuisse; tamen multi ante eum
+          si<lb ed="#S" n="15" break="no"/>ve post eum orationes, antiphonas et
+          re<lb ed="#S" n="16" break="no"/>sponsoria composuerunt. Urbanus
+          pri<lb ed="#S" n="17" break="no"/>mus, natione Romanus, a b. Petro xviii,
+          in<lb ed="#S" n="18" break="no"/>cepit anno domini ccxxvii; vasa sacra
+          argen<lb ed="#S" n="19" break="no"/>tea fieri fecit, cum prius essent lignea
+          <lb ed="#S" n="20"/>vel vitrea, de conse. di. i, Vasa sacra.
+          So<lb ed="#S" n="21" break="no"/>ther, natione Campanus, incepit anno
+          do<lb ed="#S" n="22" break="no"/>mini clxxv. Hic instituit ut feminae
+          <lb ed="#S" n="23"/>moniales dedicatae sacra vasa vel pallas
+          <lb ed="#S" n="24"/>sacratas minime contingerent nec
+          incen<lb ed="#S" n="25" break="no"/>sum circa altaria deferrent, di. xxiii,
+          Sa<lb ed="#S" n="26" break="no"/>cratas deo. Bonifacius primus, natione
+          <lb ed="#S" n="27"/>Romanus, incepit anno domini ccccxxv. Hic
+          <lb ed="#S" n="28"/>introduxit ne moniales seu quaecumque
+          <lb ed="#S" n="29"/>mulieres vasa sacra contingerent nec
+          pal<lb ed="#S" n="30" break="no"/>las sibi, sicut praedecessor suus
+          Sima<lb ed="#S" n="31" break="no"/>chus, natione Sardus, incepit anno domini
+          <lb ed="#S" n="32"/>quingentesimo. Hic instituit quod hymnus
+          <lb ed="#S" n="33"/>angelicus cantaretur in diebus dominicis et in
+          <lb ed="#S" n="34"/>natalitiis apostolorum et martyrum, et ea quae
+          se<lb ed="#S" n="35" break="no"/>quuntur post verba angeli addidit in
+          eo<lb ed="#S" n="36" break="no"/>dem; in Decretis tamen, de conse. di. i, De hymnis,
+          <lb ed="#S" n="37"/>scribitur quod reliqua quae sequuntur ibi
+          eccle<lb ed="#S" n="38" break="no"/>siastici doctores composuerunt. Gelasius
+          <lb ed="#S" n="39"/>primus, natione Afer, incepit anno domini
+          <lb ed="#S" n="40"/>cccclxxxiiii: hic fecit orationes seu
+          colle<lb ed="#S" n="41" break="no"/>ctas, tractus quoque, hymnos, sicut
+          Ambro<lb ed="#S" n="42" break="no"/>sius; item praefationem communem
+          mi<lb ed="#S" n="43" break="no"/>ssae cotidianam: Vere dignum etc.
+          Ihero<lb ed="#S" n="44" break="no"/>nimus presbyter cardinalis epistolas et
+          <lb ed="#S" n="45"/>evangelia ordinavit in libro qui comes
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="46"/>dicitur, sicut ipse ait ad Constantium
+          epi<lb ed="#S" n="47" break="no"/>scopum scribens. Marchus, natione
+          <lb ed="#S" n="48"/>Romanus, successit Silvestro anno domini
+          <lb ed="#S" n="49"/>cccxxxix vel xl: hic statuit quod symbolum
+          <lb ed="#S" n="50"/>Nicenum post evangelium alta voce dicatur
+          <lb ed="#S" n="51"/>in missa. Anastasius primus, natione
+          Ro<lb ed="#S" n="52" break="no"/>manus, incepit anno domini cccciiii:
+          sta<lb ed="#S" n="53" break="no"/>tuit ut, dum evangelia leguntur in ecclesia,
+          <lb ed="#S" n="54"/>sacerdotes et ceteri omnes non sederent, sed
+          <lb ed="#S" n="55"/>venerabiliter curvi in conspectu evangelii
+          <lb ed="#S" n="56"/>stantes dominica verba attente audirent.
+          <lb ed="#S" n="57"/>De conse. di. i, Apostolica. Leo primus,
+          na<lb ed="#S" n="58" break="no"/>tione Tuscus, incepit anno domini ccccxliii:
+          <lb ed="#S" n="59"/>hic statuit ut finito offertorio super
+          ob<lb ed="#S" n="60" break="no"/>lata incensum in memoriam mortis
+          re<lb ed="#S" n="61" break="no"/>demptoris ponatur. Item adiunxit in
+          ca<lb ed="#S" n="62" break="no"/>none: Hanc igitur oblationem. Item
+          statu<lb ed="#S" n="63" break="no"/>it in canone dici: Sanctum sacrificium,
+          im<lb ed="#S" n="64" break="no"/>maculatam hostiam. Pelagius, natione
+          Ro<lb ed="#S" n="65" break="no"/>manus, incepit anno domini quingentesimo
+          <lb ed="#S" n="66"/>viii. Hic statuit praefationes decem, ut
+          <lb ed="#S" n="67"/>habetur de conse. di. i, Invenimus. Clemens
+          <lb ed="#S" n="68"/>primus, natione Romanus, post Petrum
+          an<lb ed="#S" n="69" break="no"/>no domini lxxi, post Cletum vero papam
+          in<lb ed="#S" n="70" break="no"/>cepit anno domini nonagesimotertio. Hic
+          <lb ed="#S" n="71"/>Clemens instituit in canone ante
+          consecra<lb ed="#S" n="72" break="no"/>tionem hostiae: Te igitur clementissime
+          <lb ed="#S" n="73"/>pater una cum filio tuo papa nostro.
+          Alex<lb ed="#S" n="74" break="no"/>ander primus, natione Romanus, cepit
+          <lb ed="#S" n="75"/>anno domini cxxi: hic instituit fieri
+          me<lb ed="#S" n="76" break="no"/>moriam passionis domini in canone missae
+          <lb ed="#S" n="77"/>et addit: Qui pridie etc. Et quia de latere
+          <lb ed="#S" n="78"/>Christi exivit sanguis et aqua, Io. xix, ideo
+          <lb ed="#S" n="79"/>aquam misceri vino instituit et in
+          con<lb ed="#S" n="80" break="no"/>secratione unum sine alio non offerri
+          de<lb ed="#S" n="81" break="no"/>cernens, de conse. di. ii, Sacramentorum; et ideo
+          <lb ed="#S" n="82"/>instituit ut haec oblatio fieret ex azimo
+          <lb ed="#S" n="83"/>et in modica quantitate, dicens: Quanto
+          pau<lb ed="#S" n="84" break="no"/>cior, tanto potior. Rursum praecepit aquam
+          <lb ed="#S" n="85"/>cum sale exorcizata et benedicta populum
+          <lb ed="#S" n="86"/>aspergi, de conse. di. iii, Aquam. Sixtus
+          <lb ed="#S" n="87"/>primus, natione Romanus, successit
+          Alex<lb ed="#S" n="88" break="no"/>andro et incepit anno domini cxxix: hic
+          in<lb ed="#S" n="89" break="no"/>stituit ut diceretur ter Sanctus sanctus
+          san<lb ed="#S" n="90" break="no"/>ctus dominus etc. Item quod sacra vasa non
+          <pb ed="#S" n="24-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>tangerentur nisi a ministris sacris, de
+          <lb ed="#S" n="2"/>conse. di. i, In sancta. Sergius, natione
+          <lb ed="#S" n="3"/>Syrus, incepit anno domini septuagesimo
+          <lb ed="#S" n="4"/>octavo. Hic instituit tempore fractionis
+          do<lb ed="#S" n="5" break="no"/>minici corporis ter Agnus dei etc. a clero
+          <lb ed="#S" n="6"/>et populo decantari, ut praeparati ad
+          dispen<lb ed="#S" n="7" break="no"/>sandum corpus dominicum rogent
+          accep<lb ed="#S" n="8" break="no"/>tari, quatenus ille qui pro peccatis oblatus
+          <lb ed="#S" n="9"/>est innocens faciat eos salubriter
+          pig<lb ed="#S" n="10" break="no"/>nora salutis accipere. Unde subditur: Haec
+          sa<lb ed="#S" n="11" break="no"/>crosancta commixtio. Et sic patet quot et quae
+          <lb ed="#S" n="12"/>addita sunt ad decorem et sollemnitatem
+          <lb ed="#S" n="13"/>circa officium missae a summis pontificibus,
+          <lb ed="#S" n="14"/>et qui fuerunt addentes. Et advertas quod
+          <lb ed="#S" n="15"/>non sum prosecutus summos pontifices secundum
+          <lb ed="#S" n="16"/>tempus ipsorum, immo aliquando
+          poste<lb ed="#S" n="17" break="no"/>riores praeposui et econtrario, et hoc propter
+          <lb ed="#S" n="18"/>illorum ordinem quae addita sunt per eos, quorum
+          <lb ed="#S" n="19"/>ordinem plus volui servare, quia de tempore
+          <lb ed="#S" n="20"/>ipsorum satis est notum secundum numerum
+          incar<lb ed="#S" n="21" break="no"/>nationis.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1699">
+          <lb ed="#S" n="22"/>De praeparatione
+          <lb ed="#S" n="23"/>populi. Pars ii principalis.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1706">
+          <lb ed="#S" n="24"/>Haec est secunda pars principalis
+          <lb ed="#S" n="25"/>primi capituli, in qua agitur de
+          <lb ed="#S" n="26"/>praeparatione populi, incipiendo a
+          <lb ed="#S" n="27"/>toto officio missae. Pars enim ista
+          subdivi<lb ed="#S" n="28" break="no"/>ditur in quattuor partes, secundum quod quattuor
+          <lb ed="#S" n="29"/>sunt quae debet facere populus ut bene
+          <lb ed="#S" n="30"/>praeparetur. Nam primo debet venire cum
+          <lb ed="#S" n="31"/>mentis devotione, et hoc signat officium;
+          se<lb ed="#S" n="32" break="no"/>cundo cum mentis humiliatione, et hoc signat
+          <lb ed="#S" n="33"/>Kyrieleison; tertio cum mentis erectione,
+          <lb ed="#S" n="34"/>et hoc signat Gloria in excelsis; quarto cum
+          <lb ed="#S" n="35"/>petenti intentione, et hoc signat collecta
+          <lb ed="#S" n="36"/>sive oratio. Dico ergo primo quod prima
+          <lb ed="#S" n="37"/>praeparatio populi est quod populus debet
+          ve<lb ed="#S" n="38" break="no"/>nire cum devotione mentis, et hoc significat
+          <lb ed="#S" n="39"/>officium sive introitus. Circa quod
+          viden<lb ed="#S" n="40" break="no"/>da sunt septem.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1746">
+          <lb ed="#S" n="41"/>Primo quaeritur quid significat introitus.
+          <lb ed="#S" n="42"/>Dicendum quod secundum Innocentium quod signat sanctorum
+          <lb ed="#S" n="43"/>patrum desiderium adventum filii dei
+          exspe<lb ed="#S" n="44" break="no"/>ctantium et dicentium: Emitte agnum domine
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="45"/>dominatorem terrae etc. Et Isa.: Veni
+          domi<lb ed="#S" n="46" break="no"/>ne et noli tardare. Et ideo primus
+          introi<lb ed="#S" n="47" break="no"/>tus primae dominicae adventus est specialiter
+          <lb ed="#S" n="48"/>de adventu eius: Ad te levavi animam
+          <lb ed="#S" n="49"/>meam etc.; et signat suspirium patrum. Vocatur
+          <lb ed="#S" n="50"/>autem introitus quia per ipsum missam
+          incho<lb ed="#S" n="51" break="no"/>amus. Resumptio autem signat
+          multiplici<lb ed="#S" n="52" break="no"/>tatem clamoris, vel duplicatur quia in tota
+          <lb ed="#S" n="53"/>nostra actione debemus declinare a malo
+          <lb ed="#S" n="54"/>et facere bonum.
+          <lb ed="#S" n="55"/>Secundo quaeritur quare sic ordinatur
+          <lb ed="#S" n="56"/>et cantatur. Dicendum quod per introitum vel
+          <lb ed="#S" n="57"/>antiphonam significatur desiderii aviditas, sed
+          <lb ed="#S" n="58"/>per versum significatur desiderii
+          immensi<lb ed="#S" n="59" break="no"/>tas; nam aliqui dicebant: Utinam
+          disrum<lb ed="#S" n="60" break="no"/>peres caelos et venires, Ieremiae lxiiii; et
+          <lb ed="#S" n="61"/>alii dicebant: Mitte quem missurus es.
+          <lb ed="#S" n="62"/>Tertio quare communiter etc., Exo. iiii,
+          <lb ed="#S" n="63"/>versus ponitur de psalmo, et aliquando totus
+          <lb ed="#S" n="64"/>introitus, ut in pluribus. Dicendum quod
+          cau<lb ed="#S" n="65" break="no"/>sa est duplex: quia in primitiva ecclesia,
+          <lb ed="#S" n="66"/>iuxta ordinationem Celestini papae,
+          can<lb ed="#S" n="67" break="no"/>tabantur multi psalmi, scilicet cl, quia tunc non
+          <lb ed="#S" n="68"/>dicebant in missa nisi epistolas et
+          evange<lb ed="#S" n="69" break="no"/>lium et orationes secretas, ut habetur de conse.
+          <lb ed="#S" n="70"/>di. i, ubi dicit quod Pelagius papa propter
+          <lb ed="#S" n="71"/>taedium cantantium et gravamen et propter
+          <lb ed="#S" n="72"/>multitudinem populorum ordinavit quod de
+          <lb ed="#S" n="73"/>illis psalmis sumeretur aliqua pars in qua
+          <lb ed="#S" n="74"/>intentio psalmi explicaretur, sicut est
+          in<lb ed="#S" n="75" break="no"/>troitus, commune, versus, graduale, alleluia,
+          <lb ed="#S" n="76"/>offertorium et communiones; et sunt aliqui
+          <lb ed="#S" n="77"/>versus non sumpti de psalmis. Sed
+          no<lb ed="#S" n="78" break="no"/>ta quod propter reverentiam aliqui sancti habent
+          <lb ed="#S" n="79"/>introitus et versus speciales, sicut beata
+          <lb ed="#S" n="80"/>virgo: Salve sancta parens; et omnes sancti:
+          <lb ed="#S" n="81"/>Gaudeamus omnes in domino; et doctores:
+          <lb ed="#S" n="82"/>In medio ecclesiae. Alia causa est quia,
+          di<lb ed="#S" n="83" break="no"/>cit Isidorus, liber psalmorum quod quasi
+          conclu<lb ed="#S" n="84" break="no"/>sive continet totam scripturam quia in eo
+          <lb ed="#S" n="85"/>scribitur praemium beatorum, ut ibi: Gratiam et
+          <lb ed="#S" n="86"/>gloriam dabit dominus; supplicium malorum,
+          <lb ed="#S" n="87"/>ibi: Veniet mors super illos etc.; perfectio
+          vir<lb ed="#S" n="88" break="no"/>tutum, ibi: Ibunt sancti de virtute in
+          <lb ed="#S" n="89"/>virtutem; perfectio operationum, ibi:
+          <pb ed="#S" n="24-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Expecta dominum, viriliter age etc.; vita
+          aeter<lb ed="#S" n="2" break="no"/>na beatorum, ibi: Credo videre bona domini
+          <lb ed="#S" n="3"/>etc.; speculatio supernorum, ibi: Placebo
+          do<lb ed="#S" n="4" break="no"/>mine in regione vivorum. Ideo ut in
+          plu<lb ed="#S" n="5" break="no"/>ribus de psalmis sumuntur.
+          <lb ed="#S" n="6"/>Quarto quaeritur quare ibi ponitur Gloria
+          <lb ed="#S" n="7"/>patri. Et dicendum quod ad gloriam laudem
+          trini<lb ed="#S" n="8" break="no"/>tatis, incarnationem quam sancti patres
+          deside<lb ed="#S" n="9" break="no"/>rabant operantis; nam quamvis solus filius
+          fu<lb ed="#S" n="10" break="no"/>erit incarnatus, tamen tota trinitas operata
+          <lb ed="#S" n="11"/>est incarnationem. Vel secundum Innocentium
+          interpo<lb ed="#S" n="12" break="no"/>nitur Gloria, quod significat benivolentiae
+          capta<lb ed="#S" n="13" break="no"/>tionem, ut facilius optinerent quod ad
+          <lb ed="#S" n="14"/>totam trinitatem clamabant dicentes:
+          <lb ed="#S" n="15"/>Ostende nobis domine misericordiam tuam etc.
+          <lb ed="#S" n="16"/>Quinto quaeritur quare Gloria patri aliquando
+          <lb ed="#S" n="17"/>non dicitur, sicut patet in missa de mortuis
+          <lb ed="#S" n="18"/>et etiam a dominica in passione usque ad
+          <lb ed="#S" n="19"/>Pascha. Dicendum quod non dicitur in missa de
+          <lb ed="#S" n="20"/>mortuis propter tria: primo propter eorum
+          <lb ed="#S" n="21"/>incertitudinem de eorum liberatione, ideo non
+          <lb ed="#S" n="22"/>possumus cum eis cantare; secundo quia
+          <lb ed="#S" n="23"/>creditur eos esse in statu poenae, scilicet
+          purgati<lb ed="#S" n="24" break="no"/>onis, a gloria distantes; tertio quia ibi nil
+          <lb ed="#S" n="25"/>meritorium agunt, sed tantum poenam solvunt.
+          <lb ed="#S" n="26"/>A dominica etiam in passione usque ad Pascha
+          <lb ed="#S" n="27"/>non dicitur Gloria, quia tunc fit memoria de
+          passi<lb ed="#S" n="28" break="no"/>one filii dei qua in mentibus nostris
+          memo<lb ed="#S" n="29" break="no"/>rata plus nobis lugere licet quam gaudere.
+          <lb ed="#S" n="30"/>Sexto quaeritur quare introitus
+          resu<lb ed="#S" n="31" break="no"/>mitur. Dicendum quod ideo quia tam praecedentes
+          <lb ed="#S" n="32"/>Christum, scilicet patriarchae et prophetae, quam sequentes,
+          <lb ed="#S" n="33"/>scilicet apostoli et evangelistae et alii sancti,
+          concor<lb ed="#S" n="34" break="no"/>des sunt de fide Christi, quia turba quae praecedebat
+          <lb ed="#S" n="35"/>et sequebatur clamabant dicentes: Osanna
+          fi<lb ed="#S" n="36" break="no"/>lio David etc., Math. xxi.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1939">
+          <lb ed="#S" n="37"/>Septimo quaeritur quare officium in
+          <lb ed="#S" n="38"/>diebus festivis secundum aliquos triplicatur.
+          <lb ed="#S" n="39"/>Dicendum: in laudem trinitatis; sed Gloria debet
+          <lb ed="#S" n="40"/>semel propter gloriam unius incarnationis.
+          <lb ed="#S" n="41"/>Dicitur autem bis in aliis diebus in laudem
+          di<lb ed="#S" n="42" break="no"/>vinae et humanae naturae quae in persona
+          fi<lb ed="#S" n="43" break="no"/>lii dei sunt unitae. In ordine autem nostro semper
+          <lb ed="#S" n="44"/>et dicitur bis et non pluries.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1959">
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="45"/>De secunda
+          praepa<lb ed="#S" n="46" break="no"/>ratione populi et Kyrieleison. Pars ii.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1968">
+          <lb ed="#S" n="47"/>Secunda praeparatio populi est quod
+          po<lb ed="#S" n="48" break="no"/>pulus debet venire cum mentis
+          <lb ed="#S" n="49"/>humiliatione, quod signat Kyrieleison,
+          <lb ed="#S" n="50"/>quod statim immediate sequitur.
+          Cir<lb ed="#S" n="51" break="no"/>ca quod videnda sunt septem.
+          Pri<lb ed="#S" n="52" break="no"/>mo quaeritur quid signat. Et dicendum
+          <lb ed="#S" n="53"/>quod Kyrieleison signat idem quod Miserere
+          <lb ed="#S" n="54"/>domine; nam kyrios Graece idem est quod
+          <lb ed="#S" n="55"/>dominus Latine, leyson idem quod miserere.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e1990">
+          <lb ed="#S" n="56"/>Secundo quaeritur quare dicitur in missa cum
+          <lb ed="#S" n="57"/>sit Graecum. Ad quod dicendum quod in
+          offi<lb ed="#S" n="58" break="no"/>ciis missae quaedam sunt vocabula
+          Grae<lb ed="#S" n="59" break="no"/>ca, sicut kyrieleison, quaedam Hebraea, ut
+          <lb ed="#S" n="60"/>alleluia, sabaoth, osanna, amen; cetera
+          om<lb ed="#S" n="61" break="no"/>nia Latina; et causa est ut in omni lingua
+          <lb ed="#S" n="62"/>laudemus deum. Iterum hoc fit in
+          memo<lb ed="#S" n="63" break="no"/>ria passionis Christi, cuius titulus scriptus
+          <lb ed="#S" n="64"/>fuit tribus linguis, ut dicitur Iohannis xix.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2012">
+          <lb ed="#S" n="65"/>Tertio quaeritur quare in tali
+          nume<lb ed="#S" n="66" break="no"/>ro dicitur, scilicet nonies. Et dicendum quod ratio est
+          <lb ed="#S" n="67"/>multiplex. Prima est quia petimus dei
+          <lb ed="#S" n="68"/>misericordiam, ut ad completionem novem
+          <lb ed="#S" n="69"/>ordinum angelorum valemus pervenire; nam
+          <lb ed="#S" n="70"/>de quocumque ordine aliqui ceciderunt, id est
+          fui<lb ed="#S" n="71" break="no"/>ssent de ordine quolibet si stetissent, quia
+          <lb ed="#S" n="72"/>nondum erant secundum aliquos distincti;
+          <lb ed="#S" n="73"/>sic ergo ut ruinas illorum novem ordinum
+          <lb ed="#S" n="74"/>implere valeamus, nonies cantatur.
+          Se<lb ed="#S" n="75" break="no"/>cunda ratio est ut impetremus veniam
+          no<lb ed="#S" n="76" break="no"/>vem culparum, scilicet septem mortalium et peccati
+          <lb ed="#S" n="77"/>originalis et peccati venialis. Tertia ratio
+          <lb ed="#S" n="78"/>est quia est peccatum fragilitatis per
+          impoten<lb ed="#S" n="79" break="no"/>tiam, et hoc est contra patrem; simplicitatis
+          <lb ed="#S" n="80"/>per ignorantiam, et hoc contra filium; et
+          ma<lb ed="#S" n="81" break="no"/>lignitatis per invidentiam, et hoc contra
+          <lb ed="#S" n="82"/>spiritum sanctum. Et quodlibet istorum tribus
+          <lb ed="#S" n="83"/>modis multiplicatur, scilicet corde, ore et opere;
+          <lb ed="#S" n="84"/>ideo cuilibet personae divinae ter dicimus
+          <lb ed="#S" n="85"/>Kyrieleison vel Miserere domine, ut prima
+          <lb ed="#S" n="86"/>trinitas referatur ad patrem, secunda ad
+          <lb ed="#S" n="87"/>Christum (ideo Christeleison), tertia ad sanctum
+          <lb ed="#S" n="88"/>spiritum. Quarta ratio est ut scilicet
+          miseri<pb ed="#S" n="25-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1" break="no"/>cordiam impetremus, quia novem modis
+          <lb ed="#S" n="2"/>indigemus: primo tribus modis quantum
+          <lb ed="#S" n="3"/>ad ea quarum impetremus remissionem, scilicet
+          <lb ed="#S" n="4"/>corde, ore et opere; secundo tribus modis
+          quan<lb ed="#S" n="5" break="no"/>tum ad gratiae collationem, scilicet fidei, spei
+          <lb ed="#S" n="6"/>et caritatis; tertio tribus modis quantum
+          <lb ed="#S" n="7"/>ad glorificationem, qua gaudebimus supra
+          <lb ed="#S" n="8"/>nos in deo, scilicet tota trinitate, intra nos,
+          <lb ed="#S" n="9"/>scilicet de glorificatione animae et corporis, et
+          cir<lb ed="#S" n="10" break="no"/>ca nos, scilicet de sanctis et angelis. Quinta
+          <lb ed="#S" n="11"/>ratio est ut novem effectus gratiae
+          im<lb ed="#S" n="12" break="no"/>petremus, qui sunt vivificatio, similitudo,
+          <lb ed="#S" n="13"/>glorificatio, purgatio, purgationis
+          per<lb ed="#S" n="14" break="no"/>fectio, illuminatio, excitatio ad bonum,
+          <lb ed="#S" n="15"/>iustificatio, praemiatio.
+          <lb ed="#S" n="16"/>Quarto quaeritur quare sic deformiter
+          ordi<lb ed="#S" n="17" break="no"/>natur quod in tribus primis vicibus dicimus
+          Ky<lb ed="#S" n="18" break="no"/>rieleison et tribus ultimis, sed in tribus
+          me<lb ed="#S" n="19" break="no"/>diis dicimus Christeleison. Et dicendum
+          <lb ed="#S" n="20"/>quod primus ternarius attribuitur patri, tertius
+          <lb ed="#S" n="21"/>spiritui sancto, quae duae personae non assumpserunt
+          <lb ed="#S" n="22"/>naturam humanam; ideo illi ternarii dicuntur
+          <lb ed="#S" n="23"/>uniformiter. Filius autem assumpsit aliam
+          na<lb ed="#S" n="24" break="no"/>turam, scilicet humanam, sic quod natura
+          divi<lb ed="#S" n="25" break="no"/>nitatis et humanitatis in Christo unum
+          suppo<lb ed="#S" n="26" break="no"/>situm intelliguntur, quia deus et homo unus
+          <lb ed="#S" n="27"/>est Christus, ut in symbolo Athanasii. Ideo
+          <lb ed="#S" n="28"/>in medio trinarii dicitur Christeleison
+          di<lb ed="#S" n="29" break="no"/>versimode ab aliis, quia, licet sit eiusdem
+          <lb ed="#S" n="30"/>naturae cum eis quantum ad divinitatem, tamen est
+          <lb ed="#S" n="31"/>alterius quantum ad humanitatem.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2137">
+          <lb ed="#S" n="32"/>Quinto quaeritur quare media persona
+          tri<lb ed="#S" n="33" break="no"/>narie ponitur Christeleison. Responsio: quia ipse est media
+          <lb ed="#S" n="34"/>persona in divinis; item quia ipse habet
+          rati<lb ed="#S" n="35" break="no"/>onem multiplicis medii, scilicet grammatici
+          <lb ed="#S" n="36"/>tenentis congruitatem, logicae tenentis
+          veri<lb ed="#S" n="37" break="no"/>tatem, physici destruentis pravitatem,
+          <lb ed="#S" n="38"/>ethici deferentis bonitatem,
+          mathema<lb ed="#S" n="39" break="no"/>tici abstrahentis, scilicet diaboli potestatem.
+          <lb ed="#S" n="40"/>Sexto quaeritur quare alternatim
+          canta<lb ed="#S" n="41" break="no"/>tur. Et dicendum quod in primitiva ecclesia
+          <lb ed="#S" n="42"/>tam a populo quam a clero cantabatur, quod etiam
+          <lb ed="#S" n="43"/>nunc, ut dicitur, in coronatione papae servatur;
+          <lb ed="#S" n="44"/>sed propter dissonantiam beatus Gregorius
+          <lb ed="#S" n="45"/>ordinavit ut a clericis alternatim
+          can<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>taretur.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2173">
+          <lb ed="#S" n="47"/>Septimo quaeritur quare sequitur
+          imme<lb ed="#S" n="48" break="no"/>diate post officium. Et dicendum quod, ut
+          di<lb ed="#S" n="49" break="no"/>ctum est, officium designat desiderium
+          ad<lb ed="#S" n="50" break="no"/>ventus Christi in carnem; ideo post sequitur
+          <lb ed="#S" n="51"/>Kyrieleison, ubi adventus spiritualis in
+          <lb ed="#S" n="52"/>mente petitur; ideo dicitur Kyrieleison.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2189">
+          <lb ed="#S" n="53"/>De tertia
+          praepa<lb ed="#S" n="54" break="no"/>ratione populi et Gloria in excelsis. Pars iii.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2196">
+          <lb ed="#S" n="55"/>Tertia praeparatio est quod populus
+          <lb ed="#S" n="56"/>debet venire cum mentis erectione,
+          <lb ed="#S" n="57"/>quod designat canticum angelorum
+          <lb ed="#S" n="58"/>scilicet Gloria in excelsis deo. Circa quod
+          <lb ed="#S" n="59"/>videnda sunt tria. Primo pono quaedam
+          <lb ed="#S" n="60"/>notabilia et dubia ad eius declarationem.
+          <lb ed="#S" n="61"/>Secundo procedam ad eius expositionem.
+          <lb ed="#S" n="62"/>Tertio movebo duplicem dubitationem et
+          <lb ed="#S" n="63"/>secundum hoc habet tria membra.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2218">
+          <lb ed="#S" n="64"/>Circa primum quaeruntur multa.
+          <lb ed="#S" n="65"/>Primo quaeritur quare immediate post
+          <lb ed="#S" n="66"/>introitum et Kyrieleison sequitur Gloria
+          <lb ed="#S" n="67"/>in excelsis. Ad quod dicendum, ut praedictum est,
+          <lb ed="#S" n="68"/>quod per officium et Kyrieleison duplex Christi
+          <lb ed="#S" n="69"/>adventus designatur; post utrumque autem
+          <lb ed="#S" n="70"/>adventum Christi, scilicet in carnem et in mentem,
+          <lb ed="#S" n="71"/>debet homo gaudere laetitia spirituali et eam
+          <lb ed="#S" n="72"/>exprimere vocali voce quod fit in gloria in
+          <lb ed="#S" n="73"/>excelsis deo. Ideo statim post officium
+          <lb ed="#S" n="74"/>et Kyrieleison sequitur.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2244">
+          <lb ed="#S" n="75"/>Secundo quaeritur quare ipsum sacerdos
+          <lb ed="#S" n="76"/>primo incipit et pronuntiat et postea clerus
+          <lb ed="#S" n="77"/>prosequitur. Ad quod dicendum quod sacerdos
+          sig<lb ed="#S" n="78" break="no"/>nat angelum primo cantantem, sed chorus
+          <lb ed="#S" n="79"/>illos de quibus dicitur: Facta est cum angelo
+          <lb ed="#S" n="80"/>multitudo caelestis laudantium et dicentium:
+          <lb ed="#S" n="81"/>Gloriam altissimis deo etc., Lu. ii.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2263">
+          <lb ed="#S" n="82"/>Tertio quaeritur quare dicitur in medio
+          <lb ed="#S" n="83"/>altaris, quia ibi incipitur a sacerdote. Ad quod
+          <lb ed="#S" n="84"/>dicendum quod iste hymnus angelicus fuit
+          <lb ed="#S" n="85"/>dictus ad laudem Christi; apostolus autem dicit
+          <lb ed="#S" n="86"/>quod mediator dei et hominum homo Christus
+          <lb ed="#S" n="87"/>Iesus; ut ergo signat Christum mediatorem,
+          <lb ed="#S" n="88"/>dicitur in medio altaris. Item quia Christus
+          <lb ed="#S" n="89"/>natus fuit in media nocte iuxta illud
+          <pb ed="#S" n="25-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>sapientiae: Dum medium silentium teneret
+          <lb ed="#S" n="2"/>omnia et nox in suo cursu etc. Item ut
+          <lb ed="#S" n="3"/>detur intelligi quod angelus qui primo
+          <lb ed="#S" n="4"/>cantavit erat in medio illorum.
+          <lb ed="#S" n="5"/>Quarto quaeritur quare vertit faciem
+          <lb ed="#S" n="6"/>ad orientem. Ad quod dicendum quod, ut
+          di<lb ed="#S" n="7" break="no"/>ctum est, iste hymnus fuit cantatus in
+          na<lb ed="#S" n="8" break="no"/>tivitate Christi et in ortu suo; de Christo autem
+          <lb ed="#S" n="9"/>dicitur Iob iii: Ecce vir oriens nomen eius;
+          <lb ed="#S" n="10"/>et Lucae ii: Visitavit nos oriens ex alto. Ad
+          <lb ed="#S" n="11"/>designandum ergo ipsum Christum, qui est
+          ori<lb ed="#S" n="12" break="no"/>ens, dicitur versa facie ad orientem.
+          <lb ed="#S" n="13"/>Quinto quaeritur quare a toto choro
+          <lb ed="#S" n="14"/>cantatur, nam totus chorus respondet statim post
+          <lb ed="#S" n="15"/>inceptionem sacerdotis. Ad quod dicendum
+          <lb ed="#S" n="16"/>quod hoc fit ut detur intelligi affectio
+          inten<lb ed="#S" n="17" break="no"/>sa quam habet ecclesia essendi cum angelis; sed
+          <lb ed="#S" n="18"/>dicitur ab omnibus similiter, quia fiet unus
+          cho<lb ed="#S" n="19" break="no"/>rus angelorum et hominum, quia erunt sicut angeli.
+          <lb ed="#S" n="20"/>Sexto quaeritur quare ‹…› dei in caelis
+          <lb ed="#S" n="21"/>hymnus angelicus dicitur. Ad quod
+          dicen<lb ed="#S" n="22" break="no"/>dum quod ideo, quia fuit primo ab angelis
+          <lb ed="#S" n="23"/>cantatus, de conse. di. i, Hii duo: nam Gloria
+          <lb ed="#S" n="24"/>in excelsis deo et alleluia ab angelis fuerunt
+          <lb ed="#S" n="25"/>cantata. Et nota quod antiquitus solum ab
+          <lb ed="#S" n="26"/>episcopis cantabatur, qui principalius significant
+          <lb ed="#S" n="27"/>Christum, qui est pontifex futurorum bonorum;
+          <lb ed="#S" n="28"/>sed quia etiam quilibet sacerdos repraesentat
+          Chri<lb ed="#S" n="29" break="no"/>stum, quod amodo qui est sacerdos in
+          aeter<lb ed="#S" n="30" break="no"/>num secundum ordinem Melchisedech,
+          idcir<lb ed="#S" n="31" break="no"/>co a quolibet alio sacerdote cantari potest, et
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2354">
+          <lb ed="#S" n="32"/>Septimo quaeritur quare ‹…› debet
+          <lb ed="#S" n="33"/>aliquo tempore cantari et aliquo tempore non. Ad
+          <lb ed="#S" n="34"/>quod dicendum quod non cantatur primo tempore
+          ad<lb ed="#S" n="35" break="no"/>ventus quadruplici ratione. Prima est
+          <lb ed="#S" n="36"/>ut videatur quasi innovari in die natalis,
+          <lb ed="#S" n="37"/>cuius noctis medio primo fuit cantatus.
+          <lb ed="#S" n="38"/>Secunda ratio est ut cum maiori reverentia
+          <lb ed="#S" n="39"/>et honore, laetitia et devotione in natali
+          can<lb ed="#S" n="40" break="no"/>temus, quia quae cum interpretatione dicuntur
+          maio<lb ed="#S" n="41" break="no"/>rem fervorem habent. Tertia ratio est ad
+          fi<lb ed="#S" n="42" break="no"/>gurandum afflictionem sanctorum patrum quam
+          patie<lb ed="#S" n="43" break="no"/>bantur ex longa expectatione spei quam
+          ha<lb ed="#S" n="44" break="no"/>bebant de Christi incarnatione, quia spes quae
+          <lb ed="#S" n="45"/>differtur affligit animam, Prover. ii. Quarta
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="46"/>ratio est quia tempus adventus significat tempus
+          <lb ed="#S" n="47"/>ante Christum; tunc non erat tempus laetitiae nec
+          <lb ed="#S" n="48"/>causa iocunditatis, quia clausa erat ianua
+          <lb ed="#S" n="49"/>paradisi, quae Christo adveniente patefacta
+          <lb ed="#S" n="50"/>est, quod tunc debuit ab angelis decantari et
+          <lb ed="#S" n="51"/>nobis denuntiari.
+          <lb ed="#S" n="52"/>Octavo quaeritur quare tempore adventus
+          <lb ed="#S" n="53"/>dicitur Alleluia et dimittitur Gloria in excelsis.
+          <lb ed="#S" n="54"/>Ad quod dicendum quod duplici ratione. Prima quia,
+          <lb ed="#S" n="55"/>licet habuerunt afflictionem quia tantum
+          <lb ed="#S" n="56"/>tardabat filius dei venire, ideo dimittitur
+          <lb ed="#S" n="57"/>Gloria in excelsis, habebant tamen laetitiam de
+          <lb ed="#S" n="58"/>certitudine promissionis, ideo cantatur
+          Al<lb ed="#S" n="59" break="no"/>leluia. Alia ratio est quia fit tunc mentio
+          <lb ed="#S" n="60"/>de adventu, qui est duplex: unus in
+          car<lb ed="#S" n="61" break="no"/>ne, et iste est iocundus, et ideo dicitur Alleluia;
+          <lb ed="#S" n="62"/>alius ad iudicium, et iste dolorosus et
+          tre<lb ed="#S" n="63" break="no"/>mendus, ideo dimittitur Gloria in excelsis.
+          <lb ed="#S" n="64"/>Nono quaeritur quare non cantatur in
+          fe<lb ed="#S" n="65" break="no"/>sto Innocentium Gloria in excelsis deo nec
+          <lb ed="#S" n="66"/>Alleluia, et in octavis bene cantatur. Responsio est
+          <lb ed="#S" n="67"/>duplex. Prima quia innocentes in vituperium
+          <lb ed="#S" n="68"/>Christi fuerunt occisi, et in signum detestationis
+          <lb ed="#S" n="69"/>et propter dolorem parentum non
+          canta<lb ed="#S" n="70" break="no"/>tur in festo, quia tunc impletum fuit
+          il<lb ed="#S" n="71" break="no"/>lud Ieremiae, et habetur Mat. ii: Vox in
+          <lb ed="#S" n="72"/>Rama audita est etc. Secunda ratio est quia tunc
+          <lb ed="#S" n="73"/>non venerunt ad paradisum usque post
+          <lb ed="#S" n="74"/>passionem Christi. Sed nota quod bene dicitur in
+          <lb ed="#S" n="75"/>octava eorum, quia octava signat
+          resurrectio<lb ed="#S" n="76" break="no"/>nem futuram ad gloriam.
+          Deci<lb ed="#S" n="77" break="no"/>mo quaeritur quare a septuagesima usque ad
+          <lb ed="#S" n="78"/>Pascha non cantatur Gloria in excelsis nec
+          Al<lb ed="#S" n="79" break="no"/>leluia. Ratio est, ut habetur de conse. di. i, Hii
+          <lb ed="#S" n="80"/>duo, quod tunc sancta ecclesia recolit
+          tran<lb ed="#S" n="81" break="no"/>sgressionem primi parentis, per quam
+          im<lb ed="#S" n="82" break="no"/>pedita fuit restitutio ruinae angelicae, et
+          <lb ed="#S" n="83"/>ideo tacet canticum angelorum et laetitiae.
+          <lb ed="#S" n="84"/>Secundo quia tunc ecclesia repraesentat tempus
+          <lb ed="#S" n="85"/>quo filii Israel fuerunt in captione; et
+          <lb ed="#S" n="86"/>dominica quarta in quadragesima, qua
+          can<lb ed="#S" n="87" break="no"/>tatur Laetare Ierusalem, venerunt nuncii de
+          <lb ed="#S" n="88"/>eorum liberatione sive restitutione, sed
+          plena<lb ed="#S" n="89" break="no"/>rie non fuerunt liberati usque ad Pascha a
+          <lb ed="#S" n="90"/>captivitate. Et sicut illi nescierunt
+          can<pb ed="#S" n="26-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1" break="no"/>tica laetitiae, ita etiam et nos; et propter
+          <lb ed="#S" n="2"/>hoc ecclesia non cantat Gloria in
+          excel<lb ed="#S" n="3" break="no"/>sis nec Alleluia. Sed sicut populus, postquam
+          <lb ed="#S" n="4"/>fuit plene liberatus et reductus,
+          canta<lb ed="#S" n="5" break="no"/>verunt ipsi, ita nos tempore resurrectionis.
+          <lb ed="#S" n="6"/>Nota: non cantatur Gloria in excelsis in
+          mi<lb ed="#S" n="7" break="no"/>ssis votivis, nec secundum aliquos in festo
+          <lb ed="#S" n="8"/>sanctae crucis, ut sit differentia inter
+          fe<lb ed="#S" n="9" break="no"/>stum et commemorationem, extra de cele.
+          <lb ed="#S" n="10"/>mis., Consilium. Nota quod aliquando ex
+          <lb ed="#S" n="11"/>devotione cantatur Gloria in excelsis, et
+          maxi<lb ed="#S" n="12" break="no"/>me in die sabbati; nam illa dies est
+          de<lb ed="#S" n="13" break="no"/>putata ad honorem gloriosae virginis
+          <lb ed="#S" n="14"/>et hoc propter vii rationes, quarum sex
+          tangun<lb ed="#S" n="15" break="no"/>tur in illa prosa quae in sabbato cantatur,
+          <lb ed="#S" n="16"/>quae incipit Iubilemus in hac die, in
+          <lb ed="#S" n="17"/>qua sex rationes tanguntur, si bene advertas,
+          qua<lb ed="#S" n="18" break="no"/>re dies sabbati ad honorem virginis
+          <lb ed="#S" n="19"/>gloriosae deputata est. Prima ratio est quia
+          <lb ed="#S" n="20"/>sanctorum patrum et martyrum passio
+          consue<lb ed="#S" n="21" break="no"/>vit die aliquo celebrari; beata autem virgo
+          <lb ed="#S" n="22"/>passa fuit martyrium sed non solum
+          cor<lb ed="#S" n="23" break="no"/>porale, immo spirituale; unde Lucae ii: Et tuam
+          <lb ed="#S" n="24"/>ipsius animam pertransivit gladius. Istud
+          <lb ed="#S" n="25"/>autem martyrium continuatum fuit in ipsa
+          sex<lb ed="#S" n="26" break="no"/>ta feria in qua Christus passus fuit. Et ideo
+          <lb ed="#S" n="27"/>sicut sexta feria filio, sic sabbatum
+          ma<lb ed="#S" n="28" break="no"/>tri dedicatur. Secunda ratio est quia sicut deus
+          sab<lb ed="#S" n="29" break="no"/>bato requievit ab omni opere quod
+          pa<lb ed="#S" n="30" break="no"/>trarat, ut habetur Gen. ii, sic Christus eodem
+          <lb ed="#S" n="31"/>die requievit in utero virginis.
+          Ter<lb ed="#S" n="32" break="no"/>tia ratio est quia, sicut deus opera naturae et
+          om<lb ed="#S" n="33" break="no"/>nes creaturas sabbato complevit, sic
+          <lb ed="#S" n="34"/>in virgine opera universae gratiae
+          repara<lb ed="#S" n="35" break="no"/>vit, reformavit et creavit. Quarta ratio
+          <lb ed="#S" n="36"/>est quia, sicut deus diei sabbati benedixit,
+          <lb ed="#S" n="37"/>sic beata virgo dicitur benedicta a deo, qui eam
+          <lb ed="#S" n="38"/>elegit; unde cantatur de ea: Benedicta filia
+          <lb ed="#S" n="39"/>tu a domino, quia per te fructum vitae
+          communi<lb ed="#S" n="40" break="no"/>cavimus. Item ab angelo, qui eam
+          salu<lb ed="#S" n="41" break="no"/>tavit dicente, Lu. i: Benedicta tu in
+          mu<lb ed="#S" n="42" break="no"/>lieribus. Item a mundo, qui eam semper
+          vene<lb ed="#S" n="43" break="no"/>ratur et colit; unde praedixit ipsamet, Lucae i:
+          <lb ed="#S" n="44"/>Ecce enim ex hoc beatam me dicent etc.
+          <lb ed="#S" n="45"/>Quinta ratio est quia, sicut sabbatum
+          me<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>diat inter diem dominicam quae est dies
+          <lb ed="#S" n="47"/>laetitiae, et sextam feriam, quae est dies
+          tristi<lb ed="#S" n="48" break="no"/>tiae, sic beata virgo est mediatrix inter
+          de<lb ed="#S" n="49" break="no"/>um et hominem. Sexta ratio est quia die
+          sab<lb ed="#S" n="50" break="no"/>bati post parasceves, Christo existente in
+          se<lb ed="#S" n="51" break="no"/>pulchro, tota fides periit et in sola
+          vir<lb ed="#S" n="52" break="no"/>gine remansit. Ideo dignissimum est ut
+          <lb ed="#S" n="53"/>sibi sabbatum dedicetur. Septima est
+          <lb ed="#S" n="54"/>propter quandam revelationem factam,
+          exem<lb ed="#S" n="55" break="no"/>plum beatae virginis sive miraculum.
+          Nar<lb ed="#S" n="56" break="no"/>rat Iohannes Beleth quod in
+          Constantinopo<lb ed="#S" n="57" break="no"/>lim erat quaedam imago virginis
+          glo<lb ed="#S" n="58" break="no"/>riosae, ante quam pendebat velum quod
+          to<lb ed="#S" n="59" break="no"/>tam imaginem operiebat. Sed
+          miracu<lb ed="#S" n="60" break="no"/>lose in sexta feria nullo homine
+          moven<lb ed="#S" n="61" break="no"/>te amovebatur velum in vesperis usque
+          <lb ed="#S" n="62"/>ad vesperas sabbati, sic quod tota imago
+          <lb ed="#S" n="63"/>poterat videri; et celebratis vesperis in
+          <lb ed="#S" n="64"/>sabbato descendebat velum ad
+          imagi<lb ed="#S" n="65" break="no"/>nem sicut ante usque ad feriam sextam
+          se<lb ed="#S" n="66" break="no"/>quentem. Et hoc viso miraculo sancitum
+          <lb ed="#S" n="67"/>est merito ut illa die de beata virgine
+          <lb ed="#S" n="68"/>cantetur.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2637">
+          <lb ed="#S" n="69"/>De expositione
+          <lb ed="#S" n="70"/>hymni angelici.
+          <lb ed="#S" n="71"/>Circa secundum membrum procedendum
+          <lb ed="#S" n="72"/>est ad expositionem hymni
+          ange<lb ed="#S" n="73" break="no"/>lici, de quo habetur de conse. di. i, c.
+          <lb ed="#S" n="74"/>De hymnis canendis; et primo agetur de
+          <lb ed="#S" n="75"/>his quae fuerunt apportata ab ecclesia
+          tri<lb ed="#S" n="76" break="no"/>umphante. Sciendum est quod in hymno
+          <lb ed="#S" n="77"/>illo quaedam sunt apportata ab angelis
+          <lb ed="#S" n="78"/>et ecclesia triumphante, ut est illa:
+          Glo<lb ed="#S" n="79" break="no"/>ria in excelsis deo, et in terra pax
+          homi<lb ed="#S" n="80" break="no"/>nibus bonae voluntatis, Lu. ii. Aliqua autem
+          <lb ed="#S" n="81"/>sunt ordinata a sanctis viris, scilicet a beato
+          <lb ed="#S" n="82"/>Hilario Pictaviensi episcopo principaliter, et
+          <lb ed="#S" n="83"/>ab ecclesia militante, ut est illud:
+          Lau<lb ed="#S" n="84" break="no"/>damus te. Ad cuius evidentiam
+          praescien<lb ed="#S" n="85" break="no"/>dum est secundum Innocentium propter peccatum hominis
+          <lb ed="#S" n="86"/>triplex bellum incurrit homo. Primum fuit
+          <lb ed="#S" n="87"/>offensio inter deum et hominem, secundum inter
+          <pb ed="#S" n="26-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>homines et angelos, qui, si non peccassent,
+          <lb ed="#S" n="2"/>restaurati fuissent; tertium erat inter
+          <lb ed="#S" n="3"/>homines adinuicem, quia alium ritum
+          ser<lb ed="#S" n="4" break="no"/>vabant Iudaei et gentiles. Sed adveniente
+          <lb ed="#S" n="5"/>filio dei omnia fuerunt pacificata. Nam
+          <lb ed="#S" n="6"/>ipse est pax nostra, faciens utraque unum, ut
+          <lb ed="#S" n="7"/>habentur ab apostolo. Fuit enim per eum pax
+          <lb ed="#S" n="8"/>cum deo, quia deus factus est homo, et
+          econ<lb ed="#S" n="9" break="no"/>trario; item inter homines cum
+          ange<lb ed="#S" n="10" break="no"/>lis, quia tunc habuerunt spem restaurationis
+          <lb ed="#S" n="11"/>ruinae eorum; item inter homines in
+          ri<lb ed="#S" n="12" break="no"/>tu divino, quia omnes ad ritum Christi tenentur;
+          <lb ed="#S" n="13"/>et sic omnia reducta sunt ad pacem et ad
+          <lb ed="#S" n="14"/>unitatem. Et de quolibet istorum tangitur
+          <lb ed="#S" n="15"/>aliquid in verbis istis: primo ex parte
+          <lb ed="#S" n="16"/>dei, cum dicitur Gloria, unde Io. i: Vidimus
+          <lb ed="#S" n="17"/>gloriam eius etc.; secundo ex parte
+          angelo<lb ed="#S" n="18" break="no"/>rum, cum additur in excelsis, id est angelis;
+          <lb ed="#S" n="19"/>tertio ex parte hominum, cum subinfertur: Et in
+          <lb ed="#S" n="20"/>terra pax hominibus bonae voluntatis; et
+          <lb ed="#S" n="21"/>sic de omnibus aliis. Et nota quod in ista
+          di<lb ed="#S" n="22" break="no"/>ctione pax sunt tres litterae: prima est p,
+          <lb ed="#S" n="23"/>per quam intelligitur persona patris; secunda
+          <lb ed="#S" n="24"/>est a, per quam intelligitur persona filii, qui
+          di<lb ed="#S" n="25" break="no"/>cit, Apoc. i: Ego sum alpha et o; tertia est
+          <lb ed="#S" n="26"/>x, quae est duplex consonans, notans
+          per<lb ed="#S" n="27" break="no"/>sonam spiritus sancti, qui a patre ex quadam
+          <lb ed="#S" n="28"/>consonantia et concordantia mutua procedit;
+          <lb ed="#S" n="29"/>propter quod concluditur quod qui adversatur paci
+          <lb ed="#S" n="30"/>toti trinitati adversatur. Ergo pacem
+          habe<lb ed="#S" n="31" break="no"/>te, et deus pacis et dilectionis erit
+          vobis<lb ed="#S" n="32" break="no"/>cum, dicit apostolus ad Thy. xiii. Sed quibus
+          <lb ed="#S" n="33"/>debeatur pax, hoc habetur ab Hilario, de conse.
+          <lb ed="#S" n="34"/>di. v, Missa, quod hominibus bonae voluntatis,
+          <lb ed="#S" n="35"/>scilicet illis quibus est bona voluntas et
+          <lb ed="#S" n="36"/>bonus effectus.
+          <lb ed="#S" n="37"/>De his quae
+          fue<lb ed="#S" n="38" break="no"/>runt addita per ecclesiam militantem.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2767">
+          <lb ed="#S" n="39"/>Exposita prima parte hymni
+          ange<lb ed="#S" n="40" break="no"/>lici, quae est de his quae fuerunt
+          <lb ed="#S" n="41"/>apportata ab ecclesia
+          triumphan<lb ed="#S" n="42" break="no"/>te, sequitur alia pars eius, quae est de his
+          <lb ed="#S" n="43"/>quae fuerunt addita per ecclesiam militantem,
+          <lb ed="#S" n="44"/>ibi: Laudamus te. Et dividitur in duas
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="45"/>partes. Primo enim ponitur illud quod pertinet
+          <lb ed="#S" n="46"/>ad laudem trinitatis in communi;
+          se<lb ed="#S" n="47" break="no"/>cundo quod pertinet ad laudem cuiuslibet
+          <lb ed="#S" n="48"/>personae in speciali, ibi: Domine deus rex
+          caele<lb ed="#S" n="49" break="no"/>stis etc. Prima adhuc in quinque, secundum
+          <lb ed="#S" n="50"/>quod quinque attribuuntur trinitati per
+          excellen<lb ed="#S" n="51" break="no"/>tiam, secundum quod hic ponuntur quinque
+          clau<lb ed="#S" n="52" break="no"/>sulae. Attribuitur enim trinitati potentia;
+          <lb ed="#S" n="53"/>ideo dicimus: Laudamus te, scilicet ratione
+          <lb ed="#S" n="54"/>potentiae bene operantis; nam laus bene
+          <lb ed="#S" n="55"/>operanti debetur. Item attribuitur trinitati
+          <lb ed="#S" n="56"/>sapientia; ideo dicimus: Benedicimus te,
+          <lb ed="#S" n="57"/>scilicet ratione sapientiae omnia disponentis.
+          <lb ed="#S" n="58"/>Item providentia; ideo dicimus:
+          Adora<lb ed="#S" n="59" break="no"/>mus te, scilicet ratione providentiae omnia
+          su<lb ed="#S" n="60" break="no"/>stinentis. Item maiestas; ideo dicimus:
+          <lb ed="#S" n="61"/>Glorificamus te, scilicet ratione maiestatis
+          <lb ed="#S" n="62"/>omnibus praesidentis. Item attribuitur
+          trini<lb ed="#S" n="63" break="no"/>tati per excellentiam bonitas; ideo dicimus:
+          <lb ed="#S" n="64"/>Gratias agimus tibi, scilicet ratione bonitatis
+          <lb ed="#S" n="65"/>omnibus providentis. Et haec omnia facere
+          <lb ed="#S" n="66"/>debemus, et tu es dignus quod fiat tibi, propter
+          <lb ed="#S" n="67"/>magnam gloriam tuam, qua dignus es et
+          lau<lb ed="#S" n="68" break="no"/>dari et benedici etc. Et ut illam habere
+          <lb ed="#S" n="69"/>mereamur quae est maius donum quod
+          <lb ed="#S" n="70"/>haberi possit.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2841">
+          <lb ed="#S" n="71"/>Sequitur: Domine deus rex caelestis etc., ubi
+          <lb ed="#S" n="72"/>ponuntur debite laudes pertinentes ad
+          sin<lb ed="#S" n="73" break="no"/>gulas personas specialiter. Et dividitur in tres
+          <lb ed="#S" n="74"/>partes: nam primo ponitur laus patris,
+          <lb ed="#S" n="75"/>ibi: Domine deus etc., ubi ostenditur potentia
+          <lb ed="#S" n="76"/>imperialis; secundo laus filii, ibi: Domine fili
+          <lb ed="#S" n="77"/>etc., ubi ostenditur pietas internalis
+          visce<lb ed="#S" n="78" break="no"/>ralis; tertio laus spiritus sancti, ibi: Cum
+          <lb ed="#S" n="79"/>sancto spiritu, ubi ponitur pietas
+          interna<lb ed="#S" n="80" break="no"/>lis. Primo ergo dicimus ad laudem
+          pa<lb ed="#S" n="81" break="no"/>tris: Domine deus etc. Nam in ipso est
+          <lb ed="#S" n="82"/>primitas auctoritatis, quia a nullo est,
+          <lb ed="#S" n="83"/>ideo dicitur domine; causalitas universitatis,
+          <lb ed="#S" n="84"/>ideo dicitur deus, a quo omnia; maiestas
+          <lb ed="#S" n="85"/>imperialis, ideo additur rex, quia rex regum;
+          <lb ed="#S" n="86"/>felicitas aeternalis, ideo dicitur caelestis,
+          <lb ed="#S" n="87"/>quia ibi suam felicitatem manifestat;
+          pro<lb ed="#S" n="88" break="no"/>prietas personalis, ideo dicitur deus pater;
+          <lb ed="#S" n="89"/>proprietas generalis, ideo dicitur
+          omnipo<pb ed="#S" n="27-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1" break="no"/>tens, id est omnia potens.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e2889">
+          <lb ed="#S" n="2"/>Sequitur: Domine fili, ubi ponitur laus
+          <lb ed="#S" n="3"/>filii, ubi quattuor ponuntur, secundum
+          <lb ed="#S" n="4"/>quod quattuor modis aliqua sibi conveniunt.
+          <lb ed="#S" n="5"/>Primo enim sibi conveniunt aliqua
+          <lb ed="#S" n="6"/>ratione divinitatis, secundum quod
+          conve<lb ed="#S" n="7" break="no"/>niunt sibi tria. Primum quod deus existit;
+          <lb ed="#S" n="8"/>ideo dicitur domine deus. Secundum quod
+          <lb ed="#S" n="9"/>a patre per modum naturae procedit; ideo
+          <lb ed="#S" n="10"/>dicitur fili. Tertio quod procedens totam
+          <lb ed="#S" n="11"/>naturam patris hauriat; ideo dicitur
+          <lb ed="#S" n="12"/>unigenite. Secundo conveniunt filio
+          <lb ed="#S" n="13"/>aliqua ratione humanitatis, scilicet
+          uni<lb ed="#S" n="14" break="no"/>versalis redemptio; ideo dicitur
+          Ie<lb ed="#S" n="15" break="no"/>su, qui interpretatur salvator.
+          Secun<lb ed="#S" n="16" break="no"/>do generalis diffusio; ideo dicitur Christe,
+          <lb ed="#S" n="17"/>qui interpretatur unctus; in Christo
+          <lb ed="#S" n="18"/>enim fuit plenitudo gratiarum et
+          un<lb ed="#S" n="19" break="no"/>ctio, a quo tamquam a capite fluunt rivi
+          <lb ed="#S" n="20"/>gratiae sicut a fonte. Tertio
+          conveni<lb ed="#S" n="21" break="no"/>unt aliqua Christo ratione suppositalis
+          <lb ed="#S" n="22"/>unionis vel unitas, scilicet naturae divinae
+          <lb ed="#S" n="23"/>et humanae, quia, sicut dicitur in
+          symbo<lb ed="#S" n="24" break="no"/>lo Athanasii, sicut anima rationalis et
+          <lb ed="#S" n="25"/>caro unus est homo, ita deus et homo
+          <lb ed="#S" n="26"/>unus est Christus. Et ex hoc competit sibi
+          <lb ed="#S" n="27"/>quod sit deus, ideo dicitur deus, contra
+          Ar<lb ed="#S" n="28" break="no"/>rianos, qui dicunt ipsum creaturam.
+          <lb ed="#S" n="29"/>Item quod sit immolatus, dicitur agnus dei,
+          <lb ed="#S" n="30"/>contra Manicheos, qui dicunt ipsum
+          <lb ed="#S" n="31"/>non fuisse immolatum. Item quod sit
+          <lb ed="#S" n="32"/>filius patris, contra Sabellianos, qui dicunt alium
+          <lb ed="#S" n="33"/>esse filium a filio patris, xii q. ulti., De
+          here<lb ed="#S" n="34" break="no"/>ticis. Quarto conveniunt aliqua filio
+          ratio<lb ed="#S" n="35" break="no"/>ne suae miserationis, quae sunt tria, quia sibi
+          <lb ed="#S" n="36"/>primo supplicamus pro expiatione
+          pec<lb ed="#S" n="37" break="no"/>caminum, ibi: Qui tollis peccata mundi,
+          <lb ed="#S" n="38"/>miserere nobis; secundo pro exauditione
+          <lb ed="#S" n="39"/>precaminum, ibi: Qui tollis peccata
+          mun<lb ed="#S" n="40" break="no"/>di, suscipe deprecationem nostram; tertio
+          <lb ed="#S" n="41"/>pro remuneratione solaminum, ibi: Qui
+          se<lb ed="#S" n="42" break="no"/>des ad dextram patris, miserere nobis.
+          <lb ed="#S" n="43"/>Et quoniam supplicantes communiter consueverunt
+          <lb ed="#S" n="44"/>allegare causam et rationem quare debent
+          <lb ed="#S" n="45"/>exaudire, ideo communiter allegamus
+          tri<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>plicem causam, dicendo: Quoniam tu solus
+          <lb ed="#S" n="47"/>sanctus, ideo debemus indulgere
+          pec<lb ed="#S" n="48" break="no"/>camina; Tu solus dominus, scilicet exaudiens
+          pre<lb ed="#S" n="49" break="no"/>camina; Tu solus altissimus, scilicet
+          confe<lb ed="#S" n="50" break="no"/>rens solamina aeterna. Sequitur: Cum
+          <lb ed="#S" n="51"/>sancto spiritu, et haec ponuntur spectantia ad
+          <lb ed="#S" n="52"/>laudem spiritus sancti, quae sunt duo, scilicet
+          <lb ed="#S" n="53"/>personalis proprietas, ideo dicitur Cum sancto
+          <lb ed="#S" n="54"/>spiritu; summa et coeterna felicitas, ideo
+          ad<lb ed="#S" n="55" break="no"/>ditur In gloriam dei patris.
+          Ulti<lb ed="#S" n="56" break="no"/>mo sequitur Amen, in quo optamus
+          no<lb ed="#S" n="57" break="no"/>bis omnia confirmari et fieri. Nota de
+          <lb ed="#S" n="58"/>Amen quod est nomen Hebraeum; et
+          aliquan<lb ed="#S" n="59" break="no"/>do est nomen, et tunc idem est quod veritas,
+          <lb ed="#S" n="60"/>ut Apoc. iii: Haec dicit amen, qui est testis
+          <lb ed="#S" n="61"/>fidelis; aliquando est adverbium, ut in
+          <lb ed="#S" n="62"/>evangelio: Amen amen dico vobis, id est
+          <lb ed="#S" n="63"/>vere; aliquando est verbum, et tunc idem est
+          <lb ed="#S" n="64"/>quod fiat, ut in psalmo, ibi nos habemus
+          <lb ed="#S" n="65"/>Fiat fiat, Hebraei sunt Amen amen; et isto
+          <lb ed="#S" n="66"/>modo sumitur hic in cantico angelorum.
+          <lb ed="#S" n="67"/>De dubiis et
+          nota<lb ed="#S" n="68" break="no"/>bilibus circa Gloria in excelsis.
+          <lb ed="#S" n="69"/>Circa tertium membrum
+          moven<lb ed="#S" n="70" break="no"/>da sunt quaedam notabilia et
+          <lb ed="#S" n="71"/>quaedam dubia circa quasdam
+          <lb ed="#S" n="72"/>dictiones in isto hymno positas et
+          po<lb ed="#S" n="73" break="no"/>stea videbuntur duo circa ipsum hymnum
+          <lb ed="#S" n="74"/>angelicum. Quantum ad
+          pri<lb ed="#S" n="75" break="no"/>mum nota primo circa hoc quod dicitur:
+          <lb ed="#S" n="76"/>Et in terra pax hominibus: quid est
+          <lb ed="#S" n="77"/>pax? Et sciendum quod dicit sanctus
+          Tho<lb ed="#S" n="78" break="no"/>mas, secunda secundae q. xxix, quod differentia est
+          <lb ed="#S" n="79"/>inter concordiam et pacem; nam ad
+          pa<lb ed="#S" n="80" break="no"/>cem duo requiruntur: unum est unio
+          <lb ed="#S" n="81"/>appetituum, scilicet sensitivi et rationalis,
+          <lb ed="#S" n="82"/>ita quod unus non appetat quod alius
+          <lb ed="#S" n="83"/>non appetit, quia, si est inter eos
+          rebel<lb ed="#S" n="84" break="no"/>lio, iam non est pax; aliud est unio
+          ap<lb ed="#S" n="85" break="no"/>petentium, scilicet quod appetentes in hoc
+          <lb ed="#S" n="86"/>quod appetunt sunt concordes, unum et
+          <lb ed="#S" n="87"/>idem appetendo. Ad secundum autem
+          <lb ed="#S" n="88"/>scilicet concordiam, sufficit appetentium unio.
+          <pb ed="#S" n="27-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Sed pax supra concordiam addidit
+          <lb ed="#S" n="2"/>primum, scilicet unionem appetituum.
+          <lb ed="#S" n="3"/>Et sic ex his patet quid est pax, quid est
+          <lb ed="#S" n="4"/>unio tam appetituum quam
+          appeten<lb ed="#S" n="5" break="no"/>tium proprie loquendo.
+          <lb ed="#S" n="6"/>Secundo nota circa hoc quod dicitur
+          <lb ed="#S" n="7"/>Adoramus te. Iuxta quod nota quod tres sunt
+          <lb ed="#S" n="8"/>modi reverentiam exhibendi: unus
+          vo<lb ed="#S" n="9" break="no"/>catur dulia, alius hyperdulia, tertius latria.
+          <lb ed="#S" n="10"/>Et est differentia inter istas, nam latria est
+          ser<lb ed="#S" n="11" break="no"/>vitus et reverentia debita soli creatori.
+          <lb ed="#S" n="12"/>sed dulia est communis servitus debita
+          <lb ed="#S" n="13"/>deo et creaturae; sed hyperdulia, quae dicitur
+          <lb ed="#S" n="14"/>ab hyper, quod est supra, est servitus spiritualis
+          <lb ed="#S" n="15"/>supra alias communes debitas. Et circa
+          <lb ed="#S" n="16"/>hoc possunt quaeri multa.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3121">
+          <lb ed="#S" n="17"/>Primo quaeritur utrum una adoratione
+          <lb ed="#S" n="18"/>sit adoranda Christi humanitas et
+          divini<lb ed="#S" n="19" break="no"/>tas. Et dicendum quod, si in Christo ponerentur
+          <lb ed="#S" n="20"/>plures personae et hypostases, sequeretur
+          <lb ed="#S" n="21"/>quod essent plures adorationes; sed quia
+          <lb ed="#S" n="22"/>in Christo non ponimus nisi unam personam
+          <lb ed="#S" n="23"/>et hypostasim, et honor debeatur personae et
+          sup<lb ed="#S" n="24" break="no"/>posito agenti et toti et non parti, idcirco
+          <lb ed="#S" n="25"/>una adoratione totum adoratur
+          consideran<lb ed="#S" n="26" break="no"/>do eum cui honor exhibetur, quod est res.
+          <lb ed="#S" n="27"/>Secundo quaeritur utrum subsistens
+          <lb ed="#S" n="28"/>imaginibus Christi sit cultus latriae
+          exhiben<lb ed="#S" n="29" break="no"/>dus. Sciendum breviter quod imago potest
+          du<lb ed="#S" n="30" break="no"/>pliciter considerari: uno modo ut res
+          qui<lb ed="#S" n="31" break="no"/>dam, puta lignum sculptum vel pictum, et sic
+          <lb ed="#S" n="32"/>nulla reverentia debetur sibi nec honor,
+          <lb ed="#S" n="33"/>quia talia non debentur nisi creaturae
+          ra<lb ed="#S" n="34" break="no"/>tionali; alio modo potest considerari ut est
+          <lb ed="#S" n="35"/>imago, et quia motus ad imaginem
+          inquan<lb ed="#S" n="36" break="no"/>tum imago est ad rem imaginatam, ideo
+          <lb ed="#S" n="37"/>unus honor debetur et imagini Christi et
+          <lb ed="#S" n="38"/>ipsi Christo. Tertio quaeritur utrum cruci
+          <lb ed="#S" n="39"/>Christi debeatur latria. Dicendum quod crux illa,
+          <lb ed="#S" n="40"/>scilicet in qua fuit Christus crucifixus, potest
+          du<lb ed="#S" n="41" break="no"/>pliciter considerari: uno modo inquantum
+          <lb ed="#S" n="42"/>est imago Christi extensi in ea, et sic adoratur
+          <lb ed="#S" n="43"/>eadem adoratione latriae sicut Christus, et sic eam
+          <lb ed="#S" n="44"/>alloquimur sicut Christum dicentes: O
+          <lb ed="#S" n="45"/>crux ave spes unica, et huiusmodi; alio
+          mo<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>do inquantum est res quaedam, et sic non
+          <lb ed="#S" n="47"/>pertineat ad personam verbi ut pars eius vel
+          <lb ed="#S" n="48"/>quasi pars eius, nec potest eadem adoratione
+          <lb ed="#S" n="49"/>adorari cum ipso, sed adoratur inquantum
+          <lb ed="#S" n="50"/>est res quaedam Christi in qua fuit
+          exten<lb ed="#S" n="51" break="no"/>sus, et tunc ratione ipsius sibi debetur
+          <lb ed="#S" n="52"/>hyperdulia. Sed aliae cruces, in quibus non
+          <lb ed="#S" n="53"/>fuit Christus, adorantur nisi ut imago; ideo non
+          <lb ed="#S" n="54"/>adoratur adoratione latriae.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3207">
+          <lb ed="#S" n="55"/>Quarto quaeritur utrum mater dei
+          <lb ed="#S" n="56"/>sit adoranda adoratione latriae.
+          Dicen<lb ed="#S" n="57" break="no"/>dum quod, cum beata virgo sit per se quaedam
+          <lb ed="#S" n="58"/>persona agens, ei debetur honor per se;
+          un<lb ed="#S" n="59" break="no"/>de alia adoratione adoratur quam filius
+          ei<lb ed="#S" n="60" break="no"/>us, verumtamen non latria, quae sola deo
+          <lb ed="#S" n="61"/>debetur, sed certe eminentius ceteris,
+          in<lb ed="#S" n="62" break="no"/>quantum est mater dei; ideo sibi debetur
+          <lb ed="#S" n="63"/>non qualiscumque dulia, sed hyperdulia, quia
+          <lb ed="#S" n="64"/>ultra alios debet honorari.
+          Quin<lb ed="#S" n="65" break="no"/>to quaeritur utrum sanctorum reliquiae sint
+          ado<lb ed="#S" n="66" break="no"/>randae. Dicendum quod sanctos dei in
+          vene<lb ed="#S" n="67" break="no"/>ratione debemus habere tamquam
+          mem<lb ed="#S" n="68" break="no"/>bra Christi, tamquam dei filios et amicos et
+          inter<lb ed="#S" n="69" break="no"/>cessores nostros. Et ideo eorum reliquias
+          <lb ed="#S" n="70"/>qualescumque honore congruo in eorum
+          me<lb ed="#S" n="71" break="no"/>moriam venerari debemus, et
+          praeci<lb ed="#S" n="72" break="no"/>pue eorum corpora, quae fuerunt templum
+          <lb ed="#S" n="73"/>spiritus sancti et organa spiritus sancti in eis
+          <lb ed="#S" n="74"/>habitantis et operantis, et sunt corpori
+          <lb ed="#S" n="75"/>Christi configuranda per gloriam
+          resur<lb ed="#S" n="76" break="no"/>rectionis. Unde et ipse deus
+          huiusmo<lb ed="#S" n="77" break="no"/>di reliquias convenienter honorat in
+          <lb ed="#S" n="78"/>eorum praesentia miracula faciendo.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3262">
+          <lb ed="#S" n="79"/>Sexto quaeritur utrum
+          peccatori<lb ed="#S" n="80" break="no"/>bus, sicut malis praelatis, debeatur
+          du<lb ed="#S" n="81" break="no"/>lia. Et videtur quod non, quia honor
+          de<lb ed="#S" n="82" break="no"/>betur alicui in testimonium virtutis,
+          <lb ed="#S" n="83"/>primo Ethicorum; sed praelati mali non
+          <lb ed="#S" n="84"/>sunt virtuosi; ergo nec honorandi.
+          <lb ed="#S" n="85"/>Et dicendum quod alicui habere
+          virtu<lb ed="#S" n="86" break="no"/>tem contingit tripliciter: vel sicut
+          ac<lb ed="#S" n="87" break="no"/>tu virtuoso, et sic malis non debetur
+          <lb ed="#S" n="88"/>dulia; vel sicut apto nato habere, et sic
+          <lb ed="#S" n="89"/>cuilibet homini debetur et angelo
+          ni<lb ed="#S" n="90" break="no"/>si sit obstinatus in malo;
+          <pb ed="#S" n="28-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>propter quod daemonibus non debetur;
+          <lb ed="#S" n="2"/>vel sicut ordinato ad inducendum vel
+          <lb ed="#S" n="3"/>conservandum virtutes, et isto modo
+          de<lb ed="#S" n="4" break="no"/>betur etiam praelatis peccatoribus, quia
+          ordi<lb ed="#S" n="5" break="no"/>nati sunt ad virtutes ut conservent. Et sic
+          <lb ed="#S" n="6"/>patet ad argumentum et ad quaestionem.
+          <lb ed="#S" n="7"/>Tertio nota circa hoc quod dicitur
+          Omni<lb ed="#S" n="8" break="no"/>potens. Et videtur quod sit falsum, quia deus
+          <lb ed="#S" n="9"/>non potest peccare nec mentiri nec
+          am<lb ed="#S" n="10" break="no"/>bulare nec currere nec ridere nec
+          mo<lb ed="#S" n="11" break="no"/>veri aut mori aut facere alium deum
+          <lb ed="#S" n="12"/>nec potest facere idem esse et non esse simul;
+          <lb ed="#S" n="13"/>ergo falsum est quod est omnipotens, id est omnia
+          <lb ed="#S" n="14"/>potens. Respondeo: ad evidentiam huius
+          veri<lb ed="#S" n="15" break="no"/>tatis facienda sunt quattuor. Primo
+          <lb ed="#S" n="16"/>probatur quod in deo est potentia activa;
+          se<lb ed="#S" n="17" break="no"/>cundo quod in deo non est potentia
+          passi<lb ed="#S" n="18" break="no"/>va; tertio dabuntur quaedam regulae; et
+          <lb ed="#S" n="19"/>quarto reddetur ratio de quodam dubio
+          cu<lb ed="#S" n="20" break="no"/>rioso. Quantum ad primum probo quod in deo
+          <lb ed="#S" n="21"/>est potentia activa, et hoc sic: quia illud quod
+          <lb ed="#S" n="22"/>importat perfectionem simpliciter in
+          enti<lb ed="#S" n="23" break="no"/>tate et actualitate est in deo; sed potentia
+          <lb ed="#S" n="24"/>activa est huiusmodi; ergo etc. Probatur, quia
+          ni<lb ed="#S" n="25" break="no"/>hil agit secundum quod est in actu; actus autem
+          <lb ed="#S" n="26"/>ille est perfectior quo aliquid est formaliter
+          <lb ed="#S" n="27"/>in se et continet aliquid virtualiter quam
+          il<lb ed="#S" n="28" break="no"/>le quo aliquid in se est formaliter, sed
+          <lb ed="#S" n="29"/>nihil continet virtualiter; habens autem
+          <lb ed="#S" n="30"/>potentiam activam per illam est actu in se
+          <lb ed="#S" n="31"/>aliquid formaliter et per eam continet aliud
+          vir<lb ed="#S" n="32" break="no"/>tualiter; ergo habere potentiam activam
+          <lb ed="#S" n="33"/>importat perfectionem in entitate et
+          ac<lb ed="#S" n="34" break="no"/>tualitate et per consequens competit deo.
+          <lb ed="#S" n="35"/>Quantum ad secundum probo quod in deo non
+          <lb ed="#S" n="36"/>sit potentia passiva, convertendo rationem
+          <lb ed="#S" n="37"/>sic: quod importat imperfectionem et
+          dimi<lb ed="#S" n="38" break="no"/>nutionem in entitate et actualitate non
+          <lb ed="#S" n="39"/>convenit deo; sed habere potentiam passivam
+          <lb ed="#S" n="40"/>est huiusmodi; ergo etc. Probatio: quia omne quod
+          <lb ed="#S" n="41"/>est in potentia ad recipiendum aliquid in
+          <lb ed="#S" n="42"/>se est ex defectu entitatis et actualitatis
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3386">
+          <lb ed="#S" n="43"/>quam dat ei illud quod in seipso recipitur;
+          <lb ed="#S" n="44"/>unde talis potentia, sive sit coniuncta
+          a<lb ed="#S" n="45" break="no"/>ctui sive separata, semper est imperfecta et
+          indi<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>gens perfici per aliud; quapropter
+          nullo<lb ed="#S" n="47" break="no"/>modo est ponenda in deo. Et sic patet
+          se<lb ed="#S" n="48" break="no"/>cundum, scilicet quod in deo non est potentia
+          pa<lb ed="#S" n="49" break="no"/>ssiva. Quantum ad tertium, ex
+          <lb ed="#S" n="50"/>istis dantur quattuor regulae, quibus potest
+          <lb ed="#S" n="51"/>videri quid deus possit et quid non possit.
+          <lb ed="#S" n="52"/>Prima regula est quod deus potest facere
+          quid<lb ed="#S" n="53" break="no"/>quid respicit potentiam activam solum. Hoc
+          <lb ed="#S" n="54"/>patet, quia quidquid pertinet ad dignitatem
+          <lb ed="#S" n="55"/>et perfectionem est deo attribuendum; sed
+          cau<lb ed="#S" n="56" break="no"/>sare active quodcumque causabile est huiusmodi;
+          <lb ed="#S" n="57"/>ergo etc. Et ex hac regula habetur quod deus
+          <lb ed="#S" n="58"/>potest in omnem effectum cuiuscumque
+          efficien<lb ed="#S" n="59" break="no"/>tis. Secunda regula est quod deus non
+          <lb ed="#S" n="60"/>potest facere quidquid respicit potentiam
+          passi<lb ed="#S" n="61" break="no"/>va solum vel similiter activam et passivam. Hoc patet,
+          <lb ed="#S" n="62"/>quia amota causa amovetur effectus;
+          <lb ed="#S" n="63"/>sed a deo tollitur potentia passiva, propter quod
+          <lb ed="#S" n="64"/>etiam tolluntur ab ipso ea quae respiciunt
+          <lb ed="#S" n="65"/>eam solum vel similiter cum activa, sunt deo
+          attri<lb ed="#S" n="66" break="no"/>buenda; huiusmodi sunt omnia quae consistunt in
+          <lb ed="#S" n="67"/>transmutari in acquirendo esse vel in
+          amit<lb ed="#S" n="68" break="no"/>tendo, quia in his generatio unius est
+          <lb ed="#S" n="69"/>corruptio alterius. Et ideo deus non potest
+          am<lb ed="#S" n="70" break="no"/>bulare, currere aut se movere, quia talia
+          <lb ed="#S" n="71"/>respiciunt potentiam passivam solum vel similiter cum
+          <lb ed="#S" n="72"/>activa, quia sunt moventia mota. Item non
+          <lb ed="#S" n="73"/>potest moveri nec mori nec corrumpi, quia
+          im<lb ed="#S" n="74" break="no"/>portat amissionem esse prius habiti, et ita
+          <lb ed="#S" n="75"/>transmutationem secundum principium
+          passi<lb ed="#S" n="76" break="no"/>vum. Tertia regula est: deus non potest
+          <lb ed="#S" n="77"/>facere quod non potest velle. Probatur, quia nullus
+          <lb ed="#S" n="78"/>potest velle oppositum illius ad quod natura
+          <lb ed="#S" n="79"/>ordinatur, sicut homo non potest velle
+          miseri<lb ed="#S" n="80" break="no"/>am, quia naturaliter ordinatur ad
+          op<lb ed="#S" n="81" break="no"/>positum; deus autem naturaliter
+          in<lb ed="#S" n="82" break="no"/>clinatur ad suam bonitatem infinitam
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3476">
+          <lb ed="#S" n="83"/>propter quod quae deficiunt a sua
+          boni<lb ed="#S" n="84" break="no"/>tate velle non potest. Cum ergo
+          pecca<lb ed="#S" n="85" break="no"/>ta et mala sint defluxus quidam a
+          di<lb ed="#S" n="86" break="no"/>vina bonitate, talia non potest deus
+          vel<lb ed="#S" n="87" break="no"/>le nec facere. Item posse peccare non
+          <lb ed="#S" n="88"/>est posse, secundum Augustinum, de pe. di. ii, c.
+          Cari<lb ed="#S" n="89" break="no"/>tas, nec posse deficere est posse; immo
+          <lb ed="#S" n="90"/>haec affirmatio includit negationem.
+          <pb ed="#S" n="28-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Quarta regula est quod quaedam
+          impor<lb ed="#S" n="2" break="no"/>tant repugnantiam ex natura
+          termino<lb ed="#S" n="3" break="no"/>rum, ut trinarium esse parem, vel idem esse
+          <lb ed="#S" n="4"/>et non esse simul; et talia non potest deus
+          fa<lb ed="#S" n="5" break="no"/>cere, non propter defectum potentiae vel
+          di<lb ed="#S" n="6" break="no"/>minutionem, sed propter impossibilitatem
+          <lb ed="#S" n="7"/>quae est in re facienda, quia hoc facere non
+          <lb ed="#S" n="8"/>est facere. Probatio: quia illa non sunt similiter
+          fa<lb ed="#S" n="9" break="no"/>ctibilia quorum positio unius est
+          remo<lb ed="#S" n="10" break="no"/>tio alterius, alioquin similiter aliquid poneretur
+          <lb ed="#S" n="11"/>et non poneretur, fieret et non fieret; sed illa
+          <lb ed="#S" n="12"/>quae implicant contradictionem sunt huiusmodi,
+          <lb ed="#S" n="13"/>quia negatio removet affirmationem et
+          econ<lb ed="#S" n="14" break="no"/>trario; ergo deus non potest facere, quia
+          affir<lb ed="#S" n="15" break="no"/>matio et negatio non similiter sunt vere de
+          eo<lb ed="#S" n="16" break="no"/>dem. Unde dicunt aliqui quod magis debet dici
+          <lb ed="#S" n="17"/>quod nequeunt talia fieri quam quod dicatur quod
+          de<lb ed="#S" n="18" break="no"/>us non potest. Quaeritur primo circa
+          <lb ed="#S" n="19"/>hymnum quae est ratio quare deus dicitur
+          omnipo<lb ed="#S" n="20" break="no"/>tens et omnisciens et tamen non dicitur
+          omni<lb ed="#S" n="21" break="no"/>volens, cum tamen scientia, potentia et
+          vo<lb ed="#S" n="22" break="no"/>luntas in deo idem sint. Dicendum quod
+          <lb ed="#S" n="23"/>secundum Philosophum, ix Metha., in agente per
+          volun<lb ed="#S" n="24" break="no"/>tatem voluntas habet determinare
+          poten<lb ed="#S" n="25" break="no"/>tiam et scientiam ad opus; et ideo in deo
+          po<lb ed="#S" n="26" break="no"/>natur et scientia absolute pronuntiatur de se
+          <lb ed="#S" n="27"/>respectu omnium; ideo dicitur absolute
+          omni<lb ed="#S" n="28" break="no"/>potens, omnisciens. Voluntas autem, quae
+          <lb ed="#S" n="29"/>habet determinare, non nisi respectu illorum
+          <lb ed="#S" n="30"/>ad quae habet determinare; ideo non dicitur
+          omni<lb ed="#S" n="31" break="no"/>volens quasi omnia volens, et sic patet.
+          <lb ed="#S" n="32"/>Secundo circa istum (differentia et causa istorum)
+          <lb ed="#S" n="33"/>hymnum angelicum quaeritur quare in missa
+          <lb ed="#S" n="34"/>beatae Mariae virginis fiunt sex additiones
+          <lb ed="#S" n="35"/>in Gloria in excelsis. Ad hoc dicendum quod
+          <lb ed="#S" n="36"/>propter sex privilegia beatae virginis.
+          Pri<lb ed="#S" n="37" break="no"/>mum est conceptionis: concepit enim
+          operatio<lb ed="#S" n="38" break="no"/>ne et obumbratione spiritus sancti; quarum
+          <lb ed="#S" n="39"/>prima additio post illum versum Domine
+          fi<lb ed="#S" n="40" break="no"/>li etc. est: Spiritus et alme orphanorum
+          paracli<lb ed="#S" n="41" break="no"/>te. Secundum habuit rationem emissionis, quia
+          <lb ed="#S" n="42"/>peperit dei filium; ideo additur:
+          Primoge<lb ed="#S" n="43" break="no"/>nitus Mariae etc., ita quod primogenitus
+          <lb ed="#S" n="44"/>non dicit ibi ordinem, quasi alius
+          seque<lb ed="#S" n="45" break="no"/>tur, sed dicit dignitatem; vel
+          primo<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>genitus, id est antequam nullus vel etiam
+          <lb ed="#S" n="47"/>post. Tertium habuit ratione maternae
+          <lb ed="#S" n="48"/>deitatis, quod est orbi maxima laus et gloria;
+          <lb ed="#S" n="49"/>ideo additur: Ad Mariae gloriam. Quartum
+          ha<lb ed="#S" n="50" break="no"/>buit ratione sanctificationis qua
+          nullomo<lb ed="#S" n="51" break="no"/>do peccare potuit; et ideo additur: Mariam
+          <lb ed="#S" n="52"/>sanctificans. Quintum habuit ratione
+          <lb ed="#S" n="53"/>condescensionis; ideo additur: Mariam
+          <lb ed="#S" n="54"/>gubernans. Sextum ratione suae
+          corona<lb ed="#S" n="55" break="no"/>tionis; ideo additur: Mariam
+          coro<lb ed="#S" n="56" break="no"/>nans.
+          <lb ed="#S" n="57"/>Tertio circa ipsum quaeritur quando
+          regu<lb ed="#S" n="58" break="no"/>lariter debet dici hymnus angelicus, scilicet
+          <lb ed="#S" n="59"/>Gloria in excelsis. Ad hoc respondetur, extra
+          <lb ed="#S" n="60"/>de cele. mis., c. Consilium, ubi dicitur quod debet
+          <lb ed="#S" n="61"/>cantari quando in matutinis dicitur Te
+          de<lb ed="#S" n="62" break="no"/>um laudamus. Sed haec regula fallit
+          <lb ed="#S" n="63"/>in sabbato sancto Paschae et in die Cenae
+          <lb ed="#S" n="64"/>domini secundum officium Romanum. Et de
+          <lb ed="#S" n="65"/>sabbato sancto redditur ratio, de conse.
+          <lb ed="#S" n="66"/>di. ii, ubi dicitur quod illa missa spectat ad
+          <lb ed="#S" n="67"/>diem Paschae, quare tunc dicitur Alleluia et Gloria
+          <lb ed="#S" n="68"/>in excelsis. Quare cantatur in die Cenae
+          <lb ed="#S" n="69"/>et in sabbato Paschae? Nam tunc redditum
+          <lb ed="#S" n="70"/>est gaudium angelicum. In die autem
+          Ce<lb ed="#S" n="71" break="no"/>nae dicitur ab aliquibus Gloria in excelsis, non
+          <lb ed="#S" n="72"/>tamen in ordine nostro Praedicatorum, ratione
+          pri<lb ed="#S" n="73" break="no"/>vilegii et celebritatis singularis quia illa
+          <lb ed="#S" n="74"/>die fuit a Christo institutum et primo
+          cele<lb ed="#S" n="75" break="no"/>bratum. Et sic patet quomodo populus debet
+          <lb ed="#S" n="76"/>venire cum mentis intentione.
+          <lb ed="#S" n="77"/>De quarta
+          praepa<lb ed="#S" n="78" break="no"/>ratione populi et
+          col<lb ed="#S" n="79" break="no"/>lecta, quae immediate sequitur post Gloria
+          <lb ed="#S" n="80"/>in excelsis. Pars quarta.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3675">
+          <lb ed="#S" n="81"/>Quarta praeparatio est quod
+          popu<lb ed="#S" n="82" break="no"/>lus debet venire cum
+          peten<lb ed="#S" n="83" break="no"/>di intentione et impetrandi;
+          <lb ed="#S" n="84"/>et hoc signat collecta, quae immediate
+          <lb ed="#S" n="85"/>sequitur post Gloria in excelsis deo.
+          <pb ed="#S" n="29-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Et ratio ordinis patet, quia facta cordis
+          <lb ed="#S" n="2"/>humilitate, quae fit in Kyrieleison, et
+          men<lb ed="#S" n="3" break="no"/>tis erectione, quae fit in Gloria in excelsis,
+          <lb ed="#S" n="4"/>potest fieri continentur petitio, quod fit in
+          <lb ed="#S" n="5"/>collecta sive oratione.
+          <lb ed="#S" n="6"/>Circa quod sic procedam, quia declarabo
+          <lb ed="#S" n="7"/>quaedam dubia. Quorum primum est
+          qua<lb ed="#S" n="8" break="no"/>re sacerdos salutat populum dicens: Dominus
+          <lb ed="#S" n="9"/>vobiscum, et populus respondet: Et cum
+          spiri<lb ed="#S" n="10" break="no"/>tu tuo. Ad quod dicendum quod haec salutatio
+          Do<lb ed="#S" n="11" break="no"/>minus vobiscum sumpta est de libro Ruth
+          <lb ed="#S" n="12"/>ii c., ubi legitur Boos salutavit sic
+          messo<lb ed="#S" n="13" break="no"/>res suos. Et sic est sensus: Dominus vobiscum,
+          <lb ed="#S" n="14"/>id est petitiones vestras tribuat ad effectum, ut
+          <lb ed="#S" n="15"/>in vobis maneat et preces vestras exaudiat,
+          <lb ed="#S" n="16"/>gratiam conferat et praemia tribuat. Et clerus
+          <lb ed="#S" n="17"/>respondet: Et cum spiritu tuo, scilicet sit deus,
+          <lb ed="#S" n="18"/>qui spiritum rectum innovet in visceribus
+          <lb ed="#S" n="19"/>tuis, quia non exaudiuntur preces illius
+          <lb ed="#S" n="20"/>qui non spiritum rectum et sanctum habet;
+          <lb ed="#S" n="21"/>quasi dicat clerus et populus: Tu nobis
+          <lb ed="#S" n="22"/>quattuor optas dicendo Dominus
+          vo<lb ed="#S" n="23" break="no"/>biscum, ideo nos dicimus: Et cum
+          spi<lb ed="#S" n="24" break="no"/>ritu tuo, scilicet sit dominus, ut nobis
+          <lb ed="#S" n="25"/>valeas impetrare. Vel sic respondetur alia
+          <lb ed="#S" n="26"/>ratione ut detur intelligi quod sacerdos
+          <lb ed="#S" n="27"/>debet esse totus spiritualis. Est sensus:
+          <lb ed="#S" n="28"/>Et cum spiritu tuo, id est dominus qui
+          <lb ed="#S" n="29"/>est in ore tuo sit in corde tuo et in
+          men<lb ed="#S" n="30" break="no"/>te tua. Hoc autem verbum sumptum
+          <lb ed="#S" n="31"/>est ab apostolo, ii ad Chori. ultimo, ubi
+          <lb ed="#S" n="32"/>dicitur: Dominus Iesus Christus cum
+          <lb ed="#S" n="33"/>spiritu tuo. Deinde dicit Oremus, in
+          sig<lb ed="#S" n="34" break="no"/>num quod dixit Iesus discipulis: Orate ne
+          <lb ed="#S" n="35"/>intretis in temptationem.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3770">
+          <lb ed="#S" n="36"/>Secundum dubium est quotiens
+          <lb ed="#S" n="37"/>sacerdos salutat populum. Et dicendum
+          <lb ed="#S" n="38"/>quod septies, quando ipsemet dicit
+          evan<lb ed="#S" n="39" break="no"/>gelium, in signum quod dominus est
+          no<lb ed="#S" n="40" break="no"/>biscum quando habuimus gratiam
+          sep<lb ed="#S" n="41" break="no"/>tiformem spiritus sanctus. Salutat
+          <lb ed="#S" n="42"/>enim primo ante collectam, secundo
+          <lb ed="#S" n="43"/>in principio evangelii, tertio in fine vel
+          <lb ed="#S" n="44"/>post quando Credo dicitur, quarto in
+          <lb ed="#S" n="45"/>principio praefationis, quinto dicendo:
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="46"/>Pax domini, sexto in principio
+          orati<lb ed="#S" n="47" break="no"/>onis post communionem, septimo in fine.
+          <lb ed="#S" n="48"/>Tertium dubium est quotiens
+          ver<lb ed="#S" n="49" break="no"/>tit se ad populum sacerdos. Et dicendum
+          <lb ed="#S" n="50"/>quod quinquies; cuius causa est quia
+          Chri<lb ed="#S" n="51" break="no"/>stus apparuit quinquies in die
+          resur<lb ed="#S" n="52" break="no"/>rectionis. Sed in tertia visione, quae est
+          <lb ed="#S" n="53"/>post manuum lotionem, nihil dicit alte,
+          <lb ed="#S" n="54"/>quia illa repraesentat apparitionem
+          Sy<lb ed="#S" n="55" break="no"/>moni Petro, de qua non fit mentio in
+          evan<lb ed="#S" n="56" break="no"/>gelio quando fuit nec ubi fuit nec
+          quo<lb ed="#S" n="57" break="no"/>modo facta fuit.
+          <lb ed="#S" n="58"/>Quartum dubium est quare
+          epis<lb ed="#S" n="59" break="no"/>copus quando celebrat dicit Pax vobis.
+          <lb ed="#S" n="60"/>Ad quod dicendum quod episcopus
+          pro<lb ed="#S" n="61" break="no"/>prie est vicarius Christi et repraesentat
+          Chri<lb ed="#S" n="62" break="no"/>stum; Christus autem hoc verbum
+          dix<lb ed="#S" n="63" break="no"/>isse fatetur, Io. xx, discipulis suis. Et est
+          <lb ed="#S" n="64"/>sensus: Pax vobis; in praesenti detur pax
+          <lb ed="#S" n="65"/>vobis, pax pectoris et voluntatis, et in
+          fu<lb ed="#S" n="66" break="no"/>turo pax aeternitatis, quam pacem optavit
+          <lb ed="#S" n="67"/>Iesus discipulis suis, Io. xiiii: Pacem
+          <lb ed="#S" n="68"/>meam relinquo vobis pacem meam
+          <lb ed="#S" n="69"/>do vobis.
+          <lb ed="#S" n="70"/>Quintum dubium est circa ipsam orationem:
+          <lb ed="#S" n="71"/>quaeritur quare vocatur oratio vel collecta.
+          <lb ed="#S" n="72"/>Ad quod dicendum quod collecta dicitur pro tanto
+          <lb ed="#S" n="73"/>quod super populum collectum et congregatum
+          di<lb ed="#S" n="74" break="no"/>cebatur, ut habetur de conse. di. iii; vel etiam
+          <lb ed="#S" n="75"/>quia in ea recolligitur populi deprecatio
+          <lb ed="#S" n="76"/>et supplicatio. Dicitur etiam oratio, quia in
+          <lb ed="#S" n="77"/>illa oremus pro nostris necessitatibus
+          spiri<lb ed="#S" n="78" break="no"/>tualibus et temporalibus.
+          <lb ed="#S" n="79"/>Sextum dubium est quare dicitur in
+          dex<lb ed="#S" n="80" break="no"/>tera parte altaris. Et dicendum quod per
+          dex<lb ed="#S" n="81" break="no"/>teram bona aeterna et per sinistram
+          tempora<lb ed="#S" n="82" break="no"/>lia designantur, ut ergo ostendatur quod aeterna
+          <lb ed="#S" n="83"/>spiritualia primo petere debemus, iuxta
+          <lb ed="#S" n="84"/>illud: Primum quaerite regnum dei, Math. vi,
+          <lb ed="#S" n="85"/>ideo dicitur in dextera parte; vel etiam quia
+          <lb ed="#S" n="86"/>omnes orationes in nomine Christi fiunt, qui
+          <lb ed="#S" n="87"/>sedet ad dexteram, ut habetur Marci
+          ulti<lb ed="#S" n="88" break="no"/>mo; ideo in dextera parte dici debeat.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3890">
+          <lb ed="#S" n="89"/>Septimum dubium est quare
+          communi<lb ed="#S" n="90" break="no"/>ter oramus versus partem orientalem.
+          <pb ed="#S" n="29-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Ad quod dicendum quod versus orientem magis
+          <lb ed="#S" n="2"/>oramus propter multa: primo propter
+          sig<lb ed="#S" n="3" break="no"/>nificationem, ut sic significemus quod
+          illu<lb ed="#S" n="4" break="no"/>minatio mentis nostrae a deo est sicut
+          lu<lb ed="#S" n="5" break="no"/>men venit ab oriente; secundo quia
+          il<lb ed="#S" n="6" break="no"/>la est nobilior pars orbis; tertio propter
+          <lb ed="#S" n="7"/>opera quaedam nobiliora quae fiunt magis
+          <lb ed="#S" n="8"/>in oriente; nam ibi motus caeli incipit.
+          <lb ed="#S" n="9"/>Vel aliter, secundum quod dicit Damascenus,
+          <lb ed="#S" n="10"/>libro quarto, capitulo quinto,
+          osten<lb ed="#S" n="11" break="no"/>dens quod triplici ratione: prima ut terram
+          <lb ed="#S" n="12"/>nostram, scilicet paradisum terrestrem, in qua positus
+          <lb ed="#S" n="13"/>est primus homo nos affectare
+          monstra<lb ed="#S" n="14" break="no"/>remus, quae est in parte orientis; secunda
+          <lb ed="#S" n="15"/>ut ad Christum crucifixum, qui versus
+          orien<lb ed="#S" n="16" break="no"/>tem stans in cruce respiciebat,
+          attenda<lb ed="#S" n="17" break="no"/>mus; tertia ut ipsum venientem ad
+          <lb ed="#S" n="18"/>iudicium nos exspectare ostendamus, de
+          <lb ed="#S" n="19"/>quo dicitur in psalmo: Ascendit super caelum caeli
+          <lb ed="#S" n="20"/>ad orientem. Et ab illa parte debet venire
+          <lb ed="#S" n="21"/>iuxta illud Actuum i: Sic veniet
+          quem<lb ed="#S" n="22" break="no"/>admodum vidistis eum ascendentem.
+          <lb ed="#S" n="23"/>Octavum dubium est quot in caelum
+          <lb ed="#S" n="24"/>orationes debent dici in missa. Ad quod
+          dicen<lb ed="#S" n="25" break="no"/>dum quod aliquando solum una ratione
+          sollemni<lb ed="#S" n="26" break="no"/>tatis, sicut quando est duplex vel totum
+          du<lb ed="#S" n="27" break="no"/>plex festum; aliquando autem duae vel plures
+          <lb ed="#S" n="28"/>usque ad septenarium numerum. Innocentius
+          <lb ed="#S" n="29"/>reprobat, quia dominus in septem petitionibus
+          <lb ed="#S" n="30"/>docuit orare, et etiam quia verteretur in
+          taedi<lb ed="#S" n="31" break="no"/>um ultra, de conse. di. ii, Cum omnia.
+          Or<lb ed="#S" n="32" break="no"/>do autem noster, scilicet Praedicatorum, communiter non
+          <lb ed="#S" n="33"/>dicit nisi tres propter trinitatem personarum.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e3973">
+          <lb ed="#S" n="34"/>Nonum: quare communiter dicuntur quod
+          <lb ed="#S" n="35"/>in numero impari. Dicunt aliqui quod, quia
+          de<lb ed="#S" n="36" break="no"/>us detestatur divisionem, quae
+          nume<lb ed="#S" n="37" break="no"/>ro pari attribuitur; nam deo complacet
+          <lb ed="#S" n="38"/>in unitate et in indivisione, quae numero
+          <lb ed="#S" n="39"/>impari assignantur. Ita dicit Magister
+          Senten<lb ed="#S" n="40" break="no"/>tiarum, li. ii, exponendo illud quare deus non
+          <lb ed="#S" n="41"/>benedixit secundae diei in creatione rerum
+          dicen<lb ed="#S" n="42" break="no"/>do quod erant valde bona. Sed haec ratio non
+          <lb ed="#S" n="43"/>placet mihi, quia dualitas et numerus
+          bi<lb ed="#S" n="44" break="no"/>narius commendantur in sacra scriptura;
+          <lb ed="#S" n="45"/>unde Christus binos et binos misit
+          discipu<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>los. Item caritas, quae est maxima
+          vir<lb ed="#S" n="47" break="no"/>tutum, in duplici actu consistit; et Christus ex
+          <lb ed="#S" n="48"/>duabus naturis; et tota lex in his duobus
+          <lb ed="#S" n="49"/>mandatis pendet et prophetae, scilicet: Diliges
+          <lb ed="#S" n="50"/>dominum deum tuum, et: Proximum tuum sicut
+          <lb ed="#S" n="51"/>teipsum, ut dicit. Item tota scriptura
+          <lb ed="#S" n="52"/>sacra in duobus testamentis. Item
+          evan<lb ed="#S" n="53" break="no"/>gelia sunt numero pari. Item
+          episto<lb ed="#S" n="54" break="no"/>lae Pauli, quae sunt xiiii. Et quando dicitur quod
+          <lb ed="#S" n="55"/>dualitas fugit unitatem, ita ego
+          di<lb ed="#S" n="56" break="no"/>cam quod numerus impar fugit aequalitatem,
+          <lb ed="#S" n="57"/>in qua consistit iustitia; quare non valet.
+          <lb ed="#S" n="58"/>Ideo dico quod non fugit, immo claudit
+          <lb ed="#S" n="59"/>in se tamquam partem. Nec ratio Magistri valet, quia
+          <lb ed="#S" n="60"/>dicitur non benedixisse diei secundae nec
+          eti<lb ed="#S" n="61" break="no"/>am ex illa causa quam ipse ibi assignat,
+          <lb ed="#S" n="62"/>sed quia benedictio et laus perfectioni
+          de<lb ed="#S" n="63" break="no"/>betur; opus secundae diei sed tertia die
+          fu<lb ed="#S" n="64" break="no"/>it perfectum, ut habetur Gen. primo; ideo
+          <lb ed="#S" n="65"/>diei tertiae duplex benedictio datur, una
+          <lb ed="#S" n="66"/>pro operibus secundae diei et alia pro operibus
+          ter<lb ed="#S" n="67" break="no"/>tiae. Quapropter aliter dici potest iudicio nostro
+          <lb ed="#S" n="68"/>quod orationes diriguntur deo aut personae
+          divi<lb ed="#S" n="69" break="no"/>nae, in numero impari sunt; ideo
+          communi<lb ed="#S" n="70" break="no"/>ter in numero impari dicuntur.
+          Deci<lb ed="#S" n="71" break="no"/>mum dubium est quod, cum indivisa sint
+          <lb ed="#S" n="72"/>opera trinitatis et aequalis pater, aequalis filius,
+          <lb ed="#S" n="73"/>aequalis spiritus sanctus, quaeritur quare oratio
+          <lb ed="#S" n="74"/>non dirigitur spiritui sancto ita bene sicut patri
+          <lb ed="#S" n="75"/>vel filio, quia secundum Athanasium
+          omnipo<lb ed="#S" n="76" break="no"/>tens pater, omnipotens filius, omnipotens spiritus sanctus,
+          <lb ed="#S" n="77"/>et tamen omnes orationes diriguntur patri vel
+          <lb ed="#S" n="78"/>filio et numquam spiritui sancto. Ad hoc dicendum
+          <lb ed="#S" n="79"/>quod spiritus sanctus donum est; unde istud
+          <lb ed="#S" n="80"/>donum promittens Christus discipulis suis
+          <lb ed="#S" n="81"/>dicit: Paraclitus autem spiritus quem mittet
+          <lb ed="#S" n="82"/>pater in nomine meo etc.; a dono autem non
+          peti<lb ed="#S" n="83" break="no"/>tur donum sed a largitate doni; ideo etc.
+        </p>
+        <p xml:id="bptdom-a25czm-d1e4085">
+          <lb ed="#S" n="84"/>Undecimum dubium est quare
+          ali<lb ed="#S" n="85" break="no"/>quando dicimus in fine orationis Per dominum,
+          ali<lb ed="#S" n="86" break="no"/>quando Per eundem, aliquando Per eiusdem,
+          aliquan<lb ed="#S" n="87" break="no"/>do Qui tecum. Ad quod dicendum quod aliquando
+          <lb ed="#S" n="88"/>in oratione fit petitio a patre, et tunc debet
+          di<lb ed="#S" n="89" break="no"/>ci Per dominum; sed aliquando in oratione fit mentio
+          <lb ed="#S" n="90"/>de filio, sicut in oratione Deus qui in filii
+        </p>
+        <p xml:id="bptdom-a25czm-d1e4103">
+          <pb ed="#S" n="30-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>tui humilitate iacentem etc., et tunc
+          de<lb ed="#S" n="2" break="no"/>bet dici Per eundem. Aliquando ipsa oratio
+          diri<lb ed="#S" n="3" break="no"/>gitur ipsi filio directe, sicut in oratione
+          <lb ed="#S" n="4"/>Deus qui virginalem aulam etc., et tunc
+          <lb ed="#S" n="5"/>debet dici Qui vivis et regnas. Sed
+          ali<lb ed="#S" n="6" break="no"/>quando in fine orationis fit mentio de
+          fi<lb ed="#S" n="7" break="no"/>lio, sicut in oratione Respice quaesumus domine
+          <lb ed="#S" n="8"/>super hanc familiam tuam etc., et tunc debet
+          <lb ed="#S" n="9"/>dici Qui tecum vivit. Aliquando autem fit
+          men<lb ed="#S" n="10" break="no"/>tio de spiritu sancto etc., et tunc semper debet
+          <lb ed="#S" n="11"/>dici In unitate eiusdem etc., sicut in
+          oratio<lb ed="#S" n="12" break="no"/>ne Deus qui corda fidelium etc. Aliquando autem
+          <lb ed="#S" n="13"/>de nullo istorum fit mentio, sicut in
+          exorcis<lb ed="#S" n="14" break="no"/>mis et catechismis et orationibus aquae
+          bene<lb ed="#S" n="15" break="no"/>dictae et in quibusdam officiis
+          sepultu<lb ed="#S" n="16" break="no"/>rae, et tunc dicitur Per eum qui venturus est
+          <lb ed="#S" n="17"/>iudicare etc.; et quamvis benediceretur Per dominum, tamen
+          <lb ed="#S" n="18"/>dicitur Per eum qui venturus est iudicare etc.
+          <lb ed="#S" n="19"/>ad timorem daemonum, qui de iudicio
+          fi<lb ed="#S" n="20" break="no"/>nali plurimum terrentur. Unde versus: Per
+          <lb ed="#S" n="21"/>dominum dicas cum patrem presbyter oras;
+          <lb ed="#S" n="22"/>cum Christum memores, Per eundem dicere
+          <lb ed="#S" n="23"/>debes; cum Christo loqueris, Qui vivis
+          dice<lb ed="#S" n="24" break="no"/>re quaeris; Qui tecum sit sit collectae finis
+          <lb ed="#S" n="25"/>in ipso; si spiritus almus, Eiusdem dicere
+          <lb ed="#S" n="26"/>debes. Terminatur autem oratio dicendo
+          <lb ed="#S" n="27"/>Per omnia saecula saeculorum, quod potest intelligi sic,
+          <lb ed="#S" n="28"/>id est per omnia tempora, vel de saeculo futuro,
+          <lb ed="#S" n="29"/>quod omnia alia saecula transcendit. Et haec
+          <lb ed="#S" n="30"/>de praeparatione populi sufficiant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

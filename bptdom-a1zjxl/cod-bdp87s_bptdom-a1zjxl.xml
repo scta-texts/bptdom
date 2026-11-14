@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 1, Capitulum 2</title>
+        <author ref="#per-pbdq09">Bernardus de Parentis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtm">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 1, Capitulum 2</title>
+          <date when="2026-11-14">Nov 14, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-bdp87s">Speyer, 1487</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="4-r"/>
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bptdom-a1zjxl"><!-- p1c2 -->
+        <head xml:id="bptdom-a1zjxl-Hd1e111">Capitulum 2</head>
+        <head xml:id="bptdom-a1zjxl-Hd1e113" type="question-title">De instituentium auctoritate</head>
+        <p xml:id="bptdom-a1zjxl-d1e116">
+          <lb ed="#S" n="51"/>De secundo
+          prae<lb ed="#S" n="52" break="no"/>cedente. Capitulum ii.
+        </p>
+        <p xml:id="bptdom-a1zjxl-d1e123">
+          <lb ed="#S" n="53"/>Secundum praecedens quo
+          <lb ed="#S" n="54"/>redditur sacramentum
+          glo<lb ed="#S" n="55" break="no"/>riosum et laudabile est
+          insti<lb ed="#S" n="56" break="no"/>tuentium auctoritas, qui fuerunt Christus,
+          <lb ed="#S" n="57"/>Petrus, Iacobus et alii apostoli et sancti.
+          Chri<lb ed="#S" n="58" break="no"/>stus enim instituit hoc sacramentum
+          <lb ed="#S" n="59"/>quantum ad illud in quo substantialiter
+          <lb ed="#S" n="60"/>et essentialiter consistit, sicut habetur de
+          <lb ed="#S" n="61"/>consecratione di. ii, ca. Panis est in
+          alta<lb ed="#S" n="62" break="no"/>ri, ubi dicitur quod consecratio fit verbo domini
+          <lb ed="#S" n="63"/>nostri Iesu Christi, per reliqua autem laus
+          <lb ed="#S" n="64"/>deo offertur. Petrus etiam instituit, quia
+          <lb ed="#S" n="65"/>primus Antiochiae dicitur missam
+          cele<lb ed="#S" n="66" break="no"/>brasse sub tribus orationibus, ut dicit
+          Hu<lb ed="#S" n="67" break="no"/>go in libro v de sacramentis, c. viii Hanc
+          <lb ed="#S" n="68"/>igitur etc., et de consecratione di. iiii, c. Missam
+          <lb ed="#S" n="69"/>vero beatus Petrus etc. Item de
+          conse<lb ed="#S" n="70" break="no"/>cratione di. i: Iacobus. In gestis sextae
+          <lb ed="#S" n="71"/>synodi dicitur quod Iacobus frater
+          domi<lb ed="#S" n="72" break="no"/>ni secundum carnem, cui primum tradita est
+          <lb ed="#S" n="73"/>Hierosolymitana ecclesia, et Basilius
+          Cae<lb ed="#S" n="74" break="no"/>sariensis episcopus tradiderunt missae
+          cele<lb ed="#S" n="75" break="no"/>brationem. Est tamen notandum quod ordo
+          <lb ed="#S" n="76"/>missae quo ad crucificationem,
+          confes<lb ed="#S" n="77" break="no"/>sionem, psalmorum decantationem,
+          scrip<lb ed="#S" n="78" break="no"/>turarum sanctarum novi ac veteris
+          testamen<lb ed="#S" n="79" break="no"/>ti lectionem, fidei symboli perfectionem,
+          <lb ed="#S" n="80"/>pacis mutuam sumptionem, fuit ab
+          apostolo<lb ed="#S" n="81" break="no"/>rum temporibus observatus, introductus,
+          <lb ed="#S" n="82"/>ut attestatur apostolorum contemporaneus beatus
+          <lb ed="#S" n="83"/>Dionysius iii c. Ecclesiasticae hierarchiae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

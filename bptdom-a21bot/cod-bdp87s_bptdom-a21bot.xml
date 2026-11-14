@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 1, Capitulum 4</title>
+        <author ref="#per-pbdq09">Bernardus de Parentis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtm">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 1, Capitulum 4</title>
+          <date when="2026-11-14">Nov 14, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-bdp87s">Speyer, 1487</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="13-r"/>
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bptdom-a21bot"><!-- p1c4 -->
+        <head xml:id="bptdom-a21bot-Hd1e111">Capitulum 4</head>
+        <head xml:id="bptdom-a21bot-Hd1e113" type="question-title">De vestimentorum decentium multiplicitate</head>
+        <p xml:id="bptdom-a21bot-d1e116">
+          <lb ed="#S" n="27"/>De quarto
+          praece<lb ed="#S" n="28" break="no"/>dente. Capitulum iiii.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e123">
+          <lb ed="#S" n="29"/>Expeditis tribus praecedentibus propter
+          <lb ed="#S" n="30"/>quae hoc sacramentum redditur
+          <lb ed="#S" n="31"/>laudabile et gloriosum,
+          videli<lb ed="#S" n="32" break="no"/>cet ex diversorum nominum celebritate etc.,
+          <lb ed="#S" n="33"/>nunc agendum est de quarto, scilicet de
+          vesti<lb ed="#S" n="34" break="no"/>mentorum decentium multiplicitate.
+          Iux<lb ed="#S" n="35" break="no"/>ta quod notandum quod inter indumenta
+          <lb ed="#S" n="36"/>quae requiruntur in celebratione missae
+          <lb ed="#S" n="37"/>quaedam sunt non consecrata, sicut subtalaris, et
+          <lb ed="#S" n="38"/>quaedam consecrata, sicut reliqua. Et
+          divi<lb ed="#S" n="39" break="no"/>ditur istud capitulum in duas partes, unde
+          <lb ed="#S" n="40"/>in prima de his omnibus agetur in
+          ge<lb ed="#S" n="41" break="no"/>nerali, in secunda de quolibet in speciali.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e154">
+          <lb ed="#S" n="42"/>De indumentis
+          <lb ed="#S" n="43"/>sacerdotis in generali. Pars prima.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e162">
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="44"/>Primo ergo in generali agendum
+          <lb ed="#S" n="45"/>est de indumentis sacerdotum
+          <lb ed="#S" n="46"/>comparatis armis militum. Et
+          cir<lb ed="#S" n="47" break="no"/>ca hoc nota duo. Primo, secundum quod dicit
+          <lb ed="#S" n="48"/>Iohannes Beleth, sacerdos, tamquam advocatus
+          <lb ed="#S" n="49"/>et pugil cum hoste antiquo pugnaturus,
+          <lb ed="#S" n="50"/>vestibus quasi armis induitur. Sandalia
+          <lb ed="#S" n="51"/>vel subtalaria pro ocreis assumens, ne
+          ali<lb ed="#S" n="52" break="no"/>quid maculae aut pulveris affectionis
+          <lb ed="#S" n="53"/>inhaereat; amicta pro galea praetegit caput,
+          <lb ed="#S" n="54"/>humeros et corpus hinc inde in
+          circu<lb ed="#S" n="55" break="no"/>itu; alba pro lorica operit se; cingulo pro
+          <lb ed="#S" n="56"/>arcu, subcingulo pro pharetra (et dicitur
+          <lb ed="#S" n="57"/>subcingulum cum quo stola ligatur sub
+          <lb ed="#S" n="58"/>cingulo); cum stola collum circumdat, quasi
+          <lb ed="#S" n="59"/>hasta contra hostem vibrat; manipula
+          <lb ed="#S" n="60"/>pro clava utitur; casula quasi clypeo protegitur;
+          <lb ed="#S" n="61"/>manus libro pro gladio armat; post
+          con<lb ed="#S" n="62" break="no"/>fessionem diaboli domino renuntiat.
+          <lb ed="#S" n="63"/>Secundo nota quod quattuor colores
+          prin<lb ed="#S" n="64" break="no"/>cipales sunt, quibus secundum proprietatem dierum
+          <lb ed="#S" n="65"/>sacras vestes Romana designavit ecclesia,
+          <lb ed="#S" n="66"/>ad quos colores omnes alii colores
+          re<lb ed="#S" n="67" break="no"/>ducuntur, scilicet albus, rubeus, niger et
+          viri<lb ed="#S" n="68" break="no"/>dis. Nam et in legalibus indumentis
+          quat<lb ed="#S" n="69" break="no"/>tuor colores fuisse leguntur: byssus,
+          pur<lb ed="#S" n="70" break="no"/>pura, iacinctus, crocus. Albis coloribus
+          <lb ed="#S" n="71"/>utimur in festis confessorum et virginum propter
+          <lb ed="#S" n="72"/>eorum munditiam; item in festis angelorum, propter
+          <lb ed="#S" n="73"/>eorum innocentiam; item in nativitate domini et
+          <lb ed="#S" n="74"/>beatae Mariae matris eius et Iohannis bap., propter eorum
+          <lb ed="#S" n="75"/>puritatem; in epiphaniae festo, propter
+          stel<lb ed="#S" n="76" break="no"/>lam et adorationem; in purificatione, propter
+          <lb ed="#S" n="77"/>ipsius Christi oblationem; in dedicatione
+          ec<lb ed="#S" n="78" break="no"/>clesiae, propter sollemnitatem ecclesiae.
+          Ru<lb ed="#S" n="79" break="no"/>beis utendum est in festo pentecostes,
+          <lb ed="#S" n="80"/>quia in specie ignis apparuit spiritus
+          <lb ed="#S" n="81"/>sanctus; in festo sanctae crucis, quia per
+          <lb ed="#S" n="82"/>eam mortem nostram destruxit Christus;
+          <lb ed="#S" n="83"/>in festis apostolorum et martyrum, quia
+          qui<lb ed="#S" n="84" break="no"/>libet eorum propter Christum sanguinem suum
+          <lb ed="#S" n="85"/>fuderit. Nigris in officio defunctorum et
+          <lb ed="#S" n="86"/>in diebus abstinentiae et afflictionis.
+          Vi<lb ed="#S" n="87" break="no"/>ridibus autem in profestis diebus et
+          <lb ed="#S" n="88"/>ferialibus et communibus, quia color
+          <pb ed="#S" n="13-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>viridis medius est sic scitis.
+          <lb ed="#S" n="2"/>De indumentis
+          sa<lb ed="#S" n="3" break="no"/>cerdotis in speciali. Pars ii.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e275">
+          <lb ed="#S" n="4"/>Secundo, in speciali magis
+          de<lb ed="#S" n="5" break="no"/>scendendo ad propositum, et
+          pri<lb ed="#S" n="6" break="no"/>mo agitur de non sacris, sicut
+          <lb ed="#S" n="7"/>sunt subtalares et sandalia, secundo de
+          sa<lb ed="#S" n="8" break="no"/>cris. Quantum ad primum sciendum
+          <lb ed="#S" n="9"/>quod sacerdos celebrans semper debet esse calceatus
+          <lb ed="#S" n="10"/>subtalaribus vel sandaliis, etiam qui voto
+          <lb ed="#S" n="11"/>professionis habent ire discalceati, et hoc ad
+          <lb ed="#S" n="12"/>repraesentandum humanitatem Christi, cuius
+          <lb ed="#S" n="13"/>calceamenti corrigiam Iohannes baptista
+          sol<lb ed="#S" n="14" break="no"/>vere non audebat, Luc. iii. Ratio enim alia
+          <lb ed="#S" n="15"/>reddi posset, secundum Isidorum in glosa super
+          <lb ed="#S" n="16"/>Exodum, quia in veteri testamento illi qui
+          <lb ed="#S" n="17"/>repudiabant uxores discalceabant se;
+          <lb ed="#S" n="18"/>ideo Iudaei dicuntur discalceati, quia per
+          <lb ed="#S" n="19"/>Christum synagoga fuit repudiata. Sed ad
+          <lb ed="#S" n="20"/>sacrificandum nos incedimus calceati
+          <lb ed="#S" n="21"/>in signum desponsationis Christi et ecclesiae.
+          <lb ed="#S" n="22"/>Secundo agendum est de
+          indumen<lb ed="#S" n="23" break="no"/>tis sacris, quae sunt in quolibet sacerdote
+          <lb ed="#S" n="24"/>ad minus sex; et secundum hoc videbuntur
+          <lb ed="#S" n="25"/>multa per ordinem.
+          <lb ed="#S" n="26"/>Primo quaeritur quare has vestes
+          porta<lb ed="#S" n="27" break="no"/>mus. Et dicendum quod ratio est duplex:
+          <lb ed="#S" n="28"/>una ut Christum imitemur, alia ut
+          spi<lb ed="#S" n="29" break="no"/>ritualiter informemur; et secundum hoc sunt
+          <lb ed="#S" n="30"/>duo modi assignandi indumenta ista.
+          Pri<lb ed="#S" n="31" break="no"/>mo ut Christum imitemur. Nam amictus
+          sig<lb ed="#S" n="32" break="no"/>nat in Christo velamen quo fuit velatus quando
+          <lb ed="#S" n="33"/>dictum est sibi: Prophetiza quis est qui te
+          per<lb ed="#S" n="34" break="no"/>cussit, Lucae xxii. Alba totum corpus
+          te<lb ed="#S" n="35" break="no"/>gens signat in Christo vestimentum quo
+          Hero<lb ed="#S" n="36" break="no"/>des illusit eum, quod erat albissimum, Lucae
+          <lb ed="#S" n="37"/>xxiii. Cingulum significat flagellum quo Pilatus
+          <lb ed="#S" n="38"/>cecidit Christum, Io. xix; manipulus funem
+          <lb ed="#S" n="39"/>quo ligatus fuit a Iudaeis, Io. xviii:
+          Compre<lb ed="#S" n="40" break="no"/>henderunt eum et ligaverunt Christum. Stola
+          repraesen<lb ed="#S" n="41" break="no"/>tat ligaturam qua fuit ligatus ad columnam,
+          <lb ed="#S" n="42"/>Io. xix. Casula significat purpureum
+          <lb ed="#S" n="43"/>vestimentum quo circumdederunt eum
+          <lb ed="#S" n="44"/>Io. xix. Secundo ut mortaliter et
+          spi<cb ed="#S" n="b"/><lb ed="#S" n="45" break="no"/>ritualiter informemur; nam amictus
+          sig<lb ed="#S" n="46" break="no"/>nat in nobis salutem, quam accipimus per
+          <lb ed="#S" n="47"/>fidem, ad Ephe. vi: Galeam salutis
+          assu<lb ed="#S" n="48" break="no"/>mite. Alba quae totum corpus tegit a
+          <lb ed="#S" n="49"/>summo usque deorsum signat spem, quam
+          <lb ed="#S" n="50"/>ex gratia habemus (ecce summum) et ex
+          <lb ed="#S" n="51"/>meritis nostris (ecce deorsum); et ideo
+          <lb ed="#S" n="52"/>ad Ro. viii: Spe salvi facti sumus.
+          Cin<lb ed="#S" n="53" break="no"/>gulum autem signat iustitiam quam
+          ha<lb ed="#S" n="54" break="no"/>bere debemus, et habet duo brachia, scilicet
+          <lb ed="#S" n="55"/>declinare a malo et facere bonum, Isa. xi:
+          <lb ed="#S" n="56"/>Erit iustitia cingulum lumborum eius.
+          <lb ed="#S" n="57"/>Manipulus autem, qui in manu ponitur,
+          <lb ed="#S" n="58"/>signat in nobis fortitudinem contra
+          im<lb ed="#S" n="59" break="no"/>petum diaboli. Stola, quae habet duo
+          <lb ed="#S" n="60"/>brachia pendentia signat in nobis
+          pru<lb ed="#S" n="61" break="no"/>dentiam et temperantiam; unde ad Titum ii:
+          <lb ed="#S" n="62"/>Sobrie pie et iuste vivamus in hoc
+          sae<lb ed="#S" n="63" break="no"/>culo. Casula, quae totum corpus tegit,
+          <lb ed="#S" n="64"/>signat in nobis caritatem, quia caritas
+          <lb ed="#S" n="65"/>operit multitudinem peccatorum. Ideo fides,
+          <lb ed="#S" n="66"/>spes, caritas, prudentia, temperantia,
+          forti<lb ed="#S" n="67" break="no"/>tudo, iustitia indumentum eius. Vel aliter:
+          <lb ed="#S" n="68"/>amictus in Christo signat incarnationem,
+          <lb ed="#S" n="69"/>Apoc. x: Vidi alterum angelum
+          descen<lb ed="#S" n="70" break="no"/>dentem de caelo amictum nube, id est
+          hu<lb ed="#S" n="71" break="no"/>manitate, et iris in capite eius. Significat
+          <lb ed="#S" n="72"/>enim in nobis tria. Primo, quia per
+          ami<lb ed="#S" n="73" break="no"/>ctum caput tegitur, signat quod pars
+          su<lb ed="#S" n="74" break="no"/>perior debet esse cooperta, ut peccato
+          <lb ed="#S" n="75"/>non consentiat. Secundo ad humeros
+          <lb ed="#S" n="76"/>protenditur, signans quod non debet
+          retra<lb ed="#S" n="77" break="no"/>hi a laboribus et oneribus bonis, quia
+          <lb ed="#S" n="78"/>in humeris communiter portantur.
+          Ter<lb ed="#S" n="79" break="no"/>tio per corpus hinc inde in circuitu
+          <lb ed="#S" n="80"/>tegitur, significans quod non debet esse
+          ne<lb ed="#S" n="81" break="no"/>gligens, sed circumspectus ad omnia
+          <lb ed="#S" n="82"/>quae debet facere et debet habere vigilantiam.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e450">
+          <lb ed="#S" n="83"/>De alba.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e455">
+          <lb ed="#S" n="84"/>Alba significat in Christo
+          puri<lb ed="#S" n="85" break="no"/>tatem et innocentiam, qui in
+          <lb ed="#S" n="86"/>albis lineis vestitus dicitur, Ezech. ix:
+          <lb ed="#S" n="87"/>Vir quoque unus in medio eorum erat
+        </p>
+        <p xml:id="bptdom-a21bot-d1e466">
+          <pb ed="#S" n="14-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>vestitus lineis et cetera. In nobis
+          sig<lb ed="#S" n="2" break="no"/>nificat munditiam, quia prae aliis
+          co<lb ed="#S" n="3" break="no"/>loribus albedo munditiam manifestat;
+          <lb ed="#S" n="4"/>unde de his qui non inquinaverunt
+          <lb ed="#S" n="5"/>vestimenta sua dicitur, Apoc. iii:
+          Ambu<lb ed="#S" n="6" break="no"/>labunt mecum in albis. Item
+          signifi<lb ed="#S" n="7" break="no"/>cat perseverantiam, quia longa est usque
+          <lb ed="#S" n="8"/>ad talos; unde in figura huius legitur,
+          <lb ed="#S" n="9"/>Gen. xxxvii, Ioseph habuisse tunicam
+          <lb ed="#S" n="10"/>talarem et cetera.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e495">
+          <lb ed="#S" n="11"/>De cingulo.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e501">
+          <lb ed="#S" n="12"/>Cingulum in pectore
+          signifi<lb ed="#S" n="13" break="no"/>cat in Christo fortitudinem et
+          <lb ed="#S" n="14"/>patientiam, Apoc. i: Vidi similem
+          <lb ed="#S" n="15"/>filio hominis vestitum podere et
+          prae<lb ed="#S" n="16" break="no"/>cinctum ad mamillas zona aurea. In
+          <lb ed="#S" n="17"/>sacerdote autem significat, quod cingulum
+          <lb ed="#S" n="18"/>vestes componit et restringit, quod debet
+          <lb ed="#S" n="19"/>esse compositus honestis moribus et
+          <lb ed="#S" n="20"/>restrictis a desideriis carnalibus.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e523">
+          <lb ed="#S" n="21"/>De stola.
+          <lb ed="#S" n="22"/>Stola in collo significat in
+          Chri<lb ed="#S" n="23" break="no"/>sto humilitatem et
+          oboedienti<lb ed="#S" n="24" break="no"/>am, ad Philipp. ii: Quia
+          fact<lb ed="#S" n="25" break="no"/>us est pro nobis oboediens usque etc. In
+          <lb ed="#S" n="26"/>sacerdote autem tria significat secundum
+          <lb ed="#S" n="27"/>quod stola tria facit. Nam per ipsum collum
+          <lb ed="#S" n="28"/>cingitur, ut crux ducitur, super pectus
+          <lb ed="#S" n="29"/>ponitur. Per primum significatur
+          ve<lb ed="#S" n="30" break="no"/>ra oboedientia, per secundum Christi
+          passi<lb ed="#S" n="31" break="no"/>onis memoria, per tertium quod haec vita
+          <lb ed="#S" n="32"/>est contemnenda et caelestis desideranda.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e552">
+          <lb ed="#S" n="33"/>De manipulo.
+          <lb ed="#S" n="34"/>Manipulus in brachio
+          signifi<lb ed="#S" n="35" break="no"/>cat in Christo fruitionem
+          per<lb ed="#S" n="36" break="no"/>petuam, quia simul fuit viator
+          <lb ed="#S" n="37"/>et comprehensor; per manipulum enim
+          <lb ed="#S" n="38"/>messis gloriae designatur; unde in
+          psal<lb ed="#S" n="39" break="no"/>mo: Venientes autem venient cum
+          <lb ed="#S" n="40"/>exultatione portantes manipulos
+          su<lb ed="#S" n="41" break="no"/>os. Sed in hoc quod in sinistra parte
+          por<lb ed="#S" n="42" break="no"/>tatur designatur praesentis vitae
+          cala<cb ed="#S" n="b"/><lb ed="#S" n="43" break="no"/>mitas in qua existens Christus fuit beatus
+          <lb ed="#S" n="44"/>secundum animam. In sacerdote autem
+          <lb ed="#S" n="45"/>significat tria. Primo mortis iugem
+          <lb ed="#S" n="46"/>considerationem; ideo pendet
+          inferi<lb ed="#S" n="47" break="no"/>us. Secundo patientiam in
+          tribulati<lb ed="#S" n="48" break="no"/>onem; ideo in sinistra ponitur. Tertio
+          <lb ed="#S" n="49"/>boni operis continuationem; ideo per
+          <lb ed="#S" n="50"/>manipulum brachium cingitur.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e595">
+          <lb ed="#S" n="51"/>De casula.
+          <lb ed="#S" n="52"/>Casula alia vestimenta
+          circum<lb ed="#S" n="53" break="no"/>dans signat in Christo
+          intensi<lb ed="#S" n="54" break="no"/>vam caritatem. In sacerdote
+          <lb ed="#S" n="55"/>autem significat tria quae conveniunt
+          <lb ed="#S" n="56"/>caritati. Nam casula est ultimum
+          indu<lb ed="#S" n="57" break="no"/>mentum; sic et caritas est
+          complemen<lb ed="#S" n="58" break="no"/>tum virtutum. Item sicut casula alia
+          <lb ed="#S" n="59"/>operit indumenta, sic caritas operit
+          mul<lb ed="#S" n="60" break="no"/>titudinem peccatorum, ut habetur i
+          <lb ed="#S" n="61"/>ad Chorin. xiii et Proverbiorum x. Item
+          ca<lb ed="#S" n="62" break="no"/>sula est omnium indumentorum
+          pul<lb ed="#S" n="63" break="no"/>chritudo et forma; sic et caritas est
+          de<lb ed="#S" n="64" break="no"/>cor et pulchritudo omnium virtutum,
+          <lb ed="#S" n="65"/>quia sine caritate nihil sum, dicit
+          apo<lb ed="#S" n="66" break="no"/>stolus ad Colocen. xiii. Et nota: si
+          sa<lb ed="#S" n="67" break="no"/>cerdos aliquod istorum sex
+          indumen<lb ed="#S" n="68" break="no"/>torum omittat, non est irregularis;
+          pec<lb ed="#S" n="69" break="no"/>cat tamen mortaliter, si scienter
+          dimit<lb ed="#S" n="70" break="no"/>tat. Subtalares etiam nullo modo
+          di<lb ed="#S" n="71" break="no"/>mittere debet.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e643">
+          <lb ed="#S" n="72"/>Quaeritur quare sex indumenta
+          <lb ed="#S" n="73"/>portant sacerdotes in officio missae.
+          Di<lb ed="#S" n="74" break="no"/>cendum quod in ratione officii pertinentis
+          <lb ed="#S" n="75"/>ad sacerdotem, quia ipse habet super
+          <lb ed="#S" n="76"/>alios ministros sex officia quae
+          signifi<lb ed="#S" n="77" break="no"/>cantur per ista sex indumenta, scilicet
+          <lb ed="#S" n="78"/>catechizare, quod amictus signat;
+          bap<lb ed="#S" n="79" break="no"/>tizare, quod alba signat; praedicare, quod
+          <lb ed="#S" n="80"/>manipulus designat; ligare, quod
+          cin<lb ed="#S" n="81" break="no"/>gulum signat; solvere, quod stola
+          sig<lb ed="#S" n="82" break="no"/>nificat; consecrare, quod casula sive
+          pla<lb ed="#S" n="83" break="no"/>neta signat.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e672">
+          <lb ed="#S" n="84"/>Quaeritur utrum haec indumenta
+          <lb ed="#S" n="85"/>convenienter assignentur. Et videtur
+          <lb ed="#S" n="86"/>quod non, quod probatur in singulis ministris
+          <pb ed="#S" n="14-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>novi testamenti. Et primo quo ad
+          sa<lb ed="#S" n="2" break="no"/>cerdotes, quia in ecclesia ministri novi
+          <lb ed="#S" n="3"/>testamenti magis tenentur ad
+          castita<lb ed="#S" n="4" break="no"/>tem quam ministri veteris testamenti; sed
+          <lb ed="#S" n="5"/>inter alias vestes ministrorum veteris
+          <lb ed="#S" n="6"/>testamenti erant feminalia in signum
+          <lb ed="#S" n="7"/>castitatis; ergo multo fortius nunc
+          <lb ed="#S" n="8"/>debent esse inter vestes sacerdotum.
+          <lb ed="#S" n="9"/>Secundo quo ad episcopos, quia
+          or<lb ed="#S" n="10" break="no"/>do sacerdotalis est propinquior
+          ordi<lb ed="#S" n="11" break="no"/>nibus ministrorum quam ordo episcopalis;
+          <lb ed="#S" n="12"/>Sed sacerdos non utitur dalmatica
+          <lb ed="#S" n="13"/>quae est vestis diaconi, nec tunica, quae
+          <lb ed="#S" n="14"/>est vestis subdiaconi; ergo nec
+          episco<lb ed="#S" n="15" break="no"/>pus debet. Tertio quantum ad
+          archi<lb ed="#S" n="16" break="no"/>episcopos, quia quae exterius geruntur
+          <lb ed="#S" n="17"/>in ministris ecclesiae sunt signa
+          interi<lb ed="#S" n="18" break="no"/>oris potestatis; sed archiepiscopus non
+          <lb ed="#S" n="19"/>habet alterius generis potestatem quam
+          <lb ed="#S" n="20"/>episcopus, ut dicitur communiter;
+          er<lb ed="#S" n="21" break="no"/>go non debet habere pallium quod
+          epi<lb ed="#S" n="22" break="no"/>scopi non habent. Quarto quantum ad
+          <lb ed="#S" n="23"/>papam, quia plenitudo potestatis
+          resi<lb ed="#S" n="24" break="no"/>det penes papam; sed papa non portat
+          <lb ed="#S" n="25"/>baculum, qui significat potestatem,
+          si<lb ed="#S" n="26" break="no"/>cut portant alii episcopi; quare male.
+          <lb ed="#S" n="27"/>Dicendum quod indumenta ministrorum
+          <lb ed="#S" n="28"/>designant idoneitatem quae in eis
+          re<lb ed="#S" n="29" break="no"/>quiritur ad tractandum divina. Et quia
+          <lb ed="#S" n="30"/>quaedam sunt quae in omnibus
+          requi<lb ed="#S" n="31" break="no"/>runtur et quaedam quae
+          requirun<lb ed="#S" n="32" break="no"/>tur in superioribus, quae non exiguntur
+          <lb ed="#S" n="33"/>in inferioribus, ideo quaedam vestes sunt
+          <lb ed="#S" n="34"/>communes omnibus ministris,
+          quae<lb ed="#S" n="35" break="no"/>dam superioribus tantum. Omnibus
+          <lb ed="#S" n="36"/>autem ministris competit amictus,
+          <lb ed="#S" n="37"/>quo significatur fortitudo ad omnia
+          <lb ed="#S" n="38"/>divina officia exequenda. Similiter
+          <lb ed="#S" n="39"/>alba quae significat puritatem vitae,
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="40"/>et cingulum, quod significat
+          repressio<lb ed="#S" n="41" break="no"/>nem carnis. Sed subdiaconus
+          ulte<lb ed="#S" n="42" break="no"/>rius portat manipulum in sinistra, quo
+          <lb ed="#S" n="43"/>significatur extensio minimarum
+          ma<lb ed="#S" n="44" break="no"/>cularum, quia quasi sudarium portatur,
+          <lb ed="#S" n="45"/>quia ipse primo admittitur ad sacra
+          tra<lb ed="#S" n="46" break="no"/>ctanda. Item portat tunicam strictam,
+          <lb ed="#S" n="47"/>quae significat doctrinam Christi, quia
+          <lb ed="#S" n="48"/>ipse admittitur ad doctrinam novae
+          le<lb ed="#S" n="49" break="no"/>gis annuntiandam. Diaconus autem
+          <lb ed="#S" n="50"/>habet amplius, scilicet stolam in
+          sini<lb ed="#S" n="51" break="no"/>stro humero in signum quod applicatur
+          <lb ed="#S" n="52"/>ad ministerium in ipsis sacramentis.
+          <lb ed="#S" n="53"/>Item habet dalmaticam largam, quia
+          <lb ed="#S" n="54"/>ipse primo dispensator sacramentorum
+          <lb ed="#S" n="55"/>ponitur, ubi largitas requiritur.
+          Sa<lb ed="#S" n="56" break="no"/>cerdoti autem in utroque humero
+          sto<lb ed="#S" n="57" break="no"/>la ponitur, ut ostendatur plena
+          pote<lb ed="#S" n="58" break="no"/>stas dispensandi sacramenta; ideo
+          sto<lb ed="#S" n="59" break="no"/>la descendit usque ad inferiora. Habet
+          <lb ed="#S" n="60"/>etiam casulam, quae signat caritatem,
+          <lb ed="#S" n="61"/>quia sacramentum consecrat caritatis,
+          <lb ed="#S" n="62"/>scilicet eucharistiam. Sed episcopi
+          ha<lb ed="#S" n="63" break="no"/>bent ultra novem ornamenta,
+          scili<lb ed="#S" n="64" break="no"/>cet caligas, sandalia, succinctorium,
+          mi<lb ed="#S" n="65" break="no"/>tram, dalmaticam, tunicam,
+          chirothe<lb ed="#S" n="66" break="no"/>cas, anulum, baculum, quia novem
+          <lb ed="#S" n="67"/>sunt officia quae episcopi ultra
+          sacer<lb ed="#S" n="68" break="no"/>dotes possunt exercere, scilicet ordinare
+          cle<lb ed="#S" n="69" break="no"/>ricos, virgines benedicere, basilicas
+          <lb ed="#S" n="70"/>dedicare, clericos disponere, synodos
+          <lb ed="#S" n="71"/>celebrare, chrisma conficere, vestes et
+          va<lb ed="#S" n="72" break="no"/>sa consecrare et ultimo confirmare. Unde
+          <lb ed="#S" n="73"/>per caligas significatur rectitudo
+          gre<lb ed="#S" n="74" break="no"/>ssuum; per sandalia, quae pedes tegunt,
+          <lb ed="#S" n="75"/>contemptus terrenorum; per
+          suc<lb ed="#S" n="76" break="no"/>cinctorium, quo stola ligatur cum
+          al<lb ed="#S" n="77" break="no"/>ba, amor honestatis; per tunicam
+          per<lb ed="#S" n="78" break="no"/>severantia, quia Ioseph talarem
+          tu<lb ed="#S" n="79" break="no"/>nicam legitur habuisse, id est
+          descen<pb ed="#S" n="15-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1" break="no"/>dentem usque ad talos, per quos
+          signi<lb ed="#S" n="2" break="no"/>ficatur extremitas vitae; per
+          dalma<lb ed="#S" n="3" break="no"/>ticam largitas in operibus
+          misericor<lb ed="#S" n="4" break="no"/>diae; per chirothecas cautela in
+          ope<lb ed="#S" n="5" break="no"/>re; per mitram scientia utriusque
+          <lb ed="#S" n="6"/>testamenti, et ideo duo cornua habet;
+          <lb ed="#S" n="7"/>per baculum cura pastoralis, qua
+          <lb ed="#S" n="8"/>debet colligere vagos, quod
+          signifi<lb ed="#S" n="9" break="no"/>cat curvitas baculi, et pungere lentos,
+          <lb ed="#S" n="10"/>quod significat stimulus in pede
+          ba<lb ed="#S" n="11" break="no"/>culi, sustentare infirmos, quod
+          signi<lb ed="#S" n="12" break="no"/>ficat stipes baculi; unde versus:
+          Col<lb ed="#S" n="13" break="no"/>lige, sustenta, stimula vaga, morbida,
+          <lb ed="#S" n="14"/>lenta; per anulum sacramentum
+          fi<lb ed="#S" n="15" break="no"/>dei, qua ecclesia desponsatur Christo;
+          <lb ed="#S" n="16"/>Ipsi enim sunt in ecclesia loco Christi.
+          <lb ed="#S" n="17"/>Sed ulterius archiepiscopi pallium
+          <lb ed="#S" n="18"/>habent in signum privilegiatae
+          pote<lb ed="#S" n="19" break="no"/>statis; significat enim torquem
+          aure<lb ed="#S" n="20" break="no"/>am, quam solebant legittime
+          certan<lb ed="#S" n="21" break="no"/>tes accipere ‹…›. Modo ergo ad
+          argu<lb ed="#S" n="22" break="no"/>menta respondendum. Ad primum
+          <lb ed="#S" n="23"/>ergo dicendum quod non est simile, quia
+          <lb ed="#S" n="24"/>ministros novi testamenti perpetua
+          <lb ed="#S" n="25"/>castitas debet investire, sed
+          mini<lb ed="#S" n="26" break="no"/>stros veteris testamenti solo
+          tempo<lb ed="#S" n="27" break="no"/>re oblationis sacrificiorum et
+          tempo<lb ed="#S" n="28" break="no"/>re ministerii sui; et ideo in signum
+          <lb ed="#S" n="29"/>tunc servandae castitatis feminalibus
+          <lb ed="#S" n="30"/>utebantur. Ad secundum de
+          episco<lb ed="#S" n="31" break="no"/>pis dicendum quod potestas ministrorum
+          <lb ed="#S" n="32"/>est in episcopo sicut in origine, non
+        </p>
+        <p xml:id="bptdom-a21bot-d1e931">
+          <lb ed="#S" n="33"/>autem in sacerdote, quia ipse non
+          con<lb ed="#S" n="34" break="no"/>fert illos ordines; ideo magis potest
+          <lb ed="#S" n="35"/>uti vestibus illis episcopus quam
+          sa<lb ed="#S" n="36" break="no"/>cerdos. Ad tertium dicendum de
+          ar<lb ed="#S" n="37" break="no"/>chiepiscopo quod, quamvis habeat
+          potesta<lb ed="#S" n="38" break="no"/>tem eiusdem generis, tamen habet
+          am<lb ed="#S" n="39" break="no"/>pliorem; ideo ad hanc perfectionem
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="40"/>designandam datur sibi pallium, quo
+          <lb ed="#S" n="41"/>undique circumdatur. Ad quartum
+          <lb ed="#S" n="42"/>de papa quare non portat baculum.
+          <lb ed="#S" n="43"/>Ratio est duplex. Una ad
+          designan<lb ed="#S" n="44" break="no"/>dum quod papa non habet potestatem
+          <lb ed="#S" n="45"/>determinatam nec limitatam, quam
+          <lb ed="#S" n="46"/>curvitas baculi designat. Causa alia
+          <lb ed="#S" n="47"/>est quia beatus Petrus, cuius sunt
+          vi<lb ed="#S" n="48" break="no"/>carii omnes summi pontifices, misit
+          <lb ed="#S" n="49"/>baculum suum ad resuscitandum
+          <lb ed="#S" n="50"/>mortuum, nec extunc recuperavit.
+        </p>
+        <p xml:id="bptdom-a21bot-d1e975">
+          <lb ed="#S" n="51"/>Quaeritur quid dicendum est de
+          <lb ed="#S" n="52"/>vestibus sacris quando rumpuntur.
+          <lb ed="#S" n="53"/>Numquid possunt refici, ita ut de
+          no<lb ed="#S" n="54" break="no"/>vo non sit eas opus consecrari?
+          Re<lb ed="#S" n="55" break="no"/>sponsio secundum argumentum,
+          ex<lb ed="#S" n="56" break="no"/>tra de consecratione ecclesiae vel
+          alta<lb ed="#S" n="57" break="no"/>ris, in glosa super c. Quod in dubiis,
+          <lb ed="#S" n="58"/>ubi dicit quod filum non sacrum vel
+          pan<lb ed="#S" n="59" break="no"/>nus non consecratus potest apponi
+          <lb ed="#S" n="60"/>consecrato, nec est opus nova
+          conse<lb ed="#S" n="61" break="no"/>cratione consecrari, ar. eiusdem. Et
+          <lb ed="#S" n="62"/>dicit etiam quod dominus Alanus,
+          egre<lb ed="#S" n="63" break="no"/>gius doctor, ad quaestionem sic
+          respon<lb ed="#S" n="64" break="no"/>det, quod quamdiu remanet forma sacrae
+          ve<lb ed="#S" n="65" break="no"/>stis, etiam iterato consecrari non
+          opor<lb ed="#S" n="66" break="no"/>tet, licet per partes plures reficiatur;
+        </p>
+        <p xml:id="bptdom-a21bot-d1e1012">
+          <lb ed="#S" n="67"/>secus autem est si forma solvatur vel
+          <lb ed="#S" n="68"/>mutetur. Satis etiam concordat
+          <lb ed="#S" n="69"/>Hostiensis in glosa eiusdem c. Quod
+          <lb ed="#S" n="70"/>in dubiis. Quaeritur quid
+          agen<lb ed="#S" n="71" break="no"/>dum est de vestibus sacris quae
+          vetu<lb ed="#S" n="72" break="no"/>state consumptae sunt, utrum ad alios
+          <lb ed="#S" n="73"/>usus sunt convertendae. Et de hoc vide
+          <lb ed="#S" n="74"/>de consecra. dis. i, Altaris, ubi dicit quod
+          <lb ed="#S" n="75"/>vasa sacra et vestimenta vetustate
+          con<lb ed="#S" n="76" break="no"/>sumpta incendio debent tradi,
+          quo<lb ed="#S" n="77" break="no"/>niam non licet ea quae in sacrario
+          fue<lb ed="#S" n="78" break="no"/>runt male tractari.
+          <pb ed="#S" n="15-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Cineres quoque eorum in baptisterio
+          in<lb ed="#S" n="2" break="no"/>ferantur, ubi nullus transitum habeat,
+          <lb ed="#S" n="3"/>aut in pariete, aut in fossis
+          pavimen<lb ed="#S" n="4" break="no"/>torum iactentur, ne introeuntium
+          pe<lb ed="#S" n="5" break="no"/>dibus coinquinentur. Quaeritur de
+          <lb ed="#S" n="6"/>indumentis cum quibus degradati aut
+          <lb ed="#S" n="7"/>scismatici celebraverunt, et etiam de
+          alta<lb ed="#S" n="8" break="no"/>ribus ubi celebraverunt, utrum sunt
+          <lb ed="#S" n="9"/>consecranda propter hoc. Dicendum,
+          se<lb ed="#S" n="10" break="no"/>cundum Raymundum, quod indumenta ex hoc
+          <lb ed="#S" n="11"/>non debent iterum benedici nec altaria
+          <lb ed="#S" n="12"/>iterum consecrari, quod habetur extra
+          <lb ed="#S" n="13"/>de sacramentis non iterandis, a nobis,
+          <lb ed="#S" n="14"/>ubi haec omnia dicuntur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

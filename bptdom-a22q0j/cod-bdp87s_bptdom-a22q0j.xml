@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 1, Capitulum 5</title>
+        <author ref="#per-pbdq09">Bernardus de Parentis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtm">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 1, Capitulum 5</title>
+          <date when="2026-11-14">Nov 14, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-bdp87s">Speyer, 1487</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="15-v"/>
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bptdom-a22q0j"><!-- p1c5 -->
+        <head xml:id="bptdom-a22q0j-Hd1e111">Capitulum 5</head>
+        <head xml:id="bptdom-a22q0j-Hd1e113" type="question-title">De instrumentorum concurrentium multiformitate</head>
+        <p xml:id="bptdom-a22q0j-d1e116">
+          <lb ed="#S" n="15"/>De quinto
+          praeceden<lb ed="#S" n="16" break="no"/>te. Ca. v.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e123">
+          <lb ed="#S" n="17"/>Expeditis istis quattuor
+          praece<lb ed="#S" n="18" break="no"/>dentibus, consequenter in hoc
+          <lb ed="#S" n="19"/>capitulo restat agendum de v,
+          <lb ed="#S" n="20"/>quod reddit hoc sacramentum laudabile
+          <lb ed="#S" n="21"/>et gloriosum, scilicet de multiformitate
+          instru<lb ed="#S" n="22" break="no"/>mentorum concurrentium, quae sunt quinque,
+          <lb ed="#S" n="23"/>scilicet domus, altare, calix, corporale et lumen.
+          <lb ed="#S" n="24"/>Et secundum hoc dividitur in v partes. In
+          pri<lb ed="#S" n="25" break="no"/>ma de domo; et quantum ad domum
+          vide<lb ed="#S" n="26" break="no"/>buntur multa. Primo quaeritur ubi debet
+          <lb ed="#S" n="27"/>celebrari. Dicendum quod non debet celebrari
+          <lb ed="#S" n="28"/>missa nisi in ecclesia consecrata, si fieri potest,
+          <lb ed="#S" n="29"/>vel saltem in altari consecrato; vel, si haec non
+          <lb ed="#S" n="30"/>habentur, ad minus semper habeatur tabula parva
+          <lb ed="#S" n="31"/>consecrata. In necessitate tamen celebrari potest
+          <lb ed="#S" n="32"/>missa sub divo vel in tentoriis vel in
+          iti<lb ed="#S" n="33" break="no"/>nere, ut scilicet in exercitu honesto vel simili,
+          <lb ed="#S" n="34"/>dum tamen habeatur parva tabula, ut dictum est,
+          <lb ed="#S" n="35"/>et ornamenta necessaria, de conse. di. i, c.
+          <lb ed="#S" n="36"/>Concedimus, et c. Missarum. Praedicatoribus
+          <lb ed="#S" n="37"/>tamen et minoribus, ubicumque fuerint, concessum
+          <lb ed="#S" n="38"/>est quod sine praeiudicio parochialis ecclesiae
+          <lb ed="#S" n="39"/>possunt in altari portatili vel viatico
+          celebra<lb ed="#S" n="40" break="no"/>re, extra de privile., c. In his. Secundo
+          <lb ed="#S" n="41"/>quaeritur utrum in mari debeat celebrari.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e180">
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="42"/>Dicendum, secundum glosam Guillelmi, quod missa debet dici
+          <lb ed="#S" n="43"/>super terram solidam et non in mari, quia in
+          <lb ed="#S" n="44"/>mari vel fluminibus fluctu vel tempestate
+          <lb ed="#S" n="45"/>imminente fieret sanguinis effusio vel
+          <lb ed="#S" n="46"/>corporis indebita commotio. Introitus tamen
+          <lb ed="#S" n="47"/>missae potest ibi dici. Tertio quaeritur
+          qua<lb ed="#S" n="48" break="no"/>re ecclesia vel domus consecrari debet.
+          Dicen<lb ed="#S" n="49" break="no"/>dum quod propter quattuor rationes. Primo
+          <lb ed="#S" n="50"/>propter reverentiam illius qui realiter in
+          sacra<lb ed="#S" n="51" break="no"/>mento continetur, quem unxit deus suus, de
+          con<lb ed="#S" n="52" break="no"/>se. di. i, Ecclesiarum consecratione. Secundo propter
+          <lb ed="#S" n="53"/>ipsius loci efficaciam, quia in templo antiquae
+          le<lb ed="#S" n="54" break="no"/>gis erat aliqua virtus, ut habetur ii Mach.
+          <lb ed="#S" n="55"/>iii; ergo non minus in ecclesiis. Tertio
+          <lb ed="#S" n="56"/>propter angelorum frequentiam et daemonum
+          <lb ed="#S" n="57"/>terrorem et exclusionem. Quarto propter
+          in<lb ed="#S" n="58" break="no"/>formationem devotorum, quam perpendere debent,
+          <lb ed="#S" n="59"/>et ea quae materialiter aguntur spiritualiter in se
+          com<lb ed="#S" n="60" break="no"/>pleri. Quarto quaeritur quando ecclesia est
+          re<lb ed="#S" n="61" break="no"/>consecranda vel reconcilianda. Dicendum
+          quan<lb ed="#S" n="62" break="no"/>tum ad reconsecrationem, quod antiqui sex casus
+          <lb ed="#S" n="63"/>assignabant in quibus ecclesia reconsecrari
+          <lb ed="#S" n="64"/>debeat; unde versus: Ignis, adulterium,
+          de<lb ed="#S" n="65" break="no"/>structio, mensa remota, mors, dubium
+          fa<lb ed="#S" n="66" break="no"/>ciunt iterato templa sacrari, de conse. di. i,
+          <lb ed="#S" n="67"/>Sollemnizantes, et c. Ecclesiis. Sed
+          di<lb ed="#S" n="68" break="no"/>cit glosa quod, si hoc verbum sacrari accipitur pro
+          <lb ed="#S" n="69"/>reconsecratione et reconciliatione, verum est quod
+          <lb ed="#S" n="70"/>dicunt versus; alias non est verum generaliter.
+          <lb ed="#S" n="71"/>Et ideo tenendum est, secundum
+          Hosti<lb ed="#S" n="72" break="no"/>ensem, quantum ad ignem, quod si
+          tan<lb ed="#S" n="73" break="no"/>tummodo tectum vel aliqua pars eius
+          <lb ed="#S" n="74"/>combusta est et remanent parietes
+          in<lb ed="#S" n="75" break="no"/>tegri, non est reconsecranda ecclesia vel
+          <lb ed="#S" n="76"/>altare, ubi non fuit mota tabula
+          alta<lb ed="#S" n="77" break="no"/>ris superior, quae appellatur mensa; et
+          <lb ed="#S" n="78"/>dico mota, id est mutata vel destructa
+          e<lb ed="#S" n="79" break="no"/>normiter, quia propter modicam
+          fra<lb ed="#S" n="80" break="no"/>cturam non oporteret. Si vero
+          ec<lb ed="#S" n="81" break="no"/>clesia ita sit combusta quod omnes
+          parie<lb ed="#S" n="82" break="no"/>tes sunt combusti et disrupti, vel saltem
+          <lb ed="#S" n="83"/>maiores, debet iterum consecrari, de
+          con<lb ed="#S" n="84" break="no"/>secratione distin. i, Ecclesias. Idem si
+          <lb ed="#S" n="85"/>tota ecclesia vel maior pars simul
+          de<lb ed="#S" n="86" break="no"/>structa est vel disrupta.
+          <pb ed="#S" n="16-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Si vero parietes sint successive rupti
+          <lb ed="#S" n="2"/>vel destructi, ecclesia intelligitur repari,
+          <lb ed="#S" n="3"/>et ideo sufficit reconciliatio et aquae
+          ex<lb ed="#S" n="4" break="no"/>orcizatio cum sollemnitate missae, de
+          con<lb ed="#S" n="5" break="no"/>secratione di. i, De fabrica. Dicit etiam
+          <lb ed="#S" n="6"/>Innocentius quod, cum consecratio
+          eccle<lb ed="#S" n="7" break="no"/>siae potissime consistat in superiori tam
+          <lb ed="#S" n="8"/>interius quam exterius (nam ibi fit
+          asper<lb ed="#S" n="9" break="no"/>sio aquae et pinguntur cruces et fiunt
+          <lb ed="#S" n="10"/>unctiones), devastata superficie
+          enormi<lb ed="#S" n="11" break="no"/>ter per exustionem vel alio modo, forte
+          <lb ed="#S" n="12"/>reconsecranda est. Si vero superficies
+          <lb ed="#S" n="13"/>tantum exusta fuerit, nec altare fuerit
+          <lb ed="#S" n="14"/>crematum vel locus ille in quo sunt
+          <lb ed="#S" n="15"/>cruces et reliquiae positae, non est
+          recon<lb ed="#S" n="16" break="no"/>secranda. Item reconsecranda est
+          eccle<lb ed="#S" n="17" break="no"/>sia quando dubitatur an fuit
+          consecra<lb ed="#S" n="18" break="no"/>ta; idem de altari. Propter
+          homicidi<lb ed="#S" n="19" break="no"/>um vel adulterium non debet
+          reconse<lb ed="#S" n="20" break="no"/>crari ecclesia, sed reconciliari, et hoc per
+          <lb ed="#S" n="21"/>aquam cum vino et cinere benedictam,
+          <lb ed="#S" n="22"/>extra de consecratione ecclesiae,
+          Proposu<lb ed="#S" n="23" break="no"/>isti, et de adulteriis, Significasti.
+          Colligun<lb ed="#S" n="24" break="no"/>tur autem ex his casus in quibus
+          re<lb ed="#S" n="25" break="no"/>consecranda est ecclesia, scilicet quando
+          <lb ed="#S" n="26"/>propter dubium; item post incendium,
+          <lb ed="#S" n="27"/>quando in toto vel in maiori parte
+          si<lb ed="#S" n="28" break="no"/>mul vel successive per partes
+          enormi<lb ed="#S" n="29" break="no"/>ter destructa est vel decrustata; item
+          <lb ed="#S" n="30"/>si excommunicatus fuerit sepultus in
+          <lb ed="#S" n="31"/>ecclesia; item, secundum Hostiensem,
+          <lb ed="#S" n="32"/>extumulandus est et parietes radendi
+          <lb ed="#S" n="33"/>sunt, de consecratione di. i, Ecclesiam.
+          <lb ed="#S" n="34"/>Item dicit Hostiensis: si ecclesia vel
+          cy<lb ed="#S" n="35" break="no"/>miterium vel aliquod quodcumque
+          sa<lb ed="#S" n="36" break="no"/>crum ab episcopo publice
+          excommuni<lb ed="#S" n="37" break="no"/>cato consecratur aut benedicitur, pari
+          <lb ed="#S" n="38"/>modo fiat. Quantum ad
+          reconcili<lb ed="#S" n="39" break="no"/>ationem, dicendum quod reconcilianda
+          <lb ed="#S" n="40"/>est propter effusionem sanguinis aut
+          <lb ed="#S" n="41"/>seminis. Quantum autem ad
+          effusio<lb ed="#S" n="42" break="no"/>nem sanguinis, nota quod aut est gravis
+          <lb ed="#S" n="43"/>et enormis, et tunc debet reconciliari,
+          <lb ed="#S" n="44"/>aut est levis et modica, ut si aliquis
+          for<lb ed="#S" n="45" break="no"/>te contendat cum aliquo in ecclesia
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="46"/>et impetu facto in eo offendat nares
+          <lb ed="#S" n="47"/>eius vel cum ungue aliquantulum
+          <lb ed="#S" n="48"/>excoriet et sanguis fluat, maxime
+          quan<lb ed="#S" n="49" break="no"/>do ille qui hoc facit non habet
+          propo<lb ed="#S" n="50" break="no"/>situm effundendi sanguinem; et tunc
+          <lb ed="#S" n="51"/>non oportet reconciliari.
+          <lb ed="#S" n="52"/>Quaeritur primo quid si in ecclesia
+          <lb ed="#S" n="53"/>martyr occidatur sicut factum fuit de
+          <lb ed="#S" n="54"/>sancto Thoma Cantuariensi. Responsio:
+          <lb ed="#S" n="55"/>Dicunt quidam quod propter hoc non
+          <lb ed="#S" n="56"/>est reconcilianda ecclesia, quia
+          sangui<lb ed="#S" n="57" break="no"/>nis huiusmodi effusio ecclesiam non
+          <lb ed="#S" n="58"/>polluit.
+          <lb ed="#S" n="59"/>Quaeritur secundo si in ecclesia
+          ali<lb ed="#S" n="60" break="no"/>quis vulneretur letaliter et postea
+          mo<lb ed="#S" n="61" break="no"/>riatur in domo, vel econtrario, an sit
+          <lb ed="#S" n="62"/>reconcilianda ecclesia. Responsio:
+          Hu<lb ed="#S" n="63" break="no"/>go dicit quod ibi iudicatur quis mortuus
+          <lb ed="#S" n="64"/>ubi causam mortis suscepit. Unde si
+          <lb ed="#S" n="65"/>quis extra ecclesiam vulneretur
+          letali<lb ed="#S" n="66" break="no"/>ter et fugiens ad ecclesiam et ibi
+          moria<lb ed="#S" n="67" break="no"/>tur, non reputabitur violata
+          homici<lb ed="#S" n="68" break="no"/>dio; sicut si quis vulneret letaliter
+          ser<lb ed="#S" n="69" break="no"/>vum suum, licet tempore mortis factus
+          <lb ed="#S" n="70"/>sit liber, non punietur occisor tamquam
+          <lb ed="#S" n="71"/>pro libero occiso sed tamquam pro servo.
+          <lb ed="#S" n="72"/>Quaeritur tertio quid si ex lapide vel
+          <lb ed="#S" n="73"/>ligno cadente de ecclesia aliquis
+          occi<lb ed="#S" n="74" break="no"/>datur aut ictu proprio occisus fuerit.
+          <lb ed="#S" n="75"/>Responsio: videtur Hugo notasse, de
+          con<lb ed="#S" n="76" break="no"/>secratione di. i, Ecclesiis, quod in his
+          ca<lb ed="#S" n="77" break="no"/>sibus non sit reconcilianda ecclesia
+          <lb ed="#S" n="78"/>ex quo per conceptionem non est
+          effu<lb ed="#S" n="79" break="no"/>sio sanguinis facta; tamen loquitur
+          <lb ed="#S" n="80"/>ibi de consecratione, non de
+          reconcili<lb ed="#S" n="81" break="no"/>atione nisi nomine consecrationis
+          in<lb ed="#S" n="82" break="no"/>telligas reconciliationem. Sed
+          Hostien<lb ed="#S" n="83" break="no"/>sis in glosa super c. Si ecclesia dicit
+          <lb ed="#S" n="84"/>simpliciter quod in huiusmodi casibus
+          <lb ed="#S" n="85"/>fortuitis, et ubi non est mala voluntas
+          <lb ed="#S" n="86"/>hominis ad violentiam aliquam, non
+          <lb ed="#S" n="87"/>est ibi necessaria reconciliatio.
+          Quan<lb ed="#S" n="88" break="no"/>tum autem ad effusionem seminis
+          di<lb ed="#S" n="89" break="no"/>stinguitur, quia aut fuit in somniis, et
+          <lb ed="#S" n="90"/>tunc non debet reconciliari, aut in vigilia,
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e485">
+          <pb ed="#S" n="16-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>fornicando, adulterando aut peccatum
+          <lb ed="#S" n="2"/>sodomiticum committendo. Et tunc
+          dis<lb ed="#S" n="3" break="no"/>stinguendum est, quia aut est occultum,
+          <lb ed="#S" n="4"/>et tunc secundum plures non indiget
+          <lb ed="#S" n="5"/>reconciliatione. Si autem est manifestum
+          <lb ed="#S" n="6"/>tunc adhuc distinguunt aliqui, quia
+          <lb ed="#S" n="7"/>aut uxori debitum reddendo vel causa
+          <lb ed="#S" n="8"/>prolis, et tunc secundum aliquos non
+          <lb ed="#S" n="9"/>oportet reconciliari, tamen verius creditur
+          <lb ed="#S" n="10"/>quod sic; aut alias, et tunc indiget
+          recon<lb ed="#S" n="11" break="no"/>ciliatione.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e516">
+          <lb ed="#S" n="12"/>Sed circa hoc quaeritur quid si
+          sacer<lb ed="#S" n="13" break="no"/>dos tantum in confessione sciat ecclesiam
+          <lb ed="#S" n="14"/>esse pollutam. Dicendum secundum
+          <lb ed="#S" n="15"/>Hostiensem quod tutius est ut hoc revelet
+          <lb ed="#S" n="16"/>episcopo in genere, sic dicendo: Talis
+          <lb ed="#S" n="17"/>ecclesia indiget reconciliatione; non
+          <lb ed="#S" n="18"/>quaeratis a me ultra. Tamen dici possit
+          <lb ed="#S" n="19"/>teneri quod presbyter qui hoc scit tamquam
+          <lb ed="#S" n="20"/>deus potest ibi salva conscientia
+          cele<lb ed="#S" n="21" break="no"/>brare; argu. extra de sen. ex coi., Non ab
+          <lb ed="#S" n="22"/>homine. Idem tenet Hostiensis in glosa
+          <lb ed="#S" n="23"/>super c. Si ecclesia, et satis sustinet
+          pri<lb ed="#S" n="24" break="no"/>mam opinionem et confirmate ratione.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e547">
+          <lb ed="#S" n="25"/>De altare. Pars
+          <lb ed="#S" n="26"/>secunda quinto capitu.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e554">
+          <lb ed="#S" n="27"/>Secundo proceditur agendo
+          <lb ed="#S" n="28"/>de secundo instrumento quod
+          <lb ed="#S" n="29"/>concurrit ad hoc sacramentum
+          <lb ed="#S" n="30"/>conficiendum quod est altare circa quod
+          <lb ed="#S" n="31"/>videndae sunt quattuor conditiones per
+          <lb ed="#S" n="32"/>ordinem. Prima, quod sit lapideum, et hoc
+          <lb ed="#S" n="33"/>propter tria. Primo propter sepulchrum
+          <lb ed="#S" n="34"/>Christi repraesentationem. Secundo propter
+          <lb ed="#S" n="35"/>ipsius Christi significationem, quia altare
+          <lb ed="#S" n="36"/>significat Christum, qui petrae comparatur,
+          <lb ed="#S" n="37"/>i ad Chorin.: Petra autem erat Christus.
+          <lb ed="#S" n="38"/>Tertio propter materiae conditionem,
+          <lb ed="#S" n="39"/>quia communis est et ubique invenitur.
+          <lb ed="#S" n="40"/>Secunda conditio est quod debet esse
+          con<lb ed="#S" n="41" break="no"/>secratum, quia consecratio eius
+          signi<lb ed="#S" n="42" break="no"/>ficat consecrationem Christi, de qua Ps.:
+          <lb ed="#S" n="43"/>Unxit te deus deus tuus, et cetera. Et
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="44"/>Adde, si vis, tres rationes quas
+          inve<lb ed="#S" n="45" break="no"/>nies de dedicatione ecclesiae. Et nota
+          <lb ed="#S" n="46"/>bene quae ibi fiunt. Tertia conditio est
+          <lb ed="#S" n="47"/>quod sit compositum vel coniunctum ex
+          <lb ed="#S" n="48"/>lapide et structura vel capsula, et
+          signifi<lb ed="#S" n="49" break="no"/>cat unionem naturae divinae et humanae.
+          <lb ed="#S" n="50"/>Quarta conditio, quia oportet
+          recon<lb ed="#S" n="51" break="no"/>secrari si frangatur. Et nota primo de
+          <lb ed="#S" n="52"/>integritate. Si frangatur, distingue,
+          <lb ed="#S" n="53"/>quia aut fractura est enormis, et tunc
+          <lb ed="#S" n="54"/>reconsecrari debet; aut modica et iuxta
+          <lb ed="#S" n="55"/>extremitates, et tunc non oportet.
+          Se<lb ed="#S" n="56" break="no"/>cundo de motione. Nota quod, si lapis
+          mo<lb ed="#S" n="57" break="no"/>tus fuerit de capsula, reconsecrari
+          de<lb ed="#S" n="58" break="no"/>bet, quia consecratio consistit in
+          con<lb ed="#S" n="59" break="no"/>iunctione lapidis et structurae, ut dicit
+          <lb ed="#S" n="60"/>Bernhardus in glosa et Raymundus
+          <lb ed="#S" n="61"/>in summa et omnes post eum. Et ideo
+          <lb ed="#S" n="62"/>dicunt quidam quod altare portabile si
+          <lb ed="#S" n="63"/>fuerit amotum a ligno
+          reconsecran<lb ed="#S" n="64" break="no"/>dum est. Hoc tamen credo quod
+          intelligi<lb ed="#S" n="65" break="no"/>tur quando lapis est simul
+          consecra<lb ed="#S" n="66" break="no"/>tus cum ligno. Si autem esset
+          conse<lb ed="#S" n="67" break="no"/>cratus per se, ut fiebat antiquitus, non
+          <lb ed="#S" n="68"/>esset bis facienda consecratio
+          secun<lb ed="#S" n="69" break="no"/>dum quosdam.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e652">
+          <lb ed="#S" n="70"/>De calice et
+          pate<lb ed="#S" n="71" break="no"/>na. Pars tertia quinto capitu.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e659">
+          <lb ed="#S" n="72"/>Tertio videndum est de tertio
+          <lb ed="#S" n="73"/>instrumento quod
+          concur<lb ed="#S" n="74" break="no"/>rit ad conficiendum
+          sacramen<lb ed="#S" n="75" break="no"/>tum, scilicet de calice. Notandum quod
+          ca<lb ed="#S" n="76" break="no"/>lix debet esse aureus vel argenteus vel
+          <lb ed="#S" n="77"/>saltem stanneus propter eorum
+          purita<lb ed="#S" n="78" break="no"/>tem et soliditatem et etiam materiae
+          den<lb ed="#S" n="79" break="no"/>sitatem. Non enim debet esse de cupro
+          <lb ed="#S" n="80"/>aut ferro, quia haec duo rubiginem
+          con<lb ed="#S" n="81" break="no"/>trahunt; nec etiam de aere aut
+          aurical<lb ed="#S" n="82" break="no"/>co, quia etiam eruginantur et ad
+          vo<lb ed="#S" n="83" break="no"/>mitum inducunt; nec de vitro aut
+          cri<lb ed="#S" n="84" break="no"/>stallo propter fragilitatem, quia de
+          <lb ed="#S" n="85"/>facili franguntur, nec
+          <pb ed="#S" n="17-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>de lapide propter ineptitudinem materiae;
+          <lb ed="#S" n="2"/>nec de ligno, quia porosum est et possit
+          <lb ed="#S" n="3"/>in poris aliquid de sanguine remanere.
+          <lb ed="#S" n="4"/>De hac materia habetur de conse. di. i.
+          <lb ed="#S" n="5"/>Idem dicendum est de patena, ut patet
+          <lb ed="#S" n="6"/>eadem di. i, Vasa quibus, et ca. Ut calix et
+          <lb ed="#S" n="7"/>patena.
+          <lb ed="#S" n="8"/>De corporalibus.
+          <lb ed="#S" n="9"/>Pars quarta capi. v.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e717">
+          <lb ed="#S" n="10"/>Quarto videbitur de quarto
+          in<lb ed="#S" n="11" break="no"/>strumento ad hoc sacramentum
+          <lb ed="#S" n="12"/>conficiendum concurrente, scilicet
+          <lb ed="#S" n="13"/>de corporali. Sciendum est quod corporalia
+          <lb ed="#S" n="14"/>debent esse de panno mundo lineo. Unde
+          <lb ed="#S" n="15"/>dicitur in epistola Silvestri papae de conse.
+          <lb ed="#S" n="16"/>di.: Consultu omnium statuimus ut
+          sacri<lb ed="#S" n="17" break="no"/>ficium altaris non in serico panno aut
+          tin<lb ed="#S" n="18" break="no"/>cto quisnam celebrare praesumat, sed in
+          <lb ed="#S" n="19"/>puro lineo ab episcopo consecrato, sicut
+          <lb ed="#S" n="20"/>corpus Christi in syndone munda linea
+          <lb ed="#S" n="21"/>sepultum fuit. Competit etiam huic
+          sig<lb ed="#S" n="22" break="no"/>nificationi, quia talis pannus multis
+          ton<lb ed="#S" n="23" break="no"/>sionibus et passionibus paratur; sic etiam
+          <lb ed="#S" n="24"/>Christus multa et plurima sustinuit in
+          <lb ed="#S" n="25"/>hac vita. Unde non debet esse de serico
+          <lb ed="#S" n="26"/>aut colore aliquo tincto.
+          <lb ed="#S" n="27"/>Circa hoc quaeritur quid agendum de
+          <lb ed="#S" n="28"/>lignis ecclesiae consecratae et pannis
+          sa<lb ed="#S" n="29" break="no"/>cris quando antiquantur. Dicendum quod
+          <lb ed="#S" n="30"/>ligna ecclesiae consecratae destructae possunt
+          <lb ed="#S" n="31"/>poni in aliquo refectorio vel similiter.
+          <lb ed="#S" n="32"/>Item dicit glosa de conse. di. i, c. Ligna,
+          <lb ed="#S" n="33"/>quod non debent poni in coquina vel in
+          vi<lb ed="#S" n="34" break="no"/>neis paxillandis aut huiusmodi. De
+          pan<lb ed="#S" n="35" break="no"/>nis autem, sicut sunt pallae altaris,
+          corti<lb ed="#S" n="36" break="no"/>nae ecclesiae, vestimenta ministrorum sive
+          <lb ed="#S" n="37"/>sacra vasa, non debent converti in usum
+          <lb ed="#S" n="38"/>laycorum vel etiam ad prophanos; sed
+          <lb ed="#S" n="39"/>si aliqua vestimenta vel panni
+          consump<lb ed="#S" n="40" break="no"/>ta vetustati sint, debent comburi et
+          cine<lb ed="#S" n="41" break="no"/>res recondi infra ecclesiam sub
+          baptiso<lb ed="#S" n="42" break="no"/>rio vel in pariete vel in alio tuto loco,
+          <lb ed="#S" n="43"/>ne ab incedentibus pedibus
+          concul<lb ed="#S" n="44" break="no"/>centur.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e795">
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="45"/>De lumine. Pars v.
+          <lb ed="#S" n="46"/>Quinto prosequitur de ultimo
+          in<lb ed="#S" n="47" break="no"/>strumento quod concurrit ad hoc
+          <lb ed="#S" n="48"/>sacramentum conficiendum, scilicet
+          <lb ed="#S" n="49"/>de lumine. Notandum enim est quod non debet
+          <lb ed="#S" n="50"/>quis celebrare sine lumine, ut patet
+          se<lb ed="#S" n="51" break="no"/>cundum Hostiensem extra de ce. mis. Idem
+          <lb ed="#S" n="52"/>patet secundum Augustinum de conse. di. i, Nemo,
+          <lb ed="#S" n="53"/>ubi dicitur quod nemo debet aedificare
+          ec<lb ed="#S" n="54" break="no"/>clesiam quin ad luminaria sufficiat.
+          <lb ed="#S" n="55"/>Etiam ratio assignari potest, quia ille ibi
+          <lb ed="#S" n="56"/>sacramentaliter existit qui de seipso
+          di<lb ed="#S" n="57" break="no"/>cit: Ego sum lux mundi, et qui me
+          sequi<lb ed="#S" n="58" break="no"/>tur non ambulat in tenebris, Iohis.
+          <lb ed="#S" n="59"/>viii; et: Quamdiu sum in mundo, lux mundi
+          <lb ed="#S" n="60"/>sum, Iohis. ix; et de quo Symeon dixit:
+          <lb ed="#S" n="61"/>Lumen ad revelationem. Et haec de
+          pri<lb ed="#S" n="62" break="no"/>ma parte principali sufficiant.
+        </p>
+        <p xml:id="bptdom-a22q0j-d1e839">
+          <lb ed="#S" n="63"/>Explicit prima pars principalis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

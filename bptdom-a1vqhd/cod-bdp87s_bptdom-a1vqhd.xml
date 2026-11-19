@@ -63,8 +63,8 @@
           <cb ed="#S" n="b"/>
           <lb ed="#S" n="42"/>Incipit prologus
           <lb ed="#S" n="43"/>Quoniam Clamitat sapiens
-          <lb ed="#S" n="44"/>perscrutator maiestatis oppri
-          <lb ed="#S" n="45"/>metur a gloria idcirco nullus ex
+          <lb ed="#S" n="44"/><quote source="http://scta.info/resource/prov25_27@11-16">perscrutator maiestatis oppri
+          <lb ed="#S" n="45"/>metur a gloria</quote> idcirco nullus ex
           <lb ed="#S" n="46"/>istimet hoc officium sufficienter expos
           <lb ed="#S" n="47"/>situm ne forte cum humanum opus
           <lb ed="#S" n="48"/>extulerit divinum extenuet sacramen
@@ -140,14 +140,14 @@
           <lb ed="#S" n="33"/>tiam qua cuncta perficiuntur propter ter
           <lb ed="#S" n="34"/>tium Dei filii sapientiam quam pericula
           <lb ed="#S" n="35"/>evitantur et omnia caute aguntur suppli
-          <lb ed="#S" n="36"/>cer invoco et imploro Quis novit
+          <lb ed="#S" n="36"/>cer invoco et imploro <quote source="http://scta.info/resource/iob38_33@1-10">Quis novit
           <lb ed="#S" n="37"/>ordinem celi et ponet rationem eius
-          <lb ed="#S" n="38"/>in terra Puteus enim altus est et in
-          <lb ed="#S" n="39"/>quo Hauriam aquam non habeo nisi
-          <lb ed="#S" n="40"/>ille porrigat qui non improperat sed
-          <lb ed="#S" n="41"/>dat omnibus affluenter quo propinat
-          <lb ed="#S" n="42"/>re Hauriam in gaudio de Fontibus sal
-          <lb ed="#S" n="43"/>vatoris
+          <lb ed="#S" n="38"/>in terra</quote> <quote source="http://scta.info/resource/io4_11@5-13">Puteus enim altus est et in
+          <lb ed="#S" n="39"/>quo Hauriam aquam non habeo</quote> nisi
+          <lb ed="#S" n="40"/>ille porrigat <quote source="http://scta.info/resource/iac1_5@10-16">qui non improperat sed
+          <lb ed="#S" n="41"/>dat omnibus affluenter</quote> quo propinat
+          <lb ed="#S" n="42"/>re <quote source="http://scta.info/resource/is12_3@1-7">Hauriam in gaudio de Fontibus sal
+          <lb ed="#S" n="43"/>vatoris</quote>
           <lb ed="#S" n="44"/>explicit prologus
         </p>
       </div>

@@ -62,7 +62,7 @@
         <p xml:id="bptdom-a1w4g7-d1e113">
           <cb ed="#S" n="b"/>
           <lb ed="#S" n="45"/>Incipit collatio
-          <lb ed="#S" n="46"/><quote source="http://scta.info/resource/mt8_8@5-13">Domine non sum dignus
+          <lb ed="#S" n="46"/><quote xml:id="bptdom-a1w4g7-Qd1e121" source="http://scta.info/resource/mt8_8@5-13">Domine non sum dignus
           <lb ed="#S" n="47"/>ut intres sub tectum meum</quote>
           <lb ed="#S" n="48"/>Mathei VIII ad reliquias pre
           <lb ed="#S" n="49"/>ciosas non debet homo acces
@@ -79,17 +79,17 @@
           <lb ed="#S" n="60"/>quia preciosa in vase cristallino ponit
           <lb ed="#S" n="61"/>ut ibi a simplicibus Adoretur sic Dei filius
           <lb ed="#S" n="62"/>qui in seipso videri non potest ab ocu
-          <lb ed="#S" n="63"/>lo corporali quia <quote source="http://scta.info/resource/io1_18@1-4">nemo vidit deum un
+          <lb ed="#S" n="63"/>lo corporali quia <quote xml:id="bptdom-a1w4g7-Qd1e161" source="http://scta.info/resource/io1_18@1-4">nemo vidit deum un
           <lb ed="#S" n="64"/>quam</quote> dori ut a nobis videri posset et
           <lb ed="#S" n="65"/>adorari positus fuit in vase cristallino
           <lb ed="#S" n="66"/>preciosissimo humanitatis de Purissis
           <lb ed="#S" n="67"/>mis sanguinibus virginis assumpta
           <lb ed="#S" n="68"/>et ab omni peccato et macula depura
           <lb ed="#S" n="69"/>ta quo facto videri potuit et adorari
-          <lb ed="#S" n="70"/>Iuxta illud Io. I <quote source="http://scta.info/resource/io1_14@1-5">Verbum caro fa
-          <lb ed="#S" n="71"/>ctum est</quote> et sequitur <quote source="http://scta.info/resource/io1_14@11-13">Vidimus gloriam
+          <lb ed="#S" n="70"/>Iuxta illud Io. I <quote xml:id="bptdom-a1w4g7-Qd1e179" source="http://scta.info/resource/io1_14@1-5">Verbum caro fa
+          <lb ed="#S" n="71"/>ctum est</quote> et sequitur <quote xml:id="bptdom-a1w4g7-Qd1e184" source="http://scta.info/resource/io1_14@11-13">Vidimus gloriam
           <lb ed="#S" n="72"/>eius</quote> unde Thomas ipsum videns et
-          <lb ed="#S" n="73"/>Palpans statim exclamavit dicens <quote source="http://scta.info/resource/io20_28@6-10">do
+          <lb ed="#S" n="73"/>Palpans statim exclamavit dicens <quote xml:id="bptdom-a1w4g7-Qd1e192" source="http://scta.info/resource/io20_28@6-10">do
           <lb ed="#S" n="74"/>minus meus et Deus meus</quote> Luce XXIIII.
           <lb ed="#S" n="75"/>Hec enim reliquia tam preciosa nunc
           <lb ed="#S" n="76"/>nobis exhibetur adoranda necnon et
@@ -97,7 +97,7 @@
           <lb ed="#S" n="78"/>panis et vini in sacramento altaris de
           <lb ed="#S" n="79"/>quo nunc agere proponimus et hoc vir
           <lb ed="#S" n="80"/>tute verborum illorum Christi que sunt
-          <lb ed="#S" n="81"/>Mathei XXVI <quote source="http://scta.info/resource/mt26_26@19-22">hoc est corpus meum</quote> etc
+          <lb ed="#S" n="81"/>Mathei XXVI <quote xml:id="bptdom-a1w4g7-Qd1e212" source="http://scta.info/resource/mt26_26@19-22">hoc est corpus meum</quote> etc
           <lb ed="#S" n="82"/>Ad tam ergo preciosam reliquiam et
           <lb ed="#S" n="83"/>venerabilem immo verius ineffabile
           <lb ed="#S" n="84"/>sacramentum nullus debet accedere
@@ -107,7 +107,7 @@
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>meret seu reciperet ad utilitatem sed
           <lb ed="#S" n="2"/>potius ad mortem quia secundum apo
-          <lb ed="#S" n="3"/>stolum ad Corinthe XI . <quote source="http://scta.info/resource/Icor11_29@3-11">quicumque man
+          <lb ed="#S" n="3"/>stolum ad Corinthe XI . <quote xml:id="bptdom-a1w4g7-Qd1e237" source="http://scta.info/resource/Icor11_29@3-11">quicumque man
           <lb ed="#S" n="4"/>ducat et bibit indigne iudicium sibi man
           <lb ed="#S" n="5"/>ducat et bibit</quote> etc . Si ergo ille oza archa
           <lb ed="#S" n="6"/>Domini ubi erat manna indigne tan
@@ -119,7 +119,7 @@
           <lb ed="#S" n="12"/>netur per verborum efficatiam tota enim
           <lb ed="#S" n="13"/>divinitas per quandam concomitantiam
           <lb ed="#S" n="14"/>Angeli etiam per ministerialem assisten
-          <lb ed="#S" n="15"/>tiam assunt et ideo caveatis et <quote source="http://scta.info/resource/eph4_1@8-14">digne
+          <lb ed="#S" n="15"/>tiam assunt et ideo caveatis et <quote xml:id="bptdom-a1w4g7-Qd1e266" source="http://scta.info/resource/eph4_1@8-14">digne
           <lb ed="#S" n="16"/>ambuletis vocatione qua vocati estis</quote>
           <lb ed="#S" n="17"/>ad Ephes. IIII . Ex hiis dictis patet quod
           <lb ed="#S" n="18"/>ad reliquias pretiosas adorandas seu
@@ -142,14 +142,14 @@
           <lb ed="#S" n="35"/>exhibitio est operis non est dubium
           <lb ed="#S" n="36"/>quod sacerdotes et clerici verbo cotridie
           <lb ed="#S" n="37"/>recognoscant Deum et Dominum qui
-          <lb ed="#S" n="38"/>cotridie dicunt dominus vobiscum <quote source="http://scta.info/resource/ps119_1@3-6">Ad
-          <lb ed="#S" n="39"/>dominum cum tribularer</quote> <quote source="http://scta.info/resource/ps8_2@1-3">Domines
+          <lb ed="#S" n="38"/>cotridie dicunt dominus vobiscum <quote xml:id="bptdom-a1w4g7-Qd1e318" source="http://scta.info/resource/ps119_1@3-6">Ad
+          <lb ed="#S" n="39"/>dominum cum tribularer</quote> <quote xml:id="bptdom-a1w4g7-Qd1e324" source="http://scta.info/resource/ps8_2@1-3">Domines
           <lb ed="#S" n="40"/>dominus noster</quote> et huiusmodi sed ta
           <lb ed="#S" n="41"/>lis recognicio vocalis et verbalis mo
           <lb ed="#S" n="42"/>dicum valet nisi etiam hoc facto mon
           <lb ed="#S" n="43"/>straretur sibi obediendo obtemperi
           <lb ed="#S" n="44"/>ando preceptis et mandatis eius quo
-          <lb ed="#S" n="45"/>secundum quod ipse dicit Mathe XIII <quote source="http://scta.info/resource/mt7_21@1-21">non
+          <lb ed="#S" n="45"/>secundum quod ipse dicit Mathe XIII <quote xml:id="bptdom-a1w4g7-Qd1e340" source="http://scta.info/resource/mt7_21@1-21">non
           <cb ed="#S" n="b"/>
           <lb ed="#S" n="46"/>omnis qui dicit mihi domine domi
           <lb ed="#S" n="47"/>ne introibit in regnum celorum sed
@@ -163,14 +163,14 @@
           <lb ed="#S" n="55"/>etiam spirituale est filius Dei in sacra
           <lb ed="#S" n="56"/>mento contentus qui non solum dat
           <lb ed="#S" n="57"/>esse . immo etiam vivere ineternum
-          <lb ed="#S" n="58"/>iuxta illud Ioh. VI <quote source="http://scta.info/resource/io6_59@17-23">qui manducat
+          <lb ed="#S" n="58"/>iuxta illud Ioh. VI <quote xml:id="bptdom-a1w4g7-Qd1e372" source="http://scta.info/resource/io6_59@17-23">qui manducat
           <lb ed="#S" n="59"/>hunc panem vivet ineternum</quote> . Et ideo
-          <lb ed="#S" n="60"/>quia dicitur Eccle. IX <quote source="http://scta.info/resource/qoh9_1@22-29">nescit homo utrum
+          <lb ed="#S" n="60"/>quia dicitur Eccle. IX <quote xml:id="bptdom-a1w4g7-Qd1e380" source="http://scta.info/resource/qoh9_1@22-29">nescit homo utrum
           <lb ed="#S" n="61"/>odio vel amore dignus sit</quote> idcirco de
           <lb ed="#S" n="62"/>bet dicere non sum dignus enc propter
           <lb ed="#S" n="63"/>quod saltem quod in nobis est faciam
           <lb ed="#S" n="64"/>iuxta consilium apostoli ad Colocens I
-          <lb ed="#S" n="65"/><quote source="http://scta.info/resource/col1_10@1-7">Ambuletis digne Deo per omnia place
+          <lb ed="#S" n="65"/><quote xml:id="bptdom-a1w4g7-Qd1e392" source="http://scta.info/resource/col1_10@1-7">Ambuletis digne Deo per omnia place
           <lb ed="#S" n="66"/>ntes</quote> Quilibet debet conari ut digne et
           <lb ed="#S" n="67"/>Sancte et devote accedat ad celebrati
           <lb ed="#S" n="68"/>onem misse . Hoc autem fieri poterit

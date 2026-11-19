@@ -151,16 +151,16 @@
           <lb ed="#S" n="15"/>quod est bonum, et caris, quod est
           gra<lb ed="#S" n="16" break="no"/>tia, quasi bona gratia, quia
           commu<lb ed="#S" n="17" break="no"/>nicet illum in quo est plenitudo gratiae;
-          <lb ed="#S" n="18"/>unde Ioh. i: <quote source="http://scta.info/resource/io1_16@1-11">De plenitudine eius omnes
+          <lb ed="#S" n="18"/>unde Ioh. i: <quote xml:id="bptdom-a1y8v6-Qd1e304" source="http://scta.info/resource/io1_16@1-11">De plenitudine eius omnes
           <lb ed="#S" n="19"/>accepimus gratiam pro gratia</quote>. Et idem:
-          <quote source="http://scta.info/resource/io1_14@11-20">Vidi<lb ed="#S" n="20" break="no"/>mus gloriam eius, gloriam quasi unigeniti
+          <quote xml:id="bptdom-a1y8v6-Qd1e309" source="http://scta.info/resource/io1_14@11-20">Vidi<lb ed="#S" n="20" break="no"/>mus gloriam eius, gloriam quasi unigeniti
           <lb ed="#S" n="21"/>a patre plenum gratia</quote>.
           <lb ed="#S" n="22"/>De quarto nomine,
           <lb ed="#S" n="23"/>quomodo dicitur hostia.
         </p>
         <p xml:id="bptdom-a1y8v6-d1e314">
           <lb ed="#S" n="24"/>Hostia dicitur, ut habetur in psalmo:
-          <lb ed="#S" n="25"/><quote source="http://scta.info/resource/ps115_7@14-16 http://scta.info/resource/ps115_8@1-4">Disrupisti vincula mea, tibi
+          <lb ed="#S" n="25"/><quote xml:id="bptdom-a1y8v6-Qd1e326" source="http://scta.info/resource/ps115_7@14-16 http://scta.info/resource/ps115_8@1-4">Disrupisti vincula mea, tibi
           sa<lb ed="#S" n="26" break="no"/>crificabo hostiam laudis</quote>. Item
           <lb ed="#S" n="27"/>notandum, secundum Isidorum
           Ethymologia<lb ed="#S" n="28" break="no"/>rum vi, quod hostia dicitur ab hostibus
@@ -182,7 +182,7 @@
           sacrifi<lb ed="#S" n="42" break="no"/>catur et quia hoc sacramentum debet fieri
           <cb ed="#S" n="b"/>
           <lb ed="#S" n="43"/>in altari, ideo immolatio est et dici potest;
-          <lb ed="#S" n="44"/>ideo dicitur in psalmo: <quote source="http://scta.info/resource/ps49_14@1-4">Immola deo
+          <lb ed="#S" n="44"/>ideo dicitur in psalmo: <quote xml:id="bptdom-a1y8v6-Qd1e376" source="http://scta.info/resource/ps49_14@1-4">Immola deo
           sa<lb ed="#S" n="45" break="no"/>crificium laudis</quote>.
           <lb ed="#S" n="46"/>De sexto nomine,
           <lb ed="#S" n="47"/>quomodo dicitur communio.
@@ -244,18 +244,18 @@
           necessa<lb ed="#S" n="9" break="no"/>rius et portatus, secundum
           Huguitio<lb ed="#S" n="10" break="no"/>nem. Iste autem cibus datus est
           no<lb ed="#S" n="11" break="no"/>bis in via ista, quia, ut Christus dicit Io.
-          <lb ed="#S" n="12"/>vi: <quote source="http://scta.info/resource/io6_56@1-6">Caro mea vere est cibus</quote>; et est
+          <lb ed="#S" n="12"/>vi: <quote xml:id="bptdom-a1y8v6-Qd1e508" source="http://scta.info/resource/io6_56@1-6">Caro mea vere est cibus</quote>; et est
           necessa<lb ed="#S" n="13" break="no"/>rius ad salutem et ad praeventionem
-          ter<lb ed="#S" n="14" break="no"/>mini nostri, quia <quote source="http://scta.info/resource/io6_54@9-22">nisi manducaveritis
+          ter<lb ed="#S" n="14" break="no"/>mini nostri, quia <quote xml:id="bptdom-a1y8v6-Qd1e515" source="http://scta.info/resource/io6_54@9-22">nisi manducaveritis
           <lb ed="#S" n="15"/>carnem meam et biberitis meum
           sang<lb ed="#S" n="16" break="no"/>uinem, non habebitis vitam in vobis</quote>.
           <lb ed="#S" n="17"/>Idcirco bene et proprie viaticum debet
           <lb ed="#S" n="18"/>dici. Figura huius habetur tertio
           Re<lb ed="#S" n="19" break="no"/>gum xix, ubi dicitur quod angelus domini
           <lb ed="#S" n="20"/>portavit Heliae panem subcinericium et
-          <lb ed="#S" n="21"/>vas aquae dicens: <quote source="http://scta.info/resource/Ireg19_7@11-17">Surge, comede;
+          <lb ed="#S" n="21"/>vas aquae dicens: <quote xml:id="bptdom-a1y8v6-Qd1e533" source="http://scta.info/resource/Ireg19_7@11-17">Surge, comede;
           gran<lb ed="#S" n="22" break="no"/>dis enim restat tibi via</quote>. Et sequitur quod
-          <lb ed="#S" n="23"/><quote source="http://scta.info/resource/Ireg19_8@8-21">ambulavit in fortitudine cibi illius
+          <lb ed="#S" n="23"/><quote xml:id="bptdom-a1y8v6-Qd1e539" source="http://scta.info/resource/Ireg19_8@8-21">ambulavit in fortitudine cibi illius
           <lb ed="#S" n="24"/>usque ad montem dei</quote>. Applicatio patet.
         </p>
         <p xml:id="bptdom-a1y8v6-d1e522">
@@ -266,7 +266,7 @@
           <lb ed="#S" n="27"/>Sacrificium proprie dicitur
           secun<lb ed="#S" n="28" break="no"/>dum Isidorum quo prius, quasi
           <lb ed="#S" n="29"/>sacrum factum, quia prece mystica
-          con<lb ed="#S" n="30" break="no"/>secratur; unde in psalmo: <quote source="http://scta.info/resource/ps49_14@1-4">Immola
+          con<lb ed="#S" n="30" break="no"/>secratur; unde in psalmo: <quote xml:id="bptdom-a1y8v6-Qd1e562" source="http://scta.info/resource/ps49_14@1-4">Immola
           <lb ed="#S" n="31"/>deo sacrificium laudis</quote>.
         </p>
         <p xml:id="bptdom-a1y8v6-d1e543">
@@ -290,7 +290,7 @@
           <lb ed="#S" n="46"/>populum medium voluisti esse etc. Et
           <lb ed="#S" n="47"/>sic patet quomodo redditur hoc
           sacramen<lb ed="#S" n="48" break="no"/>tum gloriosum et laudabile ex nominum
-          <lb ed="#S" n="49"/>celebritate, ut possumus dicere: <quote source="http://scta.info/resource/gen27_36@4-8">Recte
+          <lb ed="#S" n="49"/>celebritate, ut possumus dicere: <quote xml:id="bptdom-a1y8v6-Qd1e615" source="http://scta.info/resource/gen27_36@4-8">Recte
           <lb ed="#S" n="50"/>vocatum est nomen eius</quote>, Gen. xxvii.
         </p>
       </div>

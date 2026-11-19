@@ -112,7 +112,7 @@
           dia<lb ed="#S" n="39" break="no"/>bolo simul etiam probatur, quia oportet quod sint
           <lb ed="#S" n="40"/>ministri conformes Christo, qui in forma
           <lb ed="#S" n="41"/>hominis confecit; unde hominibus dixit:
-          <lb ed="#S" n="42"/><quote source="http://scta.info/resource/lc22_19@20-24">Hoc facite in meam commemorationem</quote>.
+          <lb ed="#S" n="42"/><quote xml:id="bptdom-a214kc-Qd1e226" source="http://scta.info/resource/lc22_19@20-24">Hoc facite in meam commemorationem</quote>.
           <lb ed="#S" n="43"/>De secunda
           condi<cb ed="#S" n="b"/><lb ed="#S" n="44" break="no"/>tione ministri.
         </p>
@@ -133,7 +133,7 @@
           <lb ed="#S" n="58"/>femina non potest recipere characterem
           clerica<lb ed="#S" n="59" break="no"/>lis ordinis alicuius; unde Ambrosius dicit
           <lb ed="#S" n="60"/>super illum locum apoca. primo ad Timo.
-          <lb ed="#S" n="61"/>iii, <quote source="http://scta.info/resource/Itim3_11@1-3">Mulieres esse impudicas</quote>; similiter
+          <lb ed="#S" n="61"/>iii, <quote xml:id="bptdom-a214kc-Qd1e275" source="http://scta.info/resource/Itim3_11@1-3">Mulieres esse impudicas</quote>; similiter
           <lb ed="#S" n="62"/>ait: Occasione istorum verborum Cataphrygae
           <lb ed="#S" n="63"/>dicunt mulierem diaconissam
           ordi<lb ed="#S" n="64" break="no"/>nari debere, quod est contrarium veritati,
@@ -267,7 +267,7 @@
           <lb ed="#S" n="80"/>mortale et non confitetur vel saltem non
           <lb ed="#S" n="81"/>conteritur, si copiam non habeat
           sacer<lb ed="#S" n="82" break="no"/>dotis, quod ministrans ecclesiastica
-          sacra<lb ed="#S" n="83" break="no"/>menta semper peccat, quia <quote source="http://scta.info/resource/ier48_10@1-6">maledictus
+          sacra<lb ed="#S" n="83" break="no"/>menta semper peccat, quia <quote xml:id="bptdom-a214kc-Qd1e552" source="http://scta.info/resource/ier48_10@1-6">maledictus
           <lb ed="#S" n="84"/>qui facit opus dei negligenter</quote>. Certum
           <pb ed="#S" n="5-v"/>
           <cb ed="#S" n="a"/>
@@ -297,7 +297,7 @@
           dene<lb ed="#S" n="20" break="no"/>gare; alias daretur facultas malis
           sacerdo<lb ed="#S" n="21" break="no"/>tibus pro libito suo punire maxima poena
           <lb ed="#S" n="22"/>quos vellent. Tertia propter
-          incertitu<lb ed="#S" n="23" break="no"/>dinem status sumentis, quia <quote source="http://scta.info/resource/io3_8@1-4">spiritus ubi vult
+          incertitu<lb ed="#S" n="23" break="no"/>dinem status sumentis, quia <quote xml:id="bptdom-a214kc-Qd1e617" source="http://scta.info/resource/io3_8@1-4">spiritus ubi vult
           <lb ed="#S" n="24"/>spirat</quote>; unde subito potest esse compunctus
           <lb ed="#S" n="25"/>et a peccato mundatur, et sic divina
           inspi<lb ed="#S" n="26" break="no"/>ratione ad sacramentum potest accedere.
@@ -324,7 +324,7 @@
           nobilissi<lb ed="#S" n="44" break="no"/>ma potestas, reus negligentiae erit nisi illa
           <lb ed="#S" n="45"/>utatur ad honorem dei et salutem suam et
           alio<lb ed="#S" n="46" break="no"/>rum vivorum et mortuorum, secundum illud
-          <lb ed="#S" n="47"/>i Petri iiii c.: <quote source="http://scta.info/resource/Ipetr4_10@1-8">Unusquisque sicut
+          <lb ed="#S" n="47"/>i Petri iiii c.: <quote xml:id="bptdom-a214kc-Qd1e677" source="http://scta.info/resource/Ipetr4_10@1-8">Unusquisque sicut
           acce<lb ed="#S" n="48" break="no"/>pit gratiam, in alterutrum illam
           admi<lb ed="#S" n="49" break="no"/>nistrantes</quote>; nisi forte aliquis ex familiari
           <lb ed="#S" n="50"/>instinctu spiritus dimittat, sicut legitur
@@ -333,7 +333,7 @@
           <lb ed="#S" n="53"/>sit de aliis actibus ordinum, celebrare
           tene<lb ed="#S" n="54" break="no"/>tur homo et deo sacrificium reddat, etiam
           <lb ed="#S" n="55"/>si nulli homini teneatur. Sacerdotibus
-          <lb ed="#S" n="56"/>enim est praeceptum: <quote source="http://scta.info/resource/lc22_19@20-24">Hoc facite in
+          <lb ed="#S" n="56"/>enim est praeceptum: <quote xml:id="bptdom-a214kc-Qd1e700" source="http://scta.info/resource/lc22_19@20-24">Hoc facite in
           me<lb ed="#S" n="57" break="no"/>am commemorationem</quote>; et ideo celebrare
           te<lb ed="#S" n="58" break="no"/>netur saltem in praecipuis festivitatibus.
         </p>
@@ -359,7 +359,7 @@
           unus<lb ed="#S" n="77" break="no"/>quisque faciat quod pie credit esse faciendum,
           <lb ed="#S" n="78"/>quod probat per exemplum Zachaei et centurionis,
           <lb ed="#S" n="79"/>quorum unus recepit dominum gaudens, alius
-          <lb ed="#S" n="80"/>dixit: <quote source="http://scta.info/resource/mt8_8@5-13">Domine, non sum dignus ut intres
+          <lb ed="#S" n="80"/>dixit: <quote xml:id="bptdom-a214kc-Qd1e757" source="http://scta.info/resource/mt8_8@5-13">Domine, non sum dignus ut intres
           <lb ed="#S" n="81"/>sub tectum meum</quote>; et uterque misericordiam
         </p>
         <p xml:id="bptdom-a214kc-d1e743">
@@ -560,8 +560,8 @@
           <lb ed="#S" n="82"/>debet solvere. Non enim refert quantum
           <lb ed="#S" n="83"/>ad deum quibus psalmis vel hymnis
           <lb ed="#S" n="84"/>deum laudet, puta utrum dicat in
-          ves<lb ed="#S" n="85" break="no"/>peris <quote source="http://scta.info/resource/ps109_1@3-6">Dixit dominus domino meo</quote> vel
-          <lb ed="#S" n="86"/><quote source="http://scta.info/resource/ps112_1@2-4">Laudate pueri dominum</quote>, nisi quantum
+          ves<lb ed="#S" n="85" break="no"/>peris <quote xml:id="bptdom-a214kc-Qd1e1183" source="http://scta.info/resource/ps109_1@3-6">Dixit dominus domino meo</quote> vel
+          <lb ed="#S" n="86"/><quote xml:id="bptdom-a214kc-Qd1e1187" source="http://scta.info/resource/ps112_1@2-4">Laudate pueri dominum</quote>, nisi quantum
           <lb ed="#S" n="87"/>ad hoc quod homo debet sequi maiorum
           <lb ed="#S" n="88"/>traditiones. Et quia debet laudes deo,
           <lb ed="#S" n="89"/>uni homini sufficit quod semel officium
@@ -705,7 +705,7 @@
           hu<lb ed="#S" n="40" break="no"/>mano cadere possunt, et hi sunt actus
           <lb ed="#S" n="41"/>exteriores, non interiores. Unde dicitur
           <lb ed="#S" n="42"/>quod quilibet debet attendere ne de ipso
-          <lb ed="#S" n="43"/>et quolibet tali dicat Christus: <quote source="http://scta.info/resource/mt15_8@3-12">Iste labiis
+          <lb ed="#S" n="43"/>et quolibet tali dicat Christus: <quote xml:id="bptdom-a214kc-Qd1e1502" source="http://scta.info/resource/mt15_8@3-12">Iste labiis
           <lb ed="#S" n="44"/>me honorat, cor autem eius longe est
           <lb ed="#S" n="45"/>a me</quote>. Et sic apparet quomodo sacerdos
           <cb ed="#S" n="b"/>
@@ -730,17 +730,17 @@
           po<lb ed="#S" n="64" break="no"/>test esse, quia tripliciter peccavimus,
           <lb ed="#S" n="65"/>ore, opere, corde. Contra oris peccatum
           <lb ed="#S" n="66"/>dicimus Domine labia; psalmus:
-          <quote source="http://scta.info/resource/ps62_4@8-11">La<lb ed="#S" n="67" break="no"/>bia mea laudabunt te</quote>. Contra peccatum
+          <quote xml:id="bptdom-a214kc-Qd1e1557" source="http://scta.info/resource/ps62_4@8-11">La<lb ed="#S" n="67" break="no"/>bia mea laudabunt te</quote>. Contra peccatum
           <lb ed="#S" n="68"/>operis dicimus Deus in adiutorium,
           <lb ed="#S" n="69"/>quia in operibus dei auxilio indigemus;
-          <lb ed="#S" n="70"/>unde Io. xv: <quote source="http://scta.info/resource/io15_5@19-23">Sine me nihil potestis
+          <lb ed="#S" n="70"/>unde Io. xv: <quote xml:id="bptdom-a214kc-Qd1e1568" source="http://scta.info/resource/io15_5@19-23">Sine me nihil potestis
           <lb ed="#S" n="71"/>facere</quote>. Contra peccatum cordis dicimus
-          <lb ed="#S" n="72"/><quote source="http://scta.info/resource/ps84_5@1-5">Converte nos deus salutaris noster</quote>, quia
+          <lb ed="#S" n="72"/><quote xml:id="bptdom-a214kc-Qd1e1575" source="http://scta.info/resource/ps84_5@1-5">Converte nos deus salutaris noster</quote>, quia
           <lb ed="#S" n="73"/>peccatum in corde est et habet radicem
           <lb ed="#S" n="74"/>et in adversione cordis consistit; ideo
           <lb ed="#S" n="75"/>debemus satisfacere per humilitatem,
-          <lb ed="#S" n="76"/>quia <quote source="http://scta.info/resource/ps50_19@5-8">cor contritum et humiliatum</quote> et cetera,
-          <lb ed="#S" n="77"/>et Iohel ii: <quote source="http://scta.info/resource/ioel2_12@5-11">Convertimini ad me in
+          <lb ed="#S" n="76"/>quia <quote xml:id="bptdom-a214kc-Qd1e1587" source="http://scta.info/resource/ps50_19@5-8">cor contritum et humiliatum</quote> et cetera,
+          <lb ed="#S" n="77"/>et Iohel ii: <quote xml:id="bptdom-a214kc-Qd1e1592" source="http://scta.info/resource/ioel2_12@5-11">Convertimini ad me in
           <lb ed="#S" n="78"/>toto corde vestro</quote> et cetera. Alia ratio est quia
           <lb ed="#S" n="79"/>tribus indigemus a deo, scilicet
           deiecti<lb ed="#S" n="80" break="no"/>one, sustentatione et elevatione.
@@ -763,12 +763,12 @@
           pec<lb ed="#S" n="3" break="no"/>cet mortaliter. Responsio quod peccatum
           <lb ed="#S" n="4"/>aut est publicum aut occultum. Si est
           <lb ed="#S" n="5"/>publicum, non est dubium quin
-          pec<lb ed="#S" n="6" break="no"/>cat, et potest sibi dici: <quote source="http://scta.info/resource/lc4_23@9-12">Medice, medica te
-          <lb ed="#S" n="7"/>metipsum</quote>; talis enim scandalizat, et <quote source="http://scta.info/resource/mt18_7@12-17">vae
+          pec<lb ed="#S" n="6" break="no"/>cat, et potest sibi dici: <quote xml:id="bptdom-a214kc-Qd1e1641" source="http://scta.info/resource/lc4_23@9-12">Medice, medica te
+          <lb ed="#S" n="7"/>metipsum</quote>; talis enim scandalizat, et <quote xml:id="bptdom-a214kc-Qd1e1646" source="http://scta.info/resource/mt18_7@12-17">vae
           <lb ed="#S" n="8"/>homini per quem scandalum venit</quote>;
-          un<lb ed="#S" n="9" break="no"/>de talibus dicitur in psalmo: <quote source="http://scta.info/resource/ps49_16@5-16">Quare tu
+          un<lb ed="#S" n="9" break="no"/>de talibus dicitur in psalmo: <quote xml:id="bptdom-a214kc-Qd1e1654" source="http://scta.info/resource/ps49_16@5-16">Quare tu
           <lb ed="#S" n="10"/>enarras iustitias meas, assumas
-          testa<lb ed="#S" n="11" break="no"/>mentum meum per os tuum</quote>? <quote source="http://scta.info/resource/ps49_17@1-9">Tu vero
+          testa<lb ed="#S" n="11" break="no"/>mentum meum per os tuum</quote>? <quote xml:id="bptdom-a214kc-Qd1e1661" source="http://scta.info/resource/ps49_17@1-9">Tu vero
           <lb ed="#S" n="12"/>odisti disciplinam et proiecisti
           sermo<lb ed="#S" n="13" break="no"/>nes meos retrorsum</quote>. Si autem est
           <lb ed="#S" n="14"/>occultum, tunc aut incumbit sibi ex
@@ -942,7 +942,7 @@
           <lb ed="#S" n="83"/>Secunda conditio est mundus
           <lb ed="#S" n="84"/>mente, id est quod sit sine peccato
           mor<lb ed="#S" n="85" break="no"/>tali; unde apostolus iii corin.
-          <lb ed="#S" n="86"/>xi: <quote source="http://scta.info/resource/Icor11_28@1-15">Probet autem seipsum homo, et sic
+          <lb ed="#S" n="86"/>xi: <quote xml:id="bptdom-a214kc-Qd1e2035" source="http://scta.info/resource/Icor11_28@1-15">Probet autem seipsum homo, et sic
           <lb ed="#S" n="87"/>de pane illo edat et de calice bibat</quote>. Ideo
           <lb ed="#S" n="88"/>iuxta hoc quaeruntur quattuor.
           <lb ed="#S" n="89"/>Primo quaeritur utrum accedens
@@ -1232,7 +1232,7 @@
           <lb ed="#S" n="74"/>in nocte. Ratio est quia sacramentum
           <lb ed="#S" n="75"/>hoc ad tempus gratiae pertinet quae per
           <lb ed="#S" n="76"/>diem significatur, iuxta illud Ro. xiii:
-          <lb ed="#S" n="77"/><quote source="http://scta.info/resource/rom13_12@1-5">Nox praecessit, dies autem appropinquavit</quote>.
+          <lb ed="#S" n="77"/><quote xml:id="bptdom-a214kc-Qd1e2643" source="http://scta.info/resource/rom13_12@1-5">Nox praecessit, dies autem appropinquavit</quote>.
           <lb ed="#S" n="78"/>Dies autem non solum iudicatur ab ortu solis,
           <lb ed="#S" n="79"/>sed etiam ex quo incipiunt oriri solis
           signa<lb ed="#S" n="80" break="no"/>cula et manifestari per aliquas solis illustrationes.
@@ -1311,7 +1311,7 @@
           <lb ed="#S" n="66"/>Secundo quaeritur quare sunt tot
           <lb ed="#S" n="67"/>horae deputatae in tali numero. Et
           re<lb ed="#S" n="68" break="no"/>spondendum est quod propter tria.
-          Pri<lb ed="#S" n="69" break="no"/>mo propter scripturam, psalmus: <quote source="http://scta.info/resource/ps118_164@1-6">Septies
+          Pri<lb ed="#S" n="69" break="no"/>mo propter scripturam, psalmus: <quote xml:id="bptdom-a214kc-Qd1e2817" source="http://scta.info/resource/ps118_164@1-6">Septies
           <lb ed="#S" n="70"/>in die laudem dixi tibi</quote>. Secundo
           prop<lb ed="#S" n="71" break="no"/>ter recognitionem septiformis gratiae
           <lb ed="#S" n="72"/>spiritus sancti per quam educti
@@ -1337,7 +1337,7 @@
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>ostendit, qui quarta et sexta feria ubera
           <lb ed="#S" n="2"/>matris semel sugebat. De aliis autem
-          <lb ed="#S" n="3"/>satis est notum; unde psalmus: <quote source="http://scta.info/resource/ps33_2@1-5">Benedicam
+          <lb ed="#S" n="3"/>satis est notum; unde psalmus: <quote xml:id="bptdom-a214kc-Qd1e2876" source="http://scta.info/resource/ps33_2@1-5">Benedicam
           <lb ed="#S" n="4"/>dominum in omni tempore</quote> et cetera.
         </p>
         <p xml:id="bptdom-a214kc-d1e2816">
@@ -1359,15 +1359,15 @@
           <lb ed="#S" n="20"/>secunda, tertia et non quarta vel quinta,
           <lb ed="#S" n="21"/>sexta et non septima vel octava et cetera.
           Di<lb ed="#S" n="22" break="no"/>cendum quod matutinas dicimus propter
-          <lb ed="#S" n="23"/>illum psalmum: <quote source="http://scta.info/resource/ps118_62@1-3">Media nocte
+          <lb ed="#S" n="23"/>illum psalmum: <quote xml:id="bptdom-a214kc-Qd1e2925" source="http://scta.info/resource/ps118_62@1-3">Media nocte
           surge<lb ed="#S" n="24" break="no"/>bam</quote> et cetera; propter quod ecclesia
           in<lb ed="#S" n="25" break="no"/>stituit matutinas de nocte dici; et hoc
           <lb ed="#S" n="26"/>certe salubriter, ad domandum carnis
           <lb ed="#S" n="27"/>illecebras psallendo et orando, quia dicitur
-          <lb ed="#S" n="28"/>Eccli. xxxi quod <quote source="http://scta.info/resource/sir31_1@1-4">vigilia honestatis
+          <lb ed="#S" n="28"/>Eccli. xxxi quod <quote xml:id="bptdom-a214kc-Qd1e2939" source="http://scta.info/resource/sir31_1@1-4">vigilia honestatis
           tabefa<lb ed="#S" n="29" break="no"/>ciet carnes</quote>. Laudes enim dicimus ad
           <lb ed="#S" n="30"/>temptationes diaboli repellendas;
-          <lb ed="#S" n="31"/>unde Isa. xxvi: <quote source="http://scta.info/resource/is26_19@7-16">Expergiscimini et
+          <lb ed="#S" n="31"/>unde Isa. xxvi: <quote xml:id="bptdom-a214kc-Qd1e2948" source="http://scta.info/resource/is26_19@7-16">Expergiscimini et
           lau<lb ed="#S" n="32" break="no"/>date, qui habitatis in pulvere, quia
           <lb ed="#S" n="33"/>ros lucis</quote> et cetera. Aliae autem horae
           di<lb ed="#S" n="34" break="no"/>urnae ad orandum deputatae sunt et
@@ -1377,7 +1377,7 @@
           <lb ed="#S" n="38"/>hora prima Mariae Magdalenae
           appa<lb ed="#S" n="39" break="no"/>ruit, et prima hora visus est in littore
           <lb ed="#S" n="40"/>septem discipulis piscantibus dicens:
-          <lb ed="#S" n="41"/><quote source="http://scta.info/resource/io21_5@5-8">Pueri, numquid pulmentarium
+          <lb ed="#S" n="41"/><quote xml:id="bptdom-a214kc-Qd1e2972" source="http://scta.info/resource/io21_5@5-8">Pueri, numquid pulmentarium
           ha<lb ed="#S" n="42" break="no"/>betis</quote>? ut scribitur Io. xxi. Tertia hora
           <lb ed="#S" n="43"/>crucifixus est linguis Iudaeorum et
           flagel<lb ed="#S" n="44" break="no"/>latus. Item eadem hora spiritum
@@ -1715,7 +1715,7 @@
           <lb ed="#S" n="84"/>lavabant manus. Tertia est moralis
           <lb ed="#S" n="85"/>ad significandum quod, sicut exterius est
           mun<lb ed="#S" n="86" break="no"/>dus, ita et interius in mente debet esse mundus,
-          <lb ed="#S" n="87"/>Isaiae i: <quote source="http://scta.info/resource/is1_16@1-3">Lavamini et mundi estote</quote>.
+          <lb ed="#S" n="87"/>Isaiae i: <quote xml:id="bptdom-a214kc-Qd1e3689" source="http://scta.info/resource/is1_16@1-3">Lavamini et mundi estote</quote>.
         </p>
         <p xml:id="bptdom-a214kc-d1e3613">
           <lb ed="#S" n="88"/>De tertia

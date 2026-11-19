@@ -103,14 +103,14 @@
           <lb ed="#S" n="67"/>debemus appetere, cum dicit Sursum;
           se<lb ed="#S" n="68" break="no"/>cundo quid debemus erigere, quia corda. De
           <lb ed="#S" n="69"/>primo, scilicet de loco, dicit apostolus ad Ro. vi:
-          <lb ed="#S" n="70"/><quote source="http://scta.info/resource/col3_1@5-8">Quae sursum sunt quaerite</quote> etc.; de
-          secun<lb ed="#S" n="71" break="no"/>do, Treno. iii: <quote source="http://scta.info/resource/lam3_41@2-8">Levemus corda nostra cum
+          <lb ed="#S" n="70"/><quote xml:id="bptdom-a28dol-Qd1e208" source="http://scta.info/resource/col3_1@5-8">Quae sursum sunt quaerite</quote> etc.; de
+          secun<lb ed="#S" n="71" break="no"/>do, Treno. iii: <quote xml:id="bptdom-a28dol-Qd1e213" source="http://scta.info/resource/lam3_41@2-8">Levemus corda nostra cum
           ma<lb ed="#S" n="72" break="no"/>nibus ad dominum</quote>. Et nota quod ad hoc
           inci<lb ed="#S" n="73" break="no"/>tamur: assumpta natura, angelica ruptura,
           <lb ed="#S" n="74"/>nostra statura. Primo dico assumpta, scilicet
           hu<lb ed="#S" n="75" break="no"/>mana, a Christo, qui est caput nostrum, qui est
           sur<lb ed="#S" n="76" break="no"/>sum: nam ubi est pars ibi debet esse totum,
-          <lb ed="#S" n="77"/>unde apostolus: <quote source="http://scta.info/resource/col3_1@5-10">Quae sursum sunt quaerite, ubi
+          <lb ed="#S" n="77"/>unde apostolus: <quote xml:id="bptdom-a28dol-Qd1e229" source="http://scta.info/resource/col3_1@5-10">Quae sursum sunt quaerite, ubi
           <lb ed="#S" n="78"/>Christus</quote> etc. Secundo dico angelica ruptura vel
           <lb ed="#S" n="79"/>ruina nam ruinas angelorum et sedes illorum
           <lb ed="#S" n="80"/>qui ceciderunt debemus implere, et ad illos
@@ -171,7 +171,7 @@
           <lb ed="#S" n="45"/>mendacium mundi, nam plurimi qui hoc
           re<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>spondent oppositum de facto tenent, quia non
           <lb ed="#S" n="47"/>habent ad sursum, immo ad terram deorsum;
-          <lb ed="#S" n="48"/>contra quos psalmus: <quote source="http://scta.info/resource/ps4_3@1-5">Filii hominum, usquequo
+          <lb ed="#S" n="48"/>contra quos psalmus: <quote xml:id="bptdom-a28dol-Qd1e366" source="http://scta.info/resource/ps4_3@1-5">Filii hominum, usquequo
           gra<lb ed="#S" n="49" break="no"/>vi corde</quote>? Et sic grave secundum Philosophum
           <lb ed="#S" n="50"/>naturaliter tendit deorsum, sic multi habent
           <lb ed="#S" n="51"/>cor depressum totaliter ad terrena; tales
@@ -219,13 +219,13 @@
           <lb ed="#S" n="3"/>tale quam quod est simpliciter tale; ideo tenetur
           ma<lb ed="#S" n="4" break="no"/>gis paenitens hac ratione. Secundo ponitur
           <lb ed="#S" n="5"/>iusta responsio, ibi: Dignum. Certe ratione
-          di<lb ed="#S" n="6" break="no"/>vinae maiestatis, Apoca. vii: <quote source="http://scta.info/resource/ap7_12@3-18">Benedicta
+          di<lb ed="#S" n="6" break="no"/>vinae maiestatis, Apoca. vii: <quote xml:id="bptdom-a28dol-Qd1e475" source="http://scta.info/resource/ap7_12@3-18">Benedicta
           cla<lb ed="#S" n="7" break="no"/>ritas et sapientia et gratiarum actio, honor, virtus
           <lb ed="#S" n="8"/>et fortitudo deo nostro</quote> etc. Iustum etiam ratione
-          <lb ed="#S" n="9"/>humanitatis, Lu. i: <quote source="http://scta.info/resource/lc1_75@1-6">In sanctitate et
-          iusti<lb ed="#S" n="10" break="no"/>tia coram ipso</quote> etc. Vel dignum ratione sui, quia <quote source="http://scta.info/resource/ps94_7@1-6">ipse
+          <lb ed="#S" n="9"/>humanitatis, Lu. i: <quote xml:id="bptdom-a28dol-Qd1e484" source="http://scta.info/resource/lc1_75@1-6">In sanctitate et
+          iusti<lb ed="#S" n="10" break="no"/>tia coram ipso</quote> etc. Vel dignum ratione sui, quia <quote xml:id="bptdom-a28dol-Qd1e489" source="http://scta.info/resource/ps94_7@1-6">ipse
           <lb ed="#S" n="11"/>est dominus deus noster</quote>, psal.; item ratione
-          <lb ed="#S" n="12"/>nostri, quia: <quote source="http://scta.info/resource/ps94_7@7-11">Nos autem populus eius</quote> etc.
+          <lb ed="#S" n="12"/>nostri, quia: <quote xml:id="bptdom-a28dol-Qd1e497" source="http://scta.info/resource/ps94_7@7-11">Nos autem populus eius</quote> etc.
         </p>
         <p xml:id="bptdom-a28dol-d1e478">
           <lb ed="#S" n="13"/>Hic agitur de
@@ -311,7 +311,7 @@
           <pb ed="#S" n="55-r"/>
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>de sanctis Iohanne et Petro, qui
-          <quote source="http://scta.info/resource/act3_1@5-11">ascende<lb ed="#S" n="2" break="no"/>runt ad templum ad horam orationis
+          <quote xml:id="bptdom-a28dol-Qd1e680" source="http://scta.info/resource/act3_1@5-11">ascende<lb ed="#S" n="2" break="no"/>runt ad templum ad horam orationis
           no<lb ed="#S" n="3" break="no"/>nam</quote>, Actu. iii; ergo non ubique est deus
           adoran<lb ed="#S" n="4" break="no"/>dus. Responsio. Et dico quod deus potest in omni
           lo<lb ed="#S" n="5" break="no"/>co adorari, quia oratio est mentis elevatio
@@ -459,13 +459,13 @@
           <lb ed="#S" n="52"/>innocentiae saltem non indigebat, quia periculis
           <lb ed="#S" n="53"/>non angustiabatur. Item videtur de Antecristo quod
           <lb ed="#S" n="54"/>non debeat habere, cum nullum bonum faciat,
-          im<lb ed="#S" n="55" break="no"/>mo dicitur, secundo ad Thessa. ii, quod <quote source="http://scta.info/resource/IIth2_9@2-7">adventus
+          im<lb ed="#S" n="55" break="no"/>mo dicitur, secundo ad Thessa. ii, quod <quote xml:id="bptdom-a28dol-Qd1e1002" source="http://scta.info/resource/IIth2_9@2-7">adventus
           <lb ed="#S" n="56"/>eius est secundum operationem Sathanae</quote>; ergo etc.
           Respon<lb ed="#S" n="57" break="no"/>sio: dicendum quod homo in statu vitae istius
           <lb ed="#S" n="58"/>constitutus est quasi in quadam via qua tendere
           <lb ed="#S" n="59"/>ad patriam debet in qua quidem via multa
           peri<lb ed="#S" n="60" break="no"/>cula hominum imminent tam ab interiori
-          <lb ed="#S" n="61"/>quam ab exteriori, secundum illud psalmus: <quote source="http://scta.info/resource/ps141_4@12-18">In hac via
+          <lb ed="#S" n="61"/>quam ab exteriori, secundum illud psalmus: <quote xml:id="bptdom-a28dol-Qd1e1018" source="http://scta.info/resource/ps141_4@12-18">In hac via
           <lb ed="#S" n="62"/>qua ambulabam absconderunt superbi
           laque<lb ed="#S" n="63" break="no"/>um mihi</quote>. Et ideo, sicut hominibus viam non
           <lb ed="#S" n="64"/>tutam ambulantibus dantur custodes, ita
@@ -476,7 +476,7 @@
           <lb ed="#S" n="69"/>conregnantem, in inferno daemonem punientem.
           <lb ed="#S" n="70"/>Praedicta autem determinatio confirmatur per
           <lb ed="#S" n="71"/>auctoritatem Hieronymi, illud Mathei xviii:
-          <lb ed="#S" n="72"/><quote source="http://scta.info/resource/mt18_10@12-24">Angeli eorum semper vident faciem patris mei
+          <lb ed="#S" n="72"/><quote xml:id="bptdom-a28dol-Qd1e1043" source="http://scta.info/resource/mt18_10@12-24">Angeli eorum semper vident faciem patris mei
           <lb ed="#S" n="73"/>qui in caelis est</quote> etc., ubi dicit: Sic magna
           dig<lb ed="#S" n="74" break="no"/>nitas animarum ut unaque habeat ab
           or<lb ed="#S" n="75" break="no"/>tu nativitatis suae angelum ad sui
@@ -488,7 +488,7 @@
           cor<lb ed="#S" n="81" break="no"/>poris erat viator; et licet ut sic non debetur sibi
           <lb ed="#S" n="82"/>angelus tamquam superior, habuit tamen angelum
           <lb ed="#S" n="83"/>tamquam ministrum, iuxta illud Mathei iiii:
-          <lb ed="#S" n="84"/><quote source="http://scta.info/resource/mt4_11@7-11">Accesserunt angeli et ministrabant ei</quote>. Ad
+          <lb ed="#S" n="84"/><quote xml:id="bptdom-a28dol-Qd1e1071" source="http://scta.info/resource/mt4_11@7-11">Accesserunt angeli et ministrabant ei</quote>. Ad
           se<lb ed="#S" n="85" break="no"/>cundum de Adam, quod licet non immineret sibi
           peri<lb ed="#S" n="86" break="no"/>culum ab interiori in statu innocentiae, quia
           <lb ed="#S" n="87"/>interius omnia erant ordinata,
@@ -518,7 +518,7 @@
           <lb ed="#S" n="17"/>sui custodiam deputatum. Quaeritur
           ter<lb ed="#S" n="18" break="no"/>tio utrum doleant angeli de damnatione eorum quos
           <lb ed="#S" n="19"/>custodiunt. Videtur quod sic, quia dicitur Lu. xv:
-          <quote source="http://scta.info/resource/lc15_7@5-22">Ange<lb ed="#S" n="20" break="no"/>li gaudent plus de uno peccatore paenitentiam agente
+          <quote xml:id="bptdom-a28dol-Qd1e1135" source="http://scta.info/resource/lc15_7@5-22">Ange<lb ed="#S" n="20" break="no"/>li gaudent plus de uno peccatore paenitentiam agente
           <lb ed="#S" n="21"/>quam de lxxxix iustis qui non indigent paenitentia</quote>;
           er<lb ed="#S" n="22" break="no"/>go dolent de iusto in peccatum cadente.
           Dicen<lb ed="#S" n="23" break="no"/>dum tamen quod angeli non dolent de peccatis hominum neque
@@ -551,25 +551,25 @@
           <lb ed="#S" n="48"/>domini descendit de caelo cum Azaria et sociis eius
           <lb ed="#S" n="49"/>in fornacem etc., et fecit flammas ignis quasi
           ven<lb ed="#S" n="50" break="no"/>tum roris flantem. Tertius hostes visibiles
-          di<lb ed="#S" n="51" break="no"/>micare, iiii Regum xix: <quote source="http://scta.info/resource/IIreg19_35@7-17">Venit angelus domini
+          di<lb ed="#S" n="51" break="no"/>micare, iiii Regum xix: <quote xml:id="bptdom-a28dol-Qd1e1212" source="http://scta.info/resource/IIreg19_35@7-17">Venit angelus domini
           <lb ed="#S" n="52"/>et percussit in castris Assyriorum lxxx milia</quote>
           <lb ed="#S" n="53"/>hominum. Quartus orationes deo praesentare, Thob.
-          <lb ed="#S" n="54"/>xii: <quote source="http://scta.info/resource/tob12_12@1-26">Cum orabas cum lacrimis, ego obtuli orationem
+          <lb ed="#S" n="54"/>xii: <quote xml:id="bptdom-a28dol-Qd1e1221" source="http://scta.info/resource/tob12_12@1-26">Cum orabas cum lacrimis, ego obtuli orationem
           <lb ed="#S" n="55"/>tuam deo</quote>, xii c. Quintus viam salutis ostendere,
-          <lb ed="#S" n="56"/>Tho. v: <quote source="http://scta.info/resource/tob5_15@5-11">Ego sanum ducam et reducam ad te</quote>,
+          <lb ed="#S" n="56"/>Tho. v: <quote xml:id="bptdom-a28dol-Qd1e1229" source="http://scta.info/resource/tob5_15@5-11">Ego sanum ducam et reducam ad te</quote>,
           <lb ed="#S" n="57"/>dixit angelus. Sextus in agendis dirigere, Da.
-          <lb ed="#S" n="58"/>x: <quote source="http://scta.info/resource/dan10_14@1-10">Veni et doceam te quae ventura sunt populo</quote>.
-          Sep<lb ed="#S" n="59" break="no"/>timus a peccatis suscitare, Act. xii: <quote source="http://scta.info/resource/act12_7@1-15">Ecce
+          <lb ed="#S" n="58"/>x: <quote xml:id="bptdom-a28dol-Qd1e1236" source="http://scta.info/resource/dan10_14@1-10">Veni et doceam te quae ventura sunt populo</quote>.
+          Sep<lb ed="#S" n="59" break="no"/>timus a peccatis suscitare, Act. xii: <quote xml:id="bptdom-a28dol-Qd1e1242" source="http://scta.info/resource/act12_7@1-15">Ecce
           ange<lb ed="#S" n="60" break="no"/>lus domini astitit; et sequitur: Percussoque latere
           Pe<lb ed="#S" n="61" break="no"/>tri excitavit eum</quote> etc. Octavus est secreta
           re<lb ed="#S" n="62" break="no"/>velare, Thob. xii: dixit Raphael angelus:
-          <lb ed="#S" n="63"/><quote source="http://scta.info/resource/tob12_11@1-11">Manifestabo vobis intentionem et non
+          <lb ed="#S" n="63"/><quote xml:id="bptdom-a28dol-Qd1e1252" source="http://scta.info/resource/tob12_11@1-11">Manifestabo vobis intentionem et non
           abscon<lb ed="#S" n="64" break="no"/>dam a vobis sermonem occultum</quote>. Nonus est ad
-          <lb ed="#S" n="65"/>fervorem excitare, iii Re. xix: <quote source="http://scta.info/resource/Ireg19_7@11-17">Surge, comede,
+          <lb ed="#S" n="65"/>fervorem excitare, iii Re. xix: <quote xml:id="bptdom-a28dol-Qd1e1259" source="http://scta.info/resource/Ireg19_7@11-17">Surge, comede,
           <lb ed="#S" n="66"/>grandis enim restat tibi via</quote>. Decimus
-          consola<lb ed="#S" n="67" break="no"/>ri maestos, Thob. v: <quote source="http://scta.info/resource/tob5_13@4-13">Forti animo esto, in proximo
+          consola<lb ed="#S" n="67" break="no"/>ri maestos, Thob. v: <quote xml:id="bptdom-a28dol-Qd1e1267" source="http://scta.info/resource/tob5_13@4-13">Forti animo esto, in proximo
           <lb ed="#S" n="68"/>ut a deo cureris</quote>. Undecimus increpare
-          ma<lb ed="#S" n="69" break="no"/>los, Nu. xxii: dixit angelus: <quote source="http://scta.info/resource/num22_32@3-8">Cur verberasti
+          ma<lb ed="#S" n="69" break="no"/>los, Nu. xxii: dixit angelus: <quote xml:id="bptdom-a28dol-Qd1e1274" source="http://scta.info/resource/num22_32@3-8">Cur verberasti
           <lb ed="#S" n="70"/>tertio azinam tuam</quote>? Duodecimus arcere
           di<lb ed="#S" n="71" break="no"/>abolos, Thob. vi: Daemonem ab uxore mea.
         </p>
@@ -587,7 +587,7 @@
           <lb ed="#S" n="82"/>nomina. Et est dicendum quod tres angeli sunt apud
           <lb ed="#S" n="83"/>nos nominati: primus est Michael, cuius officium est
           <lb ed="#S" n="84"/>esse praepositum ecclesiae, in paradisum animas portare,
-          <lb ed="#S" n="85"/>cum dracone pugnare, Apoc. xii: <quote source="http://scta.info/resource/ap12_7@7-13">Michael et
+          <lb ed="#S" n="85"/>cum dracone pugnare, Apoc. xii: <quote xml:id="bptdom-a28dol-Qd1e1314" source="http://scta.info/resource/ap12_7@7-13">Michael et
           <lb ed="#S" n="86"/>angeli eius praeliabantur cum dracone</quote> etc., et dei populo
           <lb ed="#S" n="87"/>subvenire. Secundus est Gabriel, qui habet magna
           <lb ed="#S" n="88"/>nuntiare: hic nuntiavit nativitatem Christi et Iohannis Baptistae.
@@ -625,7 +625,7 @@
           <lb ed="#S" n="26"/>dependet ex liberalitate dei, sic dico quod homines
           <lb ed="#S" n="27"/>per donum gratiae tantum mereri possunt quod angelis
           aequen<lb ed="#S" n="28" break="no"/>tur secundum singulos angelorum ordines; et consonat
-          re<lb ed="#S" n="29" break="no"/>promissioni Christi dicentis, Lu. xx, quod <quote source="http://scta.info/resource/lc20_36@6-17">filii
+          re<lb ed="#S" n="29" break="no"/>promissioni Christi dicentis, Lu. xx, quod <quote xml:id="bptdom-a28dol-Qd1e1398" source="http://scta.info/resource/lc20_36@6-17">filii
           resurrec<lb ed="#S" n="30" break="no"/>tionis erunt aequales angelis in caelis</quote>. Secundo quaeritur
           <lb ed="#S" n="31"/>utrum ibi sit laus vocalis angelorum aliquo modo
           audi<lb ed="#S" n="32" break="no"/>bilis. Et dicendum quod, quamvis angelus non emittat
@@ -690,7 +690,7 @@
           <lb ed="#S" n="90"/>inter deum et hominem qui etiam medius est inter personas
           <pb ed="#S" n="57-r"/>
           <cb ed="#S" n="a"/>
-          <lb ed="#S" n="1"/>divinas, unde apostolus: <quote source="http://scta.info/resource/Itim2_5@6-11">Mediator dei et hominum Christus</quote>.
+          <lb ed="#S" n="1"/>divinas, unde apostolus: <quote xml:id="bptdom-a28dol-Qd1e1542" source="http://scta.info/resource/Itim2_5@6-11">Mediator dei et hominum Christus</quote>.
           <lb ed="#S" n="2"/>Quarta, quia, si pater aut spiritus sanctus fuisset incarnatus, essent
           <lb ed="#S" n="3"/>duo filii, et sic nesciremus quando fieret mentio de
           <lb ed="#S" n="4"/>uno vel alio. Quinta quia potentia attribuitur patri:
@@ -703,7 +703,7 @@
           <lb ed="#S" n="11"/>defectu sapientiae vel ex ignorantia, quae proprie
           nominan<lb ed="#S" n="12" break="no"/>do dicitur inadvertentiam; ideo contra filium; propter quod
           de<lb ed="#S" n="13" break="no"/>cuit ipsum magis incarnari. Sexta quia verbum
-          <lb ed="#S" n="14"/>magis congruit praedicationi, quia <quote source="http://scta.info/resource/rom10_17@2-9">fides ex
+          <lb ed="#S" n="14"/>magis congruit praedicationi, quia <quote xml:id="bptdom-a28dol-Qd1e1573" source="http://scta.info/resource/rom10_17@2-9">fides ex
           audi<lb ed="#S" n="15" break="no"/>tu, auditus autem per verbum dei</quote>, Ro. x; et quia per
           praedi<lb ed="#S" n="16" break="no"/>cationem illius qui incarnaretur trahi debebamus,
           decu<lb ed="#S" n="17" break="no"/>it verbum incarnari, scilicet filium, non patrem vel spiritum sanctum.
@@ -711,18 +711,18 @@
           di<lb ed="#S" n="19" break="no"/>vinae illuminationis praesidium, ibi: Novae mentis etc.,
           <lb ed="#S" n="20"/>quia ad litteram de his quae debemus credere
           <lb ed="#S" n="21"/>et sperare sumus informati per verbum incarnatum et
-          <lb ed="#S" n="22"/>etiam illustrati, quia, ut dicitur Lu. i: <quote source="http://scta.info/resource/lc1_79@1-10">Ipse venit
+          <lb ed="#S" n="22"/>etiam illustrati, quia, ut dicitur Lu. i: <quote xml:id="bptdom-a28dol-Qd1e1594" source="http://scta.info/resource/lc1_79@1-10">Ipse venit
           illumi<lb ed="#S" n="23" break="no"/>nare his qui in tenebris et in umbra mortis
           <lb ed="#S" n="24"/>sedent</quote>. Tertio etiam recognoscit altae
           contempla<lb ed="#S" n="25" break="no"/>tionis solatium, ibi: Ut dum visibiliter deum cognoscimus, quia
-          <lb ed="#S" n="26"/><quote source="http://scta.info/resource/io1_14@1-13">Verbum caro factum est et vidimus gloriam</quote>, Io. i,
+          <lb ed="#S" n="26"/><quote xml:id="bptdom-a28dol-Qd1e1604" source="http://scta.info/resource/io1_14@1-13">Verbum caro factum est et vidimus gloriam</quote>, Io. i,
           <lb ed="#S" n="27"/>per hunc, scilicet deum visum in carne, in invisibilium, scilicet
           <lb ed="#S" n="28"/>quae videre non possumus hic existentes, amorem
           rapi<lb ed="#S" n="29" break="no"/>amur, scilicet raptu amoris. Quarto recognoscit
           <lb ed="#S" n="30"/>divinae iubilationis tripudium, ibi: Et ideo cum
           an<lb ed="#S" n="31" break="no"/>gelis et archangelis; hic ponit fere omnes ordines
           angelo<lb ed="#S" n="32" break="no"/>rum, quia in die nativitatis domini angeli decantaverunt
-          lau<lb ed="#S" n="33" break="no"/>dem deo dicendo <quote source="http://scta.info/resource/lc2_14@1-4">Gloria in excelsis deo</quote>, Lucae ii.
+          lau<lb ed="#S" n="33" break="no"/>dem deo dicendo <quote xml:id="bptdom-a28dol-Qd1e1622" source="http://scta.info/resource/lc2_14@1-4">Gloria in excelsis deo</quote>, Lucae ii.
           <lb ed="#S" n="34"/>De praefatione epiphaniae. Secunda
           prae<lb ed="#S" n="35" break="no"/>fatio est de epiphania in qua breviter duo
           <lb ed="#S" n="36"/>tangit: primo sublimitas luminis apparentis, cum dicitur Quia
@@ -764,7 +764,7 @@
           sang<lb ed="#S" n="67" break="no"/>uine agni in liminaribus domus; ideo Pascha, quod
           inter<lb ed="#S" n="68" break="no"/>pretatur transitus, celebrabant; vel etiam in memoria
           tran<lb ed="#S" n="69" break="no"/>situs maris rubri, quod pede sicco transierunt,
-          <lb ed="#S" n="70"/>Egipciis submersis, unde Exo. xv: <quote source="http://scta.info/resource/ex15_19@20-25">Filii autem Israel
+          <lb ed="#S" n="70"/>Egipciis submersis, unde Exo. xv: <quote xml:id="bptdom-a28dol-Qd1e1712" source="http://scta.info/resource/ex15_19@20-25">Filii autem Israel
           <lb ed="#S" n="71"/>per siccum ambula</quote>; ideo Pascha celebrabant et
           ag<lb ed="#S" n="72" break="no"/>num imolabant ad vesperam, ut Exo. xii. Sic
           <lb ed="#S" n="73"/>et nos colimus Pascha in signum transitus filii dei
@@ -775,15 +775,15 @@
           <lb ed="#S" n="78"/>submerguntur, et filii Israel, id est animae, liberantur, quia pro
           <lb ed="#S" n="79"/>omnibus in vespera Paschae Iudaeorum tamquam verus agnus
           <lb ed="#S" n="80"/>fuit imolatus, sicut praedixerat Isa.; ideo dicitur cum
-          <quote source="http://scta.info/resource/Icor5_7@12-16">Pa<lb ed="#S" n="81" break="no"/>scha nostrum immolatus est Christus</quote>, non agnus Iudaeorum typicus
+          <quote xml:id="bptdom-a28dol-Qd1e1737" source="http://scta.info/resource/Icor5_7@12-16">Pa<lb ed="#S" n="81" break="no"/>scha nostrum immolatus est Christus</quote>, non agnus Iudaeorum typicus
           <lb ed="#S" n="82"/>et figurativus, sed ipse qui est veritas. Tertio
           <lb ed="#S" n="83"/>ostenditur patientis tranquillitas, cum dicitur Ipse enim
           <lb ed="#S" n="84"/>verus est agnus; et hoc praedixerat Iohannes Baptista de eo, Io.
-          <lb ed="#S" n="85"/>i: <quote source="http://scta.info/resource/io1_29@11-13">Ecce agnus dei</quote>. Quarto ostenditur passionis
+          <lb ed="#S" n="85"/>i: <quote xml:id="bptdom-a28dol-Qd1e1751" source="http://scta.info/resource/io1_29@11-13">Ecce agnus dei</quote>. Quarto ostenditur passionis
           uti<lb ed="#S" n="86" break="no"/>litas, cum dicitur Qui mortem nostram moriendo
           <lb ed="#S" n="87"/>destruxit et vitam resurgendo. Et est sensus:
           <lb ed="#S" n="88"/>Qui mortem nostram, scilicet peccati, de qua Iaco.:
-          <lb ed="#S" n="89"/><quote source="http://scta.info/resource/iac1_15@7-13">Peccatum cum consummatum fuerit generat mortem</quote>,
+          <lb ed="#S" n="89"/><quote xml:id="bptdom-a28dol-Qd1e1762" source="http://scta.info/resource/iac1_15@7-13">Peccatum cum consummatum fuerit generat mortem</quote>,
           <lb ed="#S" n="90"/>quia secundum apostolum: Si Christus resurrexit, et nos resurgemus.
           <pb ed="#S" n="57-v"/>
           <cb ed="#S" n="a"/>
@@ -923,11 +923,11 @@
           <lb ed="#S" n="19"/>Dicendum quod partim sumitur ab Isa. vi usque
           <lb ed="#S" n="20"/>ad illum locum Osanna in excelsis, quod
           su<lb ed="#S" n="21" break="no"/>mitur de evangelio, Mathei xxi, quantum ad hoc
-          <lb ed="#S" n="22"/>quod dicitur <quote source="http://scta.info/resource/mt21_9@13-22">Osanna in excelsis, benedictus qui
+          <lb ed="#S" n="22"/>quod dicitur <quote xml:id="bptdom-a28dol-Qd1e2051" source="http://scta.info/resource/mt21_9@13-22">Osanna in excelsis, benedictus qui
           ve<lb ed="#S" n="23" break="no"/>nit</quote> etc. Quaeritur secundo quid signat Sanctus,
           <lb ed="#S" n="24"/>et quare cantando triplicatur. Dicendum quod
           <lb ed="#S" n="25"/>signat cantum puerorum factum Christo dum
-          intra<lb ed="#S" n="26" break="no"/>vit Ierusalem, quia quidam <quote source="http://scta.info/resource/mt21_8@4-14 http://scta.info/resource/mt21_9@10-16">straverunt vestimenta
+          intra<lb ed="#S" n="26" break="no"/>vit Ierusalem, quia quidam <quote xml:id="bptdom-a28dol-Qd1e2062" source="http://scta.info/resource/mt21_8@4-14 http://scta.info/resource/mt21_9@10-16">straverunt vestimenta
           <lb ed="#S" n="27"/>sua in via, alii ramos cedebant de
           arbo<lb ed="#S" n="28" break="no"/>ribus dicentes: Osanna filio David,
           benedi<lb ed="#S" n="29" break="no"/>ctus qui venit</quote> etc., Mathei xxi. Ratio autem quare
@@ -943,13 +943,13 @@
           sacramen<lb ed="#S" n="39" break="no"/>to est novum, anima humana, quae a patre
           <lb ed="#S" n="40"/>creata statim in momento creationis omni
           <lb ed="#S" n="41"/>sanctitate et omni gratia et sapientia est repleta
-          <lb ed="#S" n="42"/>et hoc fecit pater, ad Coll. ii: <quote source="http://scta.info/resource/col2_3@1-9">Omnes thesauri
+          <lb ed="#S" n="42"/>et hoc fecit pater, ad Coll. ii: <quote xml:id="bptdom-a28dol-Qd1e2100" source="http://scta.info/resource/col2_3@1-9">Omnes thesauri
           sci<lb ed="#S" n="43" break="no"/>entiae et sapientiae dei sunt in Christo reconditi</quote>.
           <lb ed="#S" n="44"/>Tertium est deitas filii, quae sibi corpus
           san<cb ed="#S" n="b"/><lb ed="#S" n="45" break="no"/>ctum et animam sanctitate plenam
           assump<lb ed="#S" n="46" break="no"/>sit et in persona filii univit, ut in eo
           san<lb ed="#S" n="47" break="no"/>ctitate redundaret ille homo ad totius
-          ec<lb ed="#S" n="48" break="no"/>clesiae sanctitatem et copiam, Io. xvii: <quote source="http://scta.info/resource/io17_19@1-7">Ego
+          ec<lb ed="#S" n="48" break="no"/>clesiae sanctitatem et copiam, Io. xvii: <quote xml:id="bptdom-a28dol-Qd1e2117" source="http://scta.info/resource/io17_19@1-7">Ego
           <lb ed="#S" n="49"/>pro eis sanctificabo meipsum</quote>. Et sic patet.
         </p>
         <p xml:id="bptdom-a28dol-d1e2014">
@@ -960,7 +960,7 @@
           <lb ed="#S" n="54"/>orat ut laus nostra et voces nostrae cum vocibus
           <lb ed="#S" n="55"/>angelorum socientur et admittantur, unde dicit:
           <lb ed="#S" n="56"/>Cum quibus et nostras voces ut admitti etc.; ideo, quia
-          <lb ed="#S" n="57"/>angeli semper cantant deo <quote source="http://scta.info/resource/ap4_8">Sanctus sanctus sanctus</quote>,
+          <lb ed="#S" n="57"/>angeli semper cantant deo <quote xml:id="bptdom-a28dol-Qd1e2142" source="http://scta.info/resource/ap4_8">Sanctus sanctus sanctus</quote>,
           <lb ed="#S" n="58"/>ut habetur Apoc. iiii, idcirco et cantum
           an<lb ed="#S" n="59" break="no"/>gelicum pariter et humanum decantamus vel
           in<lb ed="#S" n="60" break="no"/>choamus; nam finis omnium praefationum
@@ -986,17 +986,17 @@
           <lb ed="#S" n="78"/>Osanna, id est salva nos obsecro, in excelsis.
           <lb ed="#S" n="79"/>Dicimus ergo ter Sanctus ad reverentiam
           <lb ed="#S" n="80"/>trium personarum: nam pater est sanctus, filio
-          di<lb ed="#S" n="81" break="no"/>cente, Io. xvii: <quote source="http://scta.info/resource/io17_17@1-4">Pater sanctifica eos in
+          di<lb ed="#S" n="81" break="no"/>cente, Io. xvii: <quote xml:id="bptdom-a28dol-Qd1e2200" source="http://scta.info/resource/io17_17@1-4">Pater sanctifica eos in
           veri<lb ed="#S" n="82" break="no"/>tate, quos dedisti mihi, quia sanctus es</quote>; item
-          fi<lb ed="#S" n="83" break="no"/>lius est sanctus, angelo nuntiante, Lu. i: <quote source="http://scta.info/resource/lc1_35@16-23">Quod
+          fi<lb ed="#S" n="83" break="no"/>lius est sanctus, angelo nuntiante, Lu. i: <quote xml:id="bptdom-a28dol-Qd1e2207" source="http://scta.info/resource/lc1_35@16-23">Quod
           <lb ed="#S" n="84"/>enim ex te nascetur sanctum vocabitur filius dei</quote>.
           <lb ed="#S" n="85"/>Item spiritussanctus, filio attestante, Io. xx:
-          <quote source="http://scta.info/resource/io20_22@8-10">Ac<lb ed="#S" n="86" break="no"/>cipite spiritumsanctum</quote>. Sed post dicimus Dominus deus ad
+          <quote xml:id="bptdom-a28dol-Qd1e2214" source="http://scta.info/resource/io20_22@8-10">Ac<lb ed="#S" n="86" break="no"/>cipite spiritumsanctum</quote>. Sed post dicimus Dominus deus ad
           <lb ed="#S" n="87"/>denotandum personarum in essentia unitatem
           <lb ed="#S" n="88"/>quia una est divinitas, unde Deutro. vi:
           <pb ed="#S" n="58-v"/>
           <cb ed="#S" n="a"/>
-          <lb ed="#S" n="1"/><quote source="http://scta.info/resource/deut6_4@1-8">Audi Israel, dominus deus tuus unus est</quote>. Et
+          <lb ed="#S" n="1"/><quote xml:id="bptdom-a28dol-Qd1e2229" source="http://scta.info/resource/deut6_4@1-8">Audi Israel, dominus deus tuus unus est</quote>. Et
           <lb ed="#S" n="2"/>quorum deus sit ostenditur, cum dicitur Sabaoth, id est
           <lb ed="#S" n="3"/>exercituum, angelorum et hominum, quia in
           dictio<lb ed="#S" n="4" break="no"/>ne eius et dominatione cuncta sunt posita. Et
@@ -1009,7 +1009,7 @@
           Se<lb ed="#S" n="9" break="no"/>quitur: Pleni sunt caeli et terra, id est angeli, qui
           <lb ed="#S" n="10"/>per caelos intelliguntur, et terra, id est homines;
           <lb ed="#S" n="11"/>vel aliter caeli et terra sunt pleni, quia deus
-          <lb ed="#S" n="12"/>est ubique et habet esse ubique, unde psal.: <quote source="http://scta.info/resource/ps138_8@1-12">Si
+          <lb ed="#S" n="12"/>est ubique et habet esse ubique, unde psal.: <quote xml:id="bptdom-a28dol-Qd1e2260" source="http://scta.info/resource/ps138_8@1-12">Si
           <lb ed="#S" n="13"/>ascendero in caelum, tu illic es; si descendero
           <lb ed="#S" n="14"/>in infernum ades</quote>. Unde sciendum quod deus est
           <lb ed="#S" n="15"/>super omnia non tamquam elevatus, subtus
@@ -1053,7 +1053,7 @@
           <lb ed="#S" n="49"/>nos etc. Tertius fuit a mundo in crucis
           <lb ed="#S" n="50"/>patibulum et tunc fuit positus in signum
           <lb ed="#S" n="51"/>prophetarum et patriarcharum; ideo dicimus: O
-          <lb ed="#S" n="52"/><quote source="http://scta.info/resource/is11_10@4-10">radix Yesse, qui stas in signum populorum</quote>.
+          <lb ed="#S" n="52"/><quote xml:id="bptdom-a28dol-Qd1e2354" source="http://scta.info/resource/is11_10@4-10">radix Yesse, qui stas in signum populorum</quote>.
           Quar<lb ed="#S" n="53" break="no"/>tus fuit a cruce in limbum habens clavem
           <lb ed="#S" n="54"/>et aperiens infernum; ideo dicitur: O clavis David,
           <lb ed="#S" n="55"/>veni et educ vinctum de carcere etc.
@@ -1113,13 +1113,13 @@
           cru<lb ed="#S" n="15" break="no"/>cifixionem venimus ad pedes maiestatis
           di<lb ed="#S" n="16" break="no"/>vinae; alii econverso, quia primo osculantur
           <lb ed="#S" n="17"/>pedes maiestatis, postea crucifixi, hac ratione:
-          <lb ed="#S" n="18"/>quia <quote source="http://scta.info/resource/iac1_17@1-13">omne datum optimum et omne donum perfectum
+          <lb ed="#S" n="18"/>quia <quote xml:id="bptdom-a28dol-Qd1e2483" source="http://scta.info/resource/iac1_17@1-13">omne datum optimum et omne donum perfectum
           <lb ed="#S" n="19"/>de sursum est, descendens a patre luminum</quote>,
           Ia<lb ed="#S" n="20" break="no"/>cobi i. Tertio debet se inclinare
           <lb ed="#S" n="21"/>iunctis manibus, et haec inclinatio aliquid in
           <lb ed="#S" n="22"/>Christo et aliquid in sacerdote figurat. In
           <lb ed="#S" n="23"/>Christo, quia signat inclinationem et orationem quam
-          <lb ed="#S" n="24"/>fecit ante passionem, in qua <quote source="http://scta.info/resource/lc22_44@1-11">factus est sudor eius
+          <lb ed="#S" n="24"/>fecit ante passionem, in qua <quote xml:id="bptdom-a28dol-Qd1e2499" source="http://scta.info/resource/lc22_44@1-11">factus est sudor eius
           <lb ed="#S" n="25"/>sicut guttae sanguinis decurrentis in
           ter<lb ed="#S" n="26" break="no"/>ram</quote>, sicut habetur Lu. xxii; in ipso autem
           sacerdo<lb ed="#S" n="27" break="no"/>te signat quod debet considerare seipsum quasi
@@ -1257,7 +1257,7 @@
           <lb ed="#S" n="59"/>intrare secrete cubiculum cordis sui et, ostio
           <lb ed="#S" n="60"/>sensuum clauso, dominum orare. Similiter
           <lb ed="#S" n="61"/>habes in libro Regum primo de Anna,
-          <lb ed="#S" n="62"/>quae orabat nec loquebatur, sed <quote source="http://scta.info/resource/Isam1_13@7-10">labia
+          <lb ed="#S" n="62"/>quae orabat nec loquebatur, sed <quote xml:id="bptdom-a28dol-Qd1e2795" source="http://scta.info/resource/Isam1_13@7-10">labia
           mo<lb ed="#S" n="63" break="no"/>vebantur tantum</quote>; sic nec verba sacerdotis
           <lb ed="#S" n="64"/>debent audiri. Tertia propter periculi
           evitatio<lb ed="#S" n="65" break="no"/>nem: nam in primitiva ecclesia dicebantur
@@ -1338,16 +1338,16 @@
           impugna<lb ed="#S" n="45" break="no"/>tione, a carnis infectione: pro primo dicitur
           <lb ed="#S" n="46"/>clemens, pro secundo clementior, pro tertio
           <lb ed="#S" n="47"/>clementissimus. Addit autem Per Iesum Christum,
-          <lb ed="#S" n="48"/>quia ipse dixit discipulis suis: <quote source="http://scta.info/resource/io16_23@13-21">Quidquid
+          <lb ed="#S" n="48"/>quia ipse dixit discipulis suis: <quote xml:id="bptdom-a28dol-Qd1e2969" source="http://scta.info/resource/io16_23@13-21">Quidquid
           petie<lb ed="#S" n="49" break="no"/>ritis patrem in nomine meo dabit vobis</quote>;
           <lb ed="#S" n="50"/>unde in nomine eius petere debemus. Et
           no<lb ed="#S" n="51" break="no"/>ta quod bene mirabiliter nominatur et describitur
           <lb ed="#S" n="52"/>Christus: primo quantum ad eius dignitatem
           <lb ed="#S" n="53"/>regalem, cum dicit Christum, id est unctum; reges
-          <lb ed="#S" n="54"/>enim consueverunt ungi, unde psalmus: <quote source="http://scta.info/resource/ps44_8@7-11">Unxit te deus
+          <lb ed="#S" n="54"/>enim consueverunt ungi, unde psalmus: <quote xml:id="bptdom-a28dol-Qd1e2985" source="http://scta.info/resource/ps44_8@7-11">Unxit te deus
           <lb ed="#S" n="55"/>deus tuus</quote> etc. Secundo quantum ad effectum
           <lb ed="#S" n="56"/>salutarem, cum dicit Iesum, unde Math.
-          <lb ed="#S" n="57"/>i dicitur: <quote source="http://scta.info/resource/mt1_21@5-17">Vocabis nomen eius Iesum; ipse
+          <lb ed="#S" n="57"/>i dicitur: <quote xml:id="bptdom-a28dol-Qd1e2995" source="http://scta.info/resource/mt1_21@5-17">Vocabis nomen eius Iesum; ipse
           <lb ed="#S" n="58"/>enim salvum faciet populum suum a peccatis
           <lb ed="#S" n="59"/>eorum</quote>. Tertio quantum ad proprietatem
           persona<lb ed="#S" n="60" break="no"/>lem, ibi: Filium; inter personas divinas
@@ -1355,10 +1355,10 @@
           <lb ed="#S" n="62"/>pater, alius filius. Quarto quantum ad
           dig<lb ed="#S" n="63" break="no"/>nitatem imperialem, cum dicit Dominum: ipse
           <lb ed="#S" n="64"/>enim est noster imperator et dominus, quia emit
-          <lb ed="#S" n="65"/>nos sanguine suo, unde apostolus: <quote source="http://scta.info/resource/Icor6_20@1-5">Empti enim
+          <lb ed="#S" n="65"/>nos sanguine suo, unde apostolus: <quote xml:id="bptdom-a28dol-Qd1e3015" source="http://scta.info/resource/Icor6_20@1-5">Empti enim
           <lb ed="#S" n="66"/>pretio magno</quote>. Quinto quantum ad
           frater<lb ed="#S" n="67" break="no"/>nalem connexionem, cum dicit Nostrum, Gen. xxxvii:
-          <lb ed="#S" n="68"/><quote source="http://scta.info/resource/gen37_27@11-16">Caro enim et frater noster est</quote>.
+          <lb ed="#S" n="68"/><quote xml:id="bptdom-a28dol-Qd1e3024" source="http://scta.info/resource/gen37_27@11-16">Caro enim et frater noster est</quote>.
           <lb ed="#S" n="69"/>De offerentis finali petitione.
         </p>
         <p xml:id="bptdom-a28dol-d1e2880">
@@ -1407,7 +1407,7 @@
           no<lb ed="#S" n="22" break="no"/>tanda sunt duo: primo quid verba significent,
           <lb ed="#S" n="23"/>secundo quare tres cruces fiunt.
           Quan<lb ed="#S" n="24" break="no"/>tum ad primum sciendum quod dona dicuntur
-          <lb ed="#S" n="25"/>quia dantur a superiori, Iaco. i: <quote source="http://scta.info/resource/iac1_17@1-7">Omne datum
+          <lb ed="#S" n="25"/>quia dantur a superiori, Iaco. i: <quote xml:id="bptdom-a28dol-Qd1e3130" source="http://scta.info/resource/iac1_17@1-7">Omne datum
           opti<lb ed="#S" n="26" break="no"/>mum et omne donum perfectum</quote> etc.; munera
           dicun<lb ed="#S" n="27" break="no"/>tur quia offeruntur ab inferiori vel quia
           mit<lb ed="#S" n="28" break="no"/>tuntur nobis hic inferius; sacrificia
@@ -1416,14 +1416,14 @@
           sa<lb ed="#S" n="31" break="no"/>crificia per comparationem ad effectum; vel etiam
           <lb ed="#S" n="32"/>per repraesentationem, quia Christum passum et
           sacri<lb ed="#S" n="33" break="no"/>ficatum repraesentat, iuxta illud, Chorin. xi:
-          <lb ed="#S" n="34"/><quote source="http://scta.info/resource/Icor11_26@1-11">Quotienscumque manducabitis panem
+          <lb ed="#S" n="34"/><quote xml:id="bptdom-a28dol-Qd1e3151" source="http://scta.info/resource/Icor11_26@1-11">Quotienscumque manducabitis panem
           <lb ed="#S" n="35"/>hunc et calicem bibetis, mortem domini
           annun<lb ed="#S" n="36" break="no"/>tiabitis</quote> etc. Sed dicuntur illibata, id est
           <lb ed="#S" n="37"/>incorrupta, non quin substantia panis et vini
           <lb ed="#S" n="38"/>possit corrumpi, sed quia corpus et sanguis
           <lb ed="#S" n="39"/>quae ibi continentur corrumpi non possunt,
           <lb ed="#S" n="40"/>neque panis et vinum convertantur, unde psal.:
-          <lb ed="#S" n="41"/><quote source="http://scta.info/resource/ps15_10@8-13">Non dabis sanctum tuum videre
+          <lb ed="#S" n="41"/><quote xml:id="bptdom-a28dol-Qd1e3168" source="http://scta.info/resource/ps15_10@8-13">Non dabis sanctum tuum videre
           corrupti<lb ed="#S" n="42" break="no"/>onem</quote>. Vel dicitur dona quia Christus fuit
           no<lb ed="#S" n="43" break="no"/>bis a deo datus, munera quia a Iuda
           tra<lb ed="#S" n="44" break="no"/>ditus triginta denariis, sacrificia quia
@@ -1453,13 +1453,13 @@
           divi<lb ed="#S" n="67" break="no"/>nitas unita animae Christi, item carni, item
           <lb ed="#S" n="68"/>caro et anima inter se. Tertia est in
           memori<lb ed="#S" n="69" break="no"/>am aeternae crucifixionis Christi: prima fuit
-          <lb ed="#S" n="70"/>in voluntate persequentium, Io. xi: <quote source="http://scta.info/resource/io11_47@1-16">Collegerunt
+          <lb ed="#S" n="70"/>in voluntate persequentium, Io. xi: <quote xml:id="bptdom-a28dol-Qd1e3236" source="http://scta.info/resource/io11_47@1-16">Collegerunt
           <lb ed="#S" n="71"/>ergo pontifices et pharisaei consilium et
           dice<lb ed="#S" n="72" break="no"/>bant: Quid facimus, quia homo iste multa
           sig<lb ed="#S" n="73" break="no"/>na facit</quote> etc.; secunda fuit in voce
-          clamanti<lb ed="#S" n="74" break="no"/>um, de qua Mathe. xxvii: <quote source="http://scta.info/resource/mt27_23@11-16">Illi clamabant
+          clamanti<lb ed="#S" n="74" break="no"/>um, de qua Mathe. xxvii: <quote xml:id="bptdom-a28dol-Qd1e3247" source="http://scta.info/resource/mt27_23@11-16">Illi clamabant
           <lb ed="#S" n="75"/>magis: Crucifige eum</quote>; tertia fuit in
-          cru<lb ed="#S" n="76" break="no"/>cifixione pedum et manuum, Lu. xxiii: <quote source="http://scta.info/resource/lc23_33@9-11">Ibi autem
+          cru<lb ed="#S" n="76" break="no"/>cifixione pedum et manuum, Lu. xxiii: <quote xml:id="bptdom-a28dol-Qd1e3255" source="http://scta.info/resource/lc23_33@9-11">Ibi autem
           <lb ed="#S" n="77"/>crucifixerunt eum</quote>. Quarta causa est in
           <lb ed="#S" n="78"/>figura triplicis traditionis Christi: fuit enim
           <lb ed="#S" n="79"/>primo traditus a patre, secundo a Iuda,
@@ -1529,7 +1529,7 @@
           <lb ed="#S" n="46"/>sanctos qui habitant ibi, quia ecclesia non sunt
           <lb ed="#S" n="47"/>parietes, tectum, fundamentum et huiusmodi, sed
           fi<lb ed="#S" n="48" break="no"/>deles, qui debent esse sancti, iuxta illud
-          apo<lb ed="#S" n="49" break="no"/>stoli: <quote source="http://scta.info/resource/Ith4_3@1-7">Haec est voluntas dei, sanctificatio
+          apo<lb ed="#S" n="49" break="no"/>stoli: <quote xml:id="bptdom-a28dol-Qd1e3406" source="http://scta.info/resource/Ith4_3@1-7">Haec est voluntas dei, sanctificatio
           <lb ed="#S" n="50"/>vestra</quote>. Vel nota quod dicitur sancta quadrupliciter,
           <lb ed="#S" n="51"/>sicut habuisti in expositione symboli.
         </p>
@@ -1558,7 +1558,7 @@
           ho<lb ed="#S" n="71" break="no"/>minibus, cum dicit Quam pacificare; secundo
           <lb ed="#S" n="72"/>ab impugnantibus daemonibus, ibi:
           Custo<lb ed="#S" n="73" break="no"/>dire, unde loco ecclesiae dicitur in psalmus:
-          <quote source="http://scta.info/resource/ps16_8@5-8">Custo<lb ed="#S" n="74" break="no"/>di nos domine ut pupillam oculi</quote> etc.; tertio
+          <quote xml:id="bptdom-a28dol-Qd1e3467" source="http://scta.info/resource/ps16_8@5-8">Custo<lb ed="#S" n="74" break="no"/>di nos domine ut pupillam oculi</quote> etc.; tertio
           <lb ed="#S" n="75"/>ut infideles ad fidem vocentur, ibi:
           Adu<lb ed="#S" n="76" break="no"/>nare, id est ad unum trahere, videlicet ad unum
           <lb ed="#S" n="77"/>deum colendum, unum ritum tenendum et ad unam
@@ -1585,7 +1585,7 @@
           <lb ed="#S" n="7"/>verbi dei ad repellendas haereses,
           terre<lb ed="#S" n="8" break="no"/>nus autem princeps habet gladium ferri ad
           feri<lb ed="#S" n="9" break="no"/>endum contumaces; de his duobus dicitur Lucae
-          <lb ed="#S" n="10"/>xxii: <quote source="http://scta.info/resource/lc22_38@5-8">Ecce gladii duo hic</quote>. Haec ergo
+          <lb ed="#S" n="10"/>xxii: <quote xml:id="bptdom-a28dol-Qd1e3531" source="http://scta.info/resource/lc22_38@5-8">Ecce gladii duo hic</quote>. Haec ergo
           <lb ed="#S" n="11"/>pars in qua oratur pro istis dividitur in tres
           <lb ed="#S" n="12"/>quia primo orat pro capite spirituali, secundo pro
           <lb ed="#S" n="13"/>temporali, ibi: Et rege nostro; tertio pro statu
@@ -1655,7 +1655,7 @@
           <lb ed="#S" n="67"/>Circa primum videnda sunt haec per
           or<lb ed="#S" n="68" break="no"/>dinem. Primo quare dicit Memento domine,
           <lb ed="#S" n="69"/>quia numquam obliviscitur deus? Dicendum quod non,
-          <lb ed="#S" n="70"/>immo omnia scit et novit, quia <quote source="http://scta.info/resource/hebr4_13@10-17">omnia nuda et
+          <lb ed="#S" n="70"/>immo omnia scit et novit, quia <quote xml:id="bptdom-a28dol-Qd1e3679" source="http://scta.info/resource/hebr4_13@10-17">omnia nuda et
           <lb ed="#S" n="71"/>aperta sunt oculis eius</quote>, ad Hebre. iiii; sed dicitur
           <lb ed="#S" n="72"/>oblivisci eos quibus non infundit bona sua
           <lb ed="#S" n="73"/>vel gratiam suam, dicitur autem per oppositum
@@ -1720,7 +1720,7 @@
           brevi<lb ed="#S" n="36" break="no"/>ter debet se homo expedire; in figura cuius
           prae<lb ed="#S" n="37" break="no"/>ceptum fuit in lege quod agnus paschalis,
           <lb ed="#S" n="38"/>qui figurabat Christum, comederetur festinanter;
-          <lb ed="#S" n="39"/>et hoc ne iniuste <quote source="http://scta.info/resource/qoh10_1@1-5">morientes perdant
+          <lb ed="#S" n="39"/>et hoc ne iniuste <quote xml:id="bptdom-a28dol-Qd1e3818" source="http://scta.info/resource/qoh10_1@1-5">morientes perdant
           sani<lb ed="#S" n="40" break="no"/>tatem unguenti</quote>, et dicitur Eccl. x, ne ut
           cogita<lb ed="#S" n="41" break="no"/>tiones perdant devotionem. Sequitur: Et
           <lb ed="#S" n="42"/>omnium circumstantium, et hoc se extendit ad omnes
@@ -1791,12 +1791,12 @@
           <lb ed="#S" n="10"/>dicitur ergo Qui tibi offerunt, quia non solum
           <lb ed="#S" n="11"/>sacerdos, immo assistentes offerunt.
           <lb ed="#S" n="12"/>Sequitur: Hoc sacrificium laudis, iuxta
-          <lb ed="#S" n="13"/>illud psalmus: <quote source="http://scta.info/resource/ps49_14@1-4">Immola deo sacrificium laudis</quote>,
+          <lb ed="#S" n="13"/>illud psalmus: <quote xml:id="bptdom-a28dol-Qd1e3973" source="http://scta.info/resource/ps49_14@1-4">Immola deo sacrificium laudis</quote>,
           <lb ed="#S" n="14"/>quia pro seipso debet homo orare quia caritas
           <lb ed="#S" n="15"/>ordinata a seipsa incipit; suisque hoc pertinent
           <lb ed="#S" n="16"/>ad alios quibus tenetur. Pro redemptione, scilicet a
           <lb ed="#S" n="17"/>peccatis, quia pro corpore non est orandum, quia
-          <lb ed="#S" n="18"/><quote source="http://scta.info/resource/sap9_15@1-6">corpus quod corrumpitur aggravat animam</quote>
+          <lb ed="#S" n="18"/><quote xml:id="bptdom-a28dol-Qd1e3986" source="http://scta.info/resource/sap9_15@1-6">corpus quod corrumpitur aggravat animam</quote>
           <lb ed="#S" n="19"/>secundum quod dicit sapiens, sed pro salute animae;
           <lb ed="#S" n="20"/>ideo sequitur: Pro spe salutis et
           incolumi<lb ed="#S" n="21" break="no"/>tatis suae. Sequitur: Tibique reddunt
@@ -1815,9 +1815,9 @@
           <lb ed="#S" n="34"/>quia deo obligamur.
           <lb ed="#S" n="35"/>Tertio quaeritur quare dicitur Aeterno deo
           vi<lb ed="#S" n="36" break="no"/>vo et vero. Et dicendum quod aliquis potest dici
-          <lb ed="#S" n="37"/>deus adoptive, sicut homines, psalmus: <quote source="http://scta.info/resource/ps81_6@1-4">Ego dixi
+          <lb ed="#S" n="37"/>deus adoptive, sicut homines, psalmus: <quote xml:id="bptdom-a28dol-Qd1e4030" source="http://scta.info/resource/ps81_6@1-4">Ego dixi
           <lb ed="#S" n="38"/>dii estis</quote>; vel usurpative, sicut diabolus, psalmus:
-          <lb ed="#S" n="39"/><quote source="http://scta.info/resource/ps95_5@2-5">Omnes dii gentium daemonia</quote>; vel
+          <lb ed="#S" n="39"/><quote xml:id="bptdom-a28dol-Qd1e4036" source="http://scta.info/resource/ps95_5@2-5">Omnes dii gentium daemonia</quote>; vel
           nun<lb ed="#S" n="40" break="no"/>cupative, sicut imagines; et nullum istorum
           <lb ed="#S" n="41"/>dicitur proprie deus. Ad excludendum ergo
           ho<lb ed="#S" n="42" break="no"/>mines dicitur Aeterno, ad excludendum
@@ -1826,8 +1826,8 @@
           <lb ed="#S" n="45"/>attribuitur patri, qui principium est personarum
           <cb ed="#S" n="b"/>
           <lb ed="#S" n="46"/>divinarum, vita autem attribuitur spiritui
-          <lb ed="#S" n="47"/>sancto, unde in Iohanne: <quote source="http://scta.info/resource/io6_64@1-4">Spiritus est qui
-          vivifi<lb ed="#S" n="48" break="no"/>cat</quote>; veritas attribuitur filio, unde Io.: <quote source="http://scta.info/resource/io14_6@4-10">Ego
+          <lb ed="#S" n="47"/>sancto, unde in Iohanne: <quote xml:id="bptdom-a28dol-Qd1e4059" source="http://scta.info/resource/io6_64@1-4">Spiritus est qui
+          vivifi<lb ed="#S" n="48" break="no"/>cat</quote>; veritas attribuitur filio, unde Io.: <quote xml:id="bptdom-a28dol-Qd1e4064" source="http://scta.info/resource/io14_6@4-10">Ego
           <lb ed="#S" n="49"/>sum via, veritas et vita</quote>. Omnes autem tres
           per<lb ed="#S" n="50" break="no"/>sonae operantur in hoc sacrificio. Dicitur ergo
           <lb ed="#S" n="51"/>Aeterno ratione patris, Vivo ratione spiritussancti,
@@ -1853,7 +1853,7 @@
           communica<lb ed="#S" n="69" break="no"/>mus cum sanctis in fide, quia nos et ipsi
           ha<lb ed="#S" n="70" break="no"/>bemus deum pro obiecto, licet in modo differamus,
           <lb ed="#S" n="71"/>quia ipsi nude et clare vident quod nos
-          credi<lb ed="#S" n="72" break="no"/>mus <quote source="http://scta.info/resource/Icor13_12@3-11">per speculum et in enigmate, ipsi autem
+          credi<lb ed="#S" n="72" break="no"/>mus <quote xml:id="bptdom-a28dol-Qd1e4122" source="http://scta.info/resource/Icor13_12@3-11">per speculum et in enigmate, ipsi autem
           fa<lb ed="#S" n="73" break="no"/>cie ad faciem</quote>. Sequitur: Et
           me<lb ed="#S" n="74" break="no"/>moriam venerantes. Hic quaeritur quare
           <lb ed="#S" n="75"/>dicitur Memoriam et non sollemnitatem. Responsio
@@ -1904,7 +1904,7 @@
           to<lb ed="#S" n="29" break="no"/>tum fecit. Filius autem eius dicitur Christus quia rex: Christus enim
           <lb ed="#S" n="30"/>idem est quod unctus et reges ungebantur
           <lb ed="#S" n="31"/>(etiam reges Franciae nunc); et dicitur Iesus quia
-          sal<lb ed="#S" n="32" break="no"/>vator, Mathei i: <quote source="http://scta.info/resource/mt1_21@5-17">Vocabis nomen eius
+          sal<lb ed="#S" n="32" break="no"/>vator, Mathei i: <quote xml:id="bptdom-a28dol-Qd1e4235" source="http://scta.info/resource/mt1_21@5-17">Vocabis nomen eius
           <lb ed="#S" n="33"/>Iesum ipse enim salvum faciet populum
           <lb ed="#S" n="34"/>a peccatis eorum</quote>. Sequitur: Et beatorum
           <lb ed="#S" n="35"/>apostolorum ac martyrum. Et nota quod
@@ -1919,7 +1919,7 @@
           ca<lb ed="#S" n="44" break="no"/>put ecclesiae; Pauli, quia Christus in raptu
           <lb ed="#S" n="45"/>hoc sacrificium revelavit; unde dicit:
           <cb ed="#S" n="b"/>
-          <lb ed="#S" n="46"/>Primo ad Chori. xi: <quote source="http://scta.info/resource/Icor11_23@1-18">Ego enim accepi a domino
+          <lb ed="#S" n="46"/>Primo ad Chori. xi: <quote xml:id="bptdom-a28dol-Qd1e4271" source="http://scta.info/resource/Icor11_23@1-18">Ego enim accepi a domino
           <lb ed="#S" n="47"/>quod et tradidi vobis, quoniam Iesus in qua
           <lb ed="#S" n="48"/>nocte tradebatur accepit panem</quote> et cetera.
           <lb ed="#S" n="49"/>Andreae, quia de hoc sacramento cum Egea
@@ -1969,7 +1969,7 @@
           <pb ed="#S" n="63-v"/>
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>adiuvemur, licet non operentur, iuxta
-          con<lb ed="#S" n="2" break="no"/>silium Iob v, dicens: <quote source="http://scta.info/resource/iob5_1@8-11">Ad aliquem sanctorum</quote>
+          con<lb ed="#S" n="2" break="no"/>silium Iob v, dicens: <quote xml:id="bptdom-a28dol-Qd1e4380" source="http://scta.info/resource/iob5_1@8-11">Ad aliquem sanctorum</quote>
         </p>
         <p xml:id="bptdom-a28dol-d1e4174">
           <lb ed="#S" n="3"/>convertere. Secundo quaeritur utrum sancti
@@ -2040,18 +2040,18 @@
           <lb ed="#S" n="65"/>petimus divinam protectionem; ideo fit
           addi<lb ed="#S" n="66" break="no"/>tio in natali, quia tunc novus homo apparuit
           <lb ed="#S" n="67"/>ad nos protegendum, ideo clamavit angelus:
-          <lb ed="#S" n="68"/><quote source="http://scta.info/resource/lc2_14@5-12">Et in terra pax hominibus bonae
+          <lb ed="#S" n="68"/><quote xml:id="bptdom-a28dol-Qd1e4532" source="http://scta.info/resource/lc2_14@5-12">Et in terra pax hominibus bonae
           volunta<lb ed="#S" n="69" break="no"/>tis</quote> etc., Lu. ii; in epiphania, quia dux et rex tunc
           <lb ed="#S" n="70"/>se manifestant in protectione contra
           inimi<lb ed="#S" n="71" break="no"/>cos; item in Pascha sive in resurrectione, nam
-          <lb ed="#S" n="72"/>Christus tunc dixit: <quote source="http://scta.info/resource/mt28_18@8-17">Data est mihi omnis potestas in
+          <lb ed="#S" n="72"/>Christus tunc dixit: <quote xml:id="bptdom-a28dol-Qd1e4544" source="http://scta.info/resource/mt28_18@8-17">Data est mihi omnis potestas in
           <lb ed="#S" n="73"/>caelo et in terra</quote>, scilicet ad resurgendum, ut etiam
           <lb ed="#S" n="74"/>tunc nos resurgamus; item in ascensione,
           <lb ed="#S" n="75"/>quia tunc ascendit pandens iter nobis, et tamquam
           <lb ed="#S" n="76"/>advocatus ad patrem secundum apostolum; item in
           fe<lb ed="#S" n="77" break="no"/>sto Pentecostes, quia per spiritumsanctum
           vivifi<lb ed="#S" n="78" break="no"/>camur et habemus vitam spiritualem, unde Ioh.:
-          <lb ed="#S" n="79"/><quote source="http://scta.info/resource/io6_64@1-4">Spiritus est qui vivificat</quote>.
+          <lb ed="#S" n="79"/><quote xml:id="bptdom-a28dol-Qd1e4561" source="http://scta.info/resource/io6_64@1-4">Spiritus est qui vivificat</quote>.
         </p>
         <p xml:id="bptdom-a28dol-d1e4348">
           <lb ed="#S" n="80"/>De oblationis
@@ -2094,7 +2094,7 @@
           <lb ed="#S" n="26"/>servitutis quia hic repraesentatur effusio
           sang<lb ed="#S" n="27" break="no"/>uinis Christi, qui fuit nostrum pretium, et nos ex
           <lb ed="#S" n="28"/>hoc sumus eius empticii, iuxta illud:
-          <quote source="http://scta.info/resource/Icor6_20@1-5">Emp<lb ed="#S" n="29" break="no"/>ti estis pretio magno</quote> et cetera.
+          <quote xml:id="bptdom-a28dol-Qd1e4655" source="http://scta.info/resource/Icor6_20@1-5">Emp<lb ed="#S" n="29" break="no"/>ti estis pretio magno</quote> et cetera.
         </p>
         <p xml:id="bptdom-a28dol-d1e4441">
           <lb ed="#S" n="30"/>Secundo quaeritur quare dicit Placatus:
@@ -2107,7 +2107,7 @@
           no<lb ed="#S" n="37" break="no"/>stros, in qua ponitur postulatio optati
           fe<lb ed="#S" n="38" break="no"/>deris; ideo dicitur Dies nostros, id est vitam
           no<lb ed="#S" n="39" break="no"/>stram totam, in tua pace disponas, de qua
-          <lb ed="#S" n="40"/>parte dicit apostolus: <quote source="http://scta.info/resource/phil4_7@1-7">Et pax dei, quae exuperat
+          <lb ed="#S" n="40"/>parte dicit apostolus: <quote xml:id="bptdom-a28dol-Qd1e4687" source="http://scta.info/resource/phil4_7@1-7">Et pax dei, quae exuperat
           <lb ed="#S" n="41"/>omnem sensum</quote>. Nam haec pax est non solum temporis,
           <lb ed="#S" n="42"/>immo et pectoris. Sequitur: Ab aeterna
           <lb ed="#S" n="43"/>damnatione nos eripi. Hic ponitur amotio
@@ -2115,16 +2115,16 @@
           con<lb ed="#S" n="45" break="no"/>ditio appetitus, quia malum fugit et bonum
           prose<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>quitur. Damnatio aeterna est summum malum:
           <lb ed="#S" n="47"/>primo propter poenarum diversitatem, unde Iob:
-          <lb ed="#S" n="48"/><quote source="http://scta.info/resource/iob24_19@1-7">Transibunt ab aquis nivium ad calorem
+          <lb ed="#S" n="48"/><quote xml:id="bptdom-a28dol-Qd1e4707" source="http://scta.info/resource/iob24_19@1-7">Transibunt ab aquis nivium ad calorem
           ni<lb ed="#S" n="49" break="no"/>mium</quote>; secundo propter poenarum crudelitatem,
-          <lb ed="#S" n="50"/>unde clamabat ille dives, Lu. xvi: <quote source="http://scta.info/resource/lc16_24@24-27">Crucior
-          <lb ed="#S" n="51"/>in hac flamma</quote>; et psalmus: <quote source="http://scta.info/resource/ps10_7@5-13">Ignis, sulphur,
+          <lb ed="#S" n="50"/>unde clamabat ille dives, Lu. xvi: <quote xml:id="bptdom-a28dol-Qd1e4714" source="http://scta.info/resource/lc16_24@24-27">Crucior
+          <lb ed="#S" n="51"/>in hac flamma</quote>; et psalmus: <quote xml:id="bptdom-a28dol-Qd1e4720" source="http://scta.info/resource/ps10_7@5-13">Ignis, sulphur,
           spi<lb ed="#S" n="52" break="no"/>ritus procellarum pars calicis eorum</quote>; tertio propter
           <lb ed="#S" n="53"/>poenarum aeternitatem, quia numquam finem habebunt,
-          <lb ed="#S" n="54"/>Math. xxv: <quote source="http://scta.info/resource/mt25_41@12-15">Ite maledicti in ignem aeternum</quote>.
+          <lb ed="#S" n="54"/>Math. xxv: <quote xml:id="bptdom-a28dol-Qd1e4729" source="http://scta.info/resource/mt25_41@12-15">Ite maledicti in ignem aeternum</quote>.
           <lb ed="#S" n="55"/>Haec tria figurantur Apoc. viii per illa tria
           <lb ed="#S" n="56"/>vae quae clamabat aquila quam videbat Io.,
-          <lb ed="#S" n="57"/>dicens: <quote source="http://scta.info/resource/ap8_13@15-20">Vae, vae, vae habitantibus in terra</quote>, id est
+          <lb ed="#S" n="57"/>dicens: <quote xml:id="bptdom-a28dol-Qd1e4739" source="http://scta.info/resource/ap8_13@15-20">Vae, vae, vae habitantibus in terra</quote>, id est
           <lb ed="#S" n="58"/>peccatoribus terrenis, qui habebunt tria vae et
           <lb ed="#S" n="59"/>tria mala praedicta. Sed quia non sufficit
           fuge<lb ed="#S" n="60" break="no"/>re malum, immo homo debet prosequi bonum, ideo
@@ -2151,7 +2151,7 @@
           <lb ed="#S" n="79"/>per quam disponimur in bonis et in donis
           <lb ed="#S" n="80"/>gratiae, ideo fit additio in Pentecoste. Et secundum
           <lb ed="#S" n="81"/>aliquos in Cena domini, quia per hoc sacrificium
-          <lb ed="#S" n="82"/>nobis remuneratio datur, unde Io. vi: <quote source="http://scta.info/resource/io6_59@17-23">Qui
+          <lb ed="#S" n="82"/>nobis remuneratio datur, unde Io. vi: <quote xml:id="bptdom-a28dol-Qd1e4798" source="http://scta.info/resource/io6_59@17-23">Qui
           <lb ed="#S" n="83"/>manducat hunc panem vivet in aeternum</quote>.
         </p>
         <p xml:id="bptdom-a28dol-d1e4564">
@@ -2198,10 +2198,10 @@
           hosti<lb ed="#S" n="31" break="no"/>am non acceptabilem. Vel potest dici quod haec
           ver<lb ed="#S" n="32" break="no"/>ba dicuntur ad differentiam oblationis Iudae quam fecit
           <lb ed="#S" n="33"/>tradendo Christum, quia illa fuit maledicta, et
-          ma<lb ed="#S" n="34" break="no"/>ledictionem Iudas reportavit, iuxta illud: <quote source="http://scta.info/resource/ps108_18@14-18">Et
+          ma<lb ed="#S" n="34" break="no"/>ledictionem Iudas reportavit, iuxta illud: <quote xml:id="bptdom-a28dol-Qd1e4899" source="http://scta.info/resource/ps108_18@14-18">Et
           <lb ed="#S" n="35"/>induit maledictionem sicut vestimentum</quote>, in
           <lb ed="#S" n="36"/>psalmus; autem illa fuit proscripta, quia fuit deletus de
-          <lb ed="#S" n="37"/>libro vitae, iuxta illud psalmus: <quote source="http://scta.info/resource/ps68_29@1-4">Deleantur de
+          <lb ed="#S" n="37"/>libro vitae, iuxta illud psalmus: <quote xml:id="bptdom-a28dol-Qd1e4909" source="http://scta.info/resource/ps68_29@1-4">Deleantur de
           <lb ed="#S" n="38"/>libro viventium</quote>; item fuit irrita, quia iniqua et
           <lb ed="#S" n="39"/>detestabilis. Sed per oppositum nos petimus ut
           <lb ed="#S" n="40"/>tu deus digneris facere hanc benedictam, item
@@ -2254,7 +2254,7 @@
           <lb ed="#S" n="82"/>aliqui credunt, valebat decem usuales; et sic
           <lb ed="#S" n="83"/>triginta valebant tricentos. Nam Iudas
           fu<lb ed="#S" n="84" break="no"/>it tristis de ungento Mariae Magdalenae,
-          <lb ed="#S" n="85"/>quo unxit pedes Iesu, et ait: <quote source="http://scta.info/resource/mc14_5@1-9">Poterat hoc
+          <lb ed="#S" n="85"/>quo unxit pedes Iesu, et ait: <quote xml:id="bptdom-a28dol-Qd1e5024" source="http://scta.info/resource/mc14_5@1-9">Poterat hoc
           <lb ed="#S" n="86"/>ungentum venundari tricentos
           dena<lb ed="#S" n="87" break="no"/>rios</quote>; et istos tricentos voluit
           recupe<lb ed="#S" n="88" break="no"/>rare vendendo Christum. Alii dicunt quod
@@ -2295,12 +2295,12 @@
           Cir<lb ed="#S" n="33" break="no"/>ca quod quaeritur primo quare dixit Fiat. Et
           <lb ed="#S" n="34"/>dicendum quod ratio est quadruplex. Prima est ad
           <lb ed="#S" n="35"/>alludendum illi verbo quod dixit Maria angelo,
-          <lb ed="#S" n="36"/>Lu. primo: <quote source="http://scta.info/resource/lc1_38@7-11">Fiat mihi secundum verbum tuum</quote>.
+          <lb ed="#S" n="36"/>Lu. primo: <quote xml:id="bptdom-a28dol-Qd1e5118" source="http://scta.info/resource/lc1_38@7-11">Fiat mihi secundum verbum tuum</quote>.
           <lb ed="#S" n="37"/>Secunda ratio est melior: ad alludendum verbo
           <lb ed="#S" n="38"/>creationis, ad designandum quod eadem potentia
           <lb ed="#S" n="39"/>requiritur in transsubstantiatione sicut in rerum
-          <lb ed="#S" n="40"/>creatione, de qua habetur Gen. i: <quote source="http://scta.info/resource/gen1_3@3-4">Fiat lux</quote>,
-          <lb ed="#S" n="41"/><quote source="http://scta.info/resource/gen1_14@4-5">fiant luminaria</quote> etc.; et sequitur: <quote source="http://scta.info/resource/gen1_15@9-12">Et factum est ita</quote>.
+          <lb ed="#S" n="40"/>creatione, de qua habetur Gen. i: <quote xml:id="bptdom-a28dol-Qd1e5130" source="http://scta.info/resource/gen1_3@3-4">Fiat lux</quote>,
+          <lb ed="#S" n="41"/><quote xml:id="bptdom-a28dol-Qd1e5134" source="http://scta.info/resource/gen1_14@4-5">fiant luminaria</quote> etc.; et sequitur: <quote xml:id="bptdom-a28dol-Qd1e5137" source="http://scta.info/resource/gen1_15@9-12">Et factum est ita</quote>.
           <lb ed="#S" n="42"/>Tertia ratio ad designandum quod sacerdos non
           <lb ed="#S" n="43"/>est nisi minister solum huius sacramenti, scilicet
           <lb ed="#S" n="44"/>ineffabilis conversionis; ideo non in persona
@@ -2343,18 +2343,18 @@
           <lb ed="#S" n="79"/>parte temporis, secundo quae se tenent ex parte
           sollemni<lb ed="#S" n="80" break="no"/>tatis, ibi: Elevatis oculis. Circa hoc nota
           <lb ed="#S" n="81"/>primo quod haec verba sunt mirae efficaciae et
-          vir<lb ed="#S" n="82" break="no"/>tutis, unde dicitur Io. vi: <quote source="http://scta.info/resource/io6_64@9-18">Verba quae ego loquor
-          vo<lb ed="#S" n="83" break="no"/>bis spiritus et vita sunt</quote>. Ex istis verbis <quote source="http://scta.info/resource/io6_67@3-7">multi
+          vir<lb ed="#S" n="82" break="no"/>tutis, unde dicitur Io. vi: <quote xml:id="bptdom-a28dol-Qd1e5232" source="http://scta.info/resource/io6_64@9-18">Verba quae ego loquor
+          vo<lb ed="#S" n="83" break="no"/>bis spiritus et vita sunt</quote>. Ex istis verbis <quote xml:id="bptdom-a28dol-Qd1e5238" source="http://scta.info/resource/io6_67@3-7">multi
           abi<lb ed="#S" n="84" break="no"/>erunt retrorsum</quote>, propter quod fuit prima haeresis, ut
           <lb ed="#S" n="85"/>habetur de conse. di. ii, Cum omne crimen, quando ei
-          au<lb ed="#S" n="86" break="no"/>dierunt discipuli: <quote source="http://scta.info/resource/io6_56@1-12">Caro mea vere est cibus et
+          au<lb ed="#S" n="86" break="no"/>dierunt discipuli: <quote xml:id="bptdom-a28dol-Qd1e5247" source="http://scta.info/resource/io6_56@1-12">Caro mea vere est cibus et
           sang<lb ed="#S" n="87" break="no"/>uis meus vere est potus</quote>; multi abierunt
           retror<lb ed="#S" n="88" break="no"/>sum, corporaliter hoc intelligentes. Sed
           domi<lb ed="#S" n="89" break="no"/>nus conversus ad discipulos dixit:
           <pb ed="#S" n="65-v"/>
           <cb ed="#S" n="a"/>
-          <lb ed="#S" n="1"/><quote source="http://scta.info/resource/io6_68@6-10">Numquid et vos vultis abire</quote>? Respondit
-          Pe<lb ed="#S" n="2" break="no"/>trus: <quote source="http://scta.info/resource/io6_69@6-13">Domine, ad quem ibimus? Verba vitae
+          <lb ed="#S" n="1"/><quote xml:id="bptdom-a28dol-Qd1e5262" source="http://scta.info/resource/io6_68@6-10">Numquid et vos vultis abire</quote>? Respondit
+          Pe<lb ed="#S" n="2" break="no"/>trus: <quote xml:id="bptdom-a28dol-Qd1e5267" source="http://scta.info/resource/io6_69@6-13">Domine, ad quem ibimus? Verba vitae
           aeter<lb ed="#S" n="3" break="no"/>nae habes</quote> etc. Nam certe sicut haec verba vitae
           <lb ed="#S" n="4"/>aeternae, unde praemittuntur quaedam per modum
           <lb ed="#S" n="5"/>praeambuli, et post sequuntur verba in quibus
@@ -2389,7 +2389,7 @@
           pri<lb ed="#S" n="34" break="no"/>mo quia pro denariis fuit venditus; secundo quia
           <lb ed="#S" n="35"/>per hoc designatur aeternae retributionis
           meri<lb ed="#S" n="36" break="no"/>tum et praemium, quod in evangelio denario
-          <lb ed="#S" n="37"/>comparatur, Mathei xx: <quote source="http://scta.info/resource/mt20_2@1-8">Conventione autem facta cum
+          <lb ed="#S" n="37"/>comparatur, Mathei xx: <quote xml:id="bptdom-a28dol-Qd1e5346" source="http://scta.info/resource/mt20_2@1-8">Conventione autem facta cum
           <lb ed="#S" n="38"/>operariis ex denario diurno</quote>; tertio ad
           <lb ed="#S" n="39"/>ostendendum quod ille qui consecrat non habet
           princi<lb ed="#S" n="40" break="no"/>pium neque finem, cum sit deus, sicut videmus
@@ -2409,9 +2409,9 @@
           <lb ed="#S" n="53"/>sequitur: In sanctas ac venerabiles manus
           <lb ed="#S" n="54"/>suas. Nec mirum si manus eius sanctae dicuntur, a
           <lb ed="#S" n="55"/>quo omnis sanctificatio derivatur, unde dicitur Ezec.
-          <lb ed="#S" n="56"/>xxxix: <quote source="http://scta.info/resource/lev20_8@7-11">Ego dominus qui sanctifico vos</quote>; etiam
+          <lb ed="#S" n="56"/>xxxix: <quote xml:id="bptdom-a28dol-Qd1e5393" source="http://scta.info/resource/lev20_8@7-11">Ego dominus qui sanctifico vos</quote>; etiam
           <lb ed="#S" n="57"/>venerabiles, nam manus eius omnia
-          edide<lb ed="#S" n="58" break="no"/>runt, unde dicitur Iob x: <quote source="http://scta.info/resource/iob10_8@1-7">Manus tuae domine
+          edide<lb ed="#S" n="58" break="no"/>runt, unde dicitur Iob x: <quote xml:id="bptdom-a28dol-Qd1e5400" source="http://scta.info/resource/iob10_8@1-7">Manus tuae domine
           fece<lb ed="#S" n="59" break="no"/>runt me</quote>. Ideo hoc beneficium sancte et venerabiliter
           <lb ed="#S" n="60"/>debet pertractari, quod ut fiat decentius manus
           <lb ed="#S" n="61"/>sacerdotum consecrantur et benedicuntur. Et ideo
@@ -2463,7 +2463,7 @@
           <lb ed="#S" n="17"/>oblaturus erat. Secundo ratione legationis
           fi<lb ed="#S" n="18" break="no"/>gurationis: nam Christus, quamdiu fuit in
           mun<lb ed="#S" n="19" break="no"/>do conversatus, figuras legis servare
-          vo<lb ed="#S" n="20" break="no"/>luit, <quote source="http://scta.info/resource/gal4_4@13-15 http://scta.info/resource/gal4_5@1-7">factus sub lege, ut eos qui sub lege
+          vo<lb ed="#S" n="20" break="no"/>luit, <quote xml:id="bptdom-a28dol-Qd1e5518" source="http://scta.info/resource/gal4_4@13-15 http://scta.info/resource/gal4_5@1-7">factus sub lege, ut eos qui sub lege
           <lb ed="#S" n="21"/>erant redimeret</quote>, secundum apostolum; sed
           veni<lb ed="#S" n="22" break="no"/>ente veritate cessat figura et umbra; ergo,
           <lb ed="#S" n="23"/>recedente Christo per mortem, quando figurae legis
@@ -2515,7 +2515,7 @@
           du<lb ed="#S" n="69" break="no"/>plex opinio. Dicunt quidam quod non
           manduca<lb ed="#S" n="70" break="no"/>vit Christus corpus suum in cena sed tantum
           <lb ed="#S" n="71"/>manibus accepit; sed expresse Ruth tertio,
-          <lb ed="#S" n="72"/>in glosa super illud: <quote source="http://scta.info/resource/rut3_7@1-5">Cumque comedisset,
+          <lb ed="#S" n="72"/>in glosa super illud: <quote xml:id="bptdom-a28dol-Qd1e5635" source="http://scta.info/resource/rut3_7@1-5">Cumque comedisset,
           <lb ed="#S" n="73"/>bibisset</quote> etc., quia Christus comedit et bibit in
           ce<lb ed="#S" n="74" break="no"/>na et ipse participavit eis; ideo omnino
           te<lb ed="#S" n="75" break="no"/>netur communius quod ipse corpus suum
@@ -2535,11 +2535,11 @@
           incon<lb ed="#S" n="89" break="no"/>veniens quod semetipsum assumat.
           <lb ed="#S" n="90"/>Tertio quaeritur utrum Christus tradidit
           cor<pb ed="#S" n="66-v"/><cb ed="#S" n="a"/><lb ed="#S" n="1" break="no"/>pus suum in cena domini. Videtur quod
-          <lb ed="#S" n="2"/>non quia ipse mandat <quote source="http://scta.info/resource/mt7_6@1-4">sanctum non dare ca
+          <lb ed="#S" n="2"/>non quia ipse mandat <quote xml:id="bptdom-a28dol-Qd1e5683" source="http://scta.info/resource/mt7_6@1-4">sanctum non dare ca
           <lb ed="#S" n="3"/>nibus</quote>, Math. vii; sed ipse debuit
           imple<lb ed="#S" n="4" break="no"/>re quod mandat, ergo Iudae non dedit corpus
           <lb ed="#S" n="5"/>suum. In oppositum arguitur quia sine
-          ex<lb ed="#S" n="6" break="no"/>ceptione dicitur, Math. xxvi: <quote source="http://scta.info/resource/mt26_26@16-18">Accipite omnes et
+          ex<lb ed="#S" n="6" break="no"/>ceptione dicitur, Math. xxvi: <quote xml:id="bptdom-a28dol-Qd1e5695" source="http://scta.info/resource/mt26_26@16-18">Accipite omnes et
           <lb ed="#S" n="7"/>comedite</quote>; sed Iudas erat praesens et de
           nume<lb ed="#S" n="8" break="no"/>ro, ergo dedit Iudae. Responsio: dicendum secundum
           <lb ed="#S" n="9"/>Augustinum, corpus suum Iudae dedit cum aliis
@@ -2559,10 +2559,10 @@
         <p xml:id="bptdom-a28dol-d1e5436">
           <lb ed="#S" n="22"/>Quarto quaeritur utrum sub buccella
           <lb ed="#S" n="23"/>Christus Iudae dedit in cena. Videtur quod non
-          <lb ed="#S" n="24"/>fecit, quia Iohannes xiii dicit quod <quote source="http://scta.info/resource/io13_27@1-8">post buccellam
+          <lb ed="#S" n="24"/>fecit, quia Iohannes xiii dicit quod <quote xml:id="bptdom-a28dol-Qd1e5739" source="http://scta.info/resource/io13_27@1-8">post buccellam
           <lb ed="#S" n="25"/>intravit ipsum sathanas</quote>, ergo accipiendo
           <lb ed="#S" n="26"/>buccellam peccavit. In oppositum per glosam
-          <lb ed="#S" n="27"/>quae, Ioh. xiii, super illud: <quote source="http://scta.info/resource/io13_26@5-9">Cui intinctum
+          <lb ed="#S" n="27"/>quae, Ioh. xiii, super illud: <quote xml:id="bptdom-a28dol-Qd1e5749" source="http://scta.info/resource/io13_26@5-9">Cui intinctum
           <lb ed="#S" n="28"/>panem porrexero</quote> etc. Responsio: Christus Iudae
           cor<lb ed="#S" n="29" break="no"/>pus suum dedit primo cum aliis discipulis,
           <lb ed="#S" n="30"/>sed postea buccella ei porrecta intincta
@@ -2575,7 +2575,7 @@
           augmen<lb ed="#S" n="37" break="no"/>tatum propter sumptionem, quia cum magistro
           ma<lb ed="#S" n="38" break="no"/>num mittebat in catino, ut audatia
           va<lb ed="#S" n="39" break="no"/>nam conscientiam vinceret, mentiretur, ut dicitur
-          <lb ed="#S" n="40"/>Math. xiii, super illo: <quote source="http://scta.info/resource/mt26_23@5-8">Qui intingit mecum
+          <lb ed="#S" n="40"/>Math. xiii, super illo: <quote xml:id="bptdom-a28dol-Qd1e5780" source="http://scta.info/resource/mt26_23@5-8">Qui intingit mecum
           <lb ed="#S" n="41"/>manum</quote> etc. Et ratione huius augmenti peccati
           <lb ed="#S" n="42"/>in eo dicitur sathanas intrasse.
         </p>
@@ -2586,11 +2586,11 @@
           Leva<cb ed="#S" n="b"/><lb ed="#S" n="46" break="no"/>vit enim oculos Christus triplici ratione. Primo,
           <lb ed="#S" n="47"/>ratione recognitionis; nam per hoc insinuavit
           <lb ed="#S" n="48"/>omnia habere a patre et nihil habere nisi a patre; unde
-          <lb ed="#S" n="49"/>dicitur: <quote source="http://scta.info/resource/mt11_27@1-7">Omnia mihi tradita sunt a patre meo</quote>.
+          <lb ed="#S" n="49"/>dicitur: <quote xml:id="bptdom-a28dol-Qd1e5806" source="http://scta.info/resource/mt11_27@1-7">Omnia mihi tradita sunt a patre meo</quote>.
           <lb ed="#S" n="50"/>Secundo, ratione eruditionis, ut nos erudiret,
           <lb ed="#S" n="51"/>quia in principio operum nostrorum debemus dirigere
           <lb ed="#S" n="52"/>mentis oculos ad deum tamquam ad auctorem
-          bo<lb ed="#S" n="53" break="no"/>norum operum; psalmus: <quote source="http://scta.info/resource/ps24_15@1-5">Oculi mei semper ad dominum</quote> etc.
+          bo<lb ed="#S" n="53" break="no"/>norum operum; psalmus: <quote xml:id="bptdom-a28dol-Qd1e5818" source="http://scta.info/resource/ps24_15@1-5">Oculi mei semper ad dominum</quote> etc.
           <lb ed="#S" n="54"/>Tertio, ratione mirae operationis; nam legitur in
           <lb ed="#S" n="55"/>Lazari suscitatione oculos ad patrem levasse
           <lb ed="#S" n="56"/>Io. xi. Cum ergo hoc opus sit maius,
@@ -2599,7 +2599,7 @@
           <lb ed="#S" n="59"/>elevatis oculis, cum nullus evangelistarum
           <lb ed="#S" n="60"/>hoc posuit, quare hic ponitur? Responsio ab
           In<lb ed="#S" n="61" break="no"/>nocentio, quod ab apostolis multa sunt tradita
-          <lb ed="#S" n="62"/>et ordinata, sicut illud Pauli quod <quote source="http://scta.info/resource/Icor15_6@2-7">apparuit plus
+          <lb ed="#S" n="62"/>et ordinata, sicut illud Pauli quod <quote xml:id="bptdom-a28dol-Qd1e5840" source="http://scta.info/resource/Icor15_6@2-7">apparuit plus
           <lb ed="#S" n="63"/>quam quingentis fratribus</quote> non ponitur ab
           evan<lb ed="#S" n="64" break="no"/>gelistis. Propter quod notandum ad evidentiam
           <lb ed="#S" n="65"/>multorum quae hic adduntur quod evangelistarum
@@ -2625,7 +2625,7 @@
           supple<lb ed="#S" n="85" break="no"/>visse leguntur quae ab aliquo illorum vel
           ali<lb ed="#S" n="86" break="no"/>quibus sunt omissa, sicut patet: cum tres
           evan<lb ed="#S" n="87" break="no"/>gelistae posuerunt: Hoc est corpus meum,
-          <lb ed="#S" n="88"/>Lucas adiecit: <quote source="http://scta.info/resource/lc22_19@16-19">Quod pro vobis tradetur</quote>. Et cum
+          <lb ed="#S" n="88"/>Lucas adiecit: <quote xml:id="bptdom-a28dol-Qd1e5900" source="http://scta.info/resource/lc22_19@16-19">Quod pro vobis tradetur</quote>. Et cum
           <lb ed="#S" n="89"/>Math. et Marcus dicant: Pro multis, Lucas
           di<lb ed="#S" n="90" break="no"/>cit: Pro vobis; Math. autem: In remissionem
           <pb ed="#S" n="67-r"/>
@@ -2635,7 +2635,7 @@
           <lb ed="#S" n="3"/>hoc potest responsio ad multa quae obici possunt et
           <lb ed="#S" n="4"/>de hoc habes, ut dicit Innocentius iii, ti. de cele.
           <lb ed="#S" n="5"/>mis., c. Cum Marthae. Sequitur: Tibi
-          gra<lb ed="#S" n="6" break="no"/>tias agens. A quo est <quote source="http://scta.info/resource/iac1_17@1-7">omne datum optimum
+          gra<lb ed="#S" n="6" break="no"/>tias agens. A quo est <quote xml:id="bptdom-a28dol-Qd1e5925" source="http://scta.info/resource/iac1_17@1-7">omne datum optimum
           <lb ed="#S" n="7"/>et omne donum perfectum</quote>, ut Iacobus dicit.
           <lb ed="#S" n="8"/>Sequitur: Benedixit, scilicet benedictione caelesti et
           <lb ed="#S" n="9"/>virtute verbi qua convertitur panis in
@@ -2660,7 +2660,7 @@
           <lb ed="#S" n="28"/>et malorum, sed secundus modus, scilicet spiritualis, non
           <lb ed="#S" n="29"/>est nisi bonorum. Et primus sine secundo nihil
           <lb ed="#S" n="30"/>valet nec proficit, quia secundum apostolum, primo ad
-          <lb ed="#S" n="31"/>Cho. xi: <quote source="http://scta.info/resource/Icor11_29@1-11">Qui manducat indigne, iudicium
+          <lb ed="#S" n="31"/>Cho. xi: <quote xml:id="bptdom-a28dol-Qd1e5982" source="http://scta.info/resource/Icor11_29@1-11">Qui manducat indigne, iudicium
           <lb ed="#S" n="32"/>sibi manducat et bibit</quote>. Et sanctus Thomas in
           <lb ed="#S" n="33"/>prosa corporis Christi dicit sic: Sumunt boni,
           <lb ed="#S" n="34"/>sumunt mali, sorte tamen inaequali, vitae vel
@@ -2753,7 +2753,7 @@
           <lb ed="#S" n="24"/>caverit et laverit digitos. Circa hoc
           <lb ed="#S" n="25"/>quod dicitur: Hoc est corpus meum, multa
           quae<lb ed="#S" n="26" break="no"/>runtur. Primo, quare non dixit caro ita
-          <lb ed="#S" n="27"/>bene sicut corpus, quia Io. vi dixit: <quote source="http://scta.info/resource/io6_56@1-6">Caro
+          <lb ed="#S" n="27"/>bene sicut corpus, quia Io. vi dixit: <quote xml:id="bptdom-a28dol-Qd1e6182" source="http://scta.info/resource/io6_56@1-6">Caro
           <lb ed="#S" n="28"/>mea est cibus</quote>, ergo et hic debuit dicere,
           <lb ed="#S" n="29"/>praecipue quia caro magis sonat aliquid ad
           <lb ed="#S" n="30"/>nutrimentum pertinens. Sed dicendum quod
@@ -2786,14 +2786,14 @@
           <lb ed="#S" n="54"/>lxxxiii q., quod circumstantia scripturae
           expo<lb ed="#S" n="55" break="no"/>nit scripturam, an dicta in ea debeant
           acci<lb ed="#S" n="56" break="no"/>pi proprie vel figurative. Verbi gratia, Io. xv
-          <lb ed="#S" n="57"/>dixit Christus: <quote source="http://scta.info/resource/io15_1@1-4">Ego sum vitis vera</quote>. Si
+          <lb ed="#S" n="57"/>dixit Christus: <quote xml:id="bptdom-a28dol-Qd1e6255" source="http://scta.info/resource/io15_1@1-4">Ego sum vitis vera</quote>. Si
           volu<lb ed="#S" n="58" break="no"/>mus intelligere si dixit proprie vel
-          figura<lb ed="#S" n="59" break="no"/>tive, videatur quod sequitur: <quote source="http://scta.info/resource/io15_5@4-5">Et vos palmites</quote>.
+          figura<lb ed="#S" n="59" break="no"/>tive, videatur quod sequitur: <quote xml:id="bptdom-a28dol-Qd1e6262" source="http://scta.info/resource/io15_5@4-5">Et vos palmites</quote>.
           <lb ed="#S" n="60"/>Sic ergo Christus fuit vitis sicut apostoli
           palmi<lb ed="#S" n="61" break="no"/>tes; constat autem quod palmites non fuerunt proprie,
           <lb ed="#S" n="62"/>ergo figurative, et ita Christus vitis. Ad
-          propo<lb ed="#S" n="63" break="no"/>situm, Christus dixit: <quote source="http://scta.info/resource/lc22_19@12-15">Hoc est corpus meum</quote>;
-          vi<lb ed="#S" n="64" break="no"/>deamus quod sequitur, Math. xxvi: <quote source="http://scta.info/resource/lc22_19@16-19">Quod pro
+          propo<lb ed="#S" n="63" break="no"/>situm, Christus dixit: <quote xml:id="bptdom-a28dol-Qd1e6274" source="http://scta.info/resource/lc22_19@12-15">Hoc est corpus meum</quote>;
+          vi<lb ed="#S" n="64" break="no"/>deamus quod sequitur, Math. xxvi: <quote xml:id="bptdom-a28dol-Qd1e6279" source="http://scta.info/resource/lc22_19@16-19">Quod pro
           vo<lb ed="#S" n="65" break="no"/>bis tradetur</quote>. Constat autem quod corpus quod
           tra<lb ed="#S" n="66" break="no"/>ditum fuit pro nobis fuit verum corpus Christi
           na<lb ed="#S" n="67" break="no"/>tum de virgine, ergo illud verbum dictum est
@@ -2897,7 +2897,7 @@
           me<lb ed="#S" n="67" break="no"/>moriam transitus filiorum Israel celebrarent
           <lb ed="#S" n="68"/>phase, id est pascha. Et iste agnus quem
           <lb ed="#S" n="69"/>tunc comedebant figurabat agnum illum de
-          <lb ed="#S" n="70"/>quo dicitur, Io. i: <quote source="http://scta.info/resource/io1_29@11-13">Ecce agnus dei</quote>; et ideo
+          <lb ed="#S" n="70"/>quo dicitur, Io. i: <quote xml:id="bptdom-a28dol-Qd1e6503" source="http://scta.info/resource/io1_29@11-13">Ecce agnus dei</quote>; et ideo
           adve<lb ed="#S" n="71" break="no"/>niente veritate cessare debuit figura propter
           <lb ed="#S" n="72"/>quod, ut daret terminum legi antiquae,
           come<lb ed="#S" n="73" break="no"/>dit ad vesperam et statim introduxit
@@ -3044,7 +3044,7 @@
           <lb ed="#S" n="24"/>et passio sui amaritudine quasi hominem extra
           <lb ed="#S" n="25"/>se trahit, et hoc modo loquendi usus est Christus
           <lb ed="#S" n="26"/>loquens de sua passione dicens, Mat. xxvi:
-          <lb ed="#S" n="27"/><quote source="http://scta.info/resource/mt26_39@16-20">Transeat a me calix iste</quote>. Et hic modus est bene
+          <lb ed="#S" n="27"/><quote xml:id="bptdom-a28dol-Qd1e6817" source="http://scta.info/resource/mt26_39@16-20">Transeat a me calix iste</quote>. Et hic modus est bene
           con<lb ed="#S" n="28" break="no"/>veniens in hac forma, quia, ut dictum est, in
           con<lb ed="#S" n="29" break="no"/>secratione sanguinis exprimitur directe
           myste<lb ed="#S" n="30" break="no"/>rium passionis. Ad primum argumentum patet per iam
@@ -3332,7 +3332,7 @@
           digni<lb ed="#S" n="17" break="no"/>tatis quantae est; ideo tantum non peccat in abusu
           <lb ed="#S" n="18"/>quia ignorantia infidelitatis excusat a
           tan<lb ed="#S" n="19" break="no"/>to, quamvis non a toto; unde dicebat apostolus:
-          <lb ed="#S" n="20"/><quote source="http://scta.info/resource/Itim1_13@10-17">Misericordiam consecutus sum, quia ignorans
+          <lb ed="#S" n="20"/><quote xml:id="bptdom-a28dol-Qd1e7429" source="http://scta.info/resource/Itim1_13@10-17">Misericordiam consecutus sum, quia ignorans
           <lb ed="#S" n="21"/>feci in incredulitate mea</quote>. Propter quod
           infide<lb ed="#S" n="22" break="no"/>lis indigne manducat, sed fidelis peccator
           ma<lb ed="#S" n="23" break="no"/>gis indigne. Secundo utrum subiacens
@@ -3461,7 +3461,7 @@
           sacra<lb ed="#S" n="51" break="no"/>mentum figurarum veterum completivum.
           Di<lb ed="#S" n="52" break="no"/>cit ergo: In mei memoriam facietis, id est
           memo<lb ed="#S" n="53" break="no"/>riam meae passionis et mortis. Primo ad Cho.
-          <lb ed="#S" n="54"/>xi: <quote source="http://scta.info/resource/Icor11_26@1-13">Quotienscumque manducabitis panem
+          <lb ed="#S" n="54"/>xi: <quote xml:id="bptdom-a28dol-Qd1e7709" source="http://scta.info/resource/Icor11_26@1-13">Quotienscumque manducabitis panem
           <lb ed="#S" n="55"/>hunc et calicem bibetis mortem domini
           anuntia<lb ed="#S" n="56" break="no"/>bitis donec veniat</quote>. Circa haec notanda
           <lb ed="#S" n="57"/>sunt multa. Primo quod haec verba, scilicet Haec
@@ -3483,7 +3483,7 @@
           quaeri<lb ed="#S" n="73" break="no"/>tur utrum debeat elevari calix coopertus vel
           dis<lb ed="#S" n="74" break="no"/>coopertus. Et dicendum quod non est magna vis
           <lb ed="#S" n="75"/>quocumque modo fiat. Nam si operitur, signat
-          sangui<lb ed="#S" n="76" break="no"/>nem Christi aspersum secrete, scilicet quando oravit: <quote source="http://scta.info/resource/lc22_44@1-11">Et
+          sangui<lb ed="#S" n="76" break="no"/>nem Christi aspersum secrete, scilicet quando oravit: <quote xml:id="bptdom-a28dol-Qd1e7759" source="http://scta.info/resource/lc22_44@1-11">Et
           fa<lb ed="#S" n="77" break="no"/>ctus est sudor eius sicut guttae sanguinis
           decur<lb ed="#S" n="78" break="no"/>rentis in terram</quote>, Lu. xxii. Si vero discooperitur,
           sig<lb ed="#S" n="79" break="no"/>nat eius sanguinem patenter aspersum in die
@@ -3494,7 +3494,7 @@
           oran<lb ed="#S" n="82" break="no"/>di in elevatione corporis et sanguinis, quomodo est
           <lb ed="#S" n="83"/>adorandum. Ad hoc potest dici quod secundum devotionem
           <lb ed="#S" n="84"/>cuiuscumque; nam non sunt determinata ad hoc
-          <lb ed="#S" n="85"/>verba aliqua, quia aliqui dicunt: <quote source="http://scta.info/resource/ps30_6@1-6">In manus
+          <lb ed="#S" n="85"/>verba aliqua, quia aliqui dicunt: <quote xml:id="bptdom-a28dol-Qd1e7786" source="http://scta.info/resource/ps30_6@1-6">In manus
           <lb ed="#S" n="86"/>tuas commendo spiritum</quote> etc.; aliqui: Ave
           ve<lb ed="#S" n="87" break="no"/>rum corpus natum; aliqui: Iesu Christe
           <pb ed="#S" n="71-v"/>
@@ -3567,7 +3567,7 @@
           praecla<lb ed="#S" n="55" break="no"/>rae maiestati tuae. Nec mirum si maiestas
           <lb ed="#S" n="56"/>dei dicitur esse praeclara, id est valde prae aliis clara,
           <lb ed="#S" n="57"/>ex quo tanta erat claritas sanctorum quod
-          <quote source="http://scta.info/resource/sap3_7@1-1">fulge<lb ed="#S" n="58" break="no"/>bunt iusti sicut sol</quote>, ut dicitur, Sapientiae iii.
+          <quote xml:id="bptdom-a28dol-Qd1e7937" source="http://scta.info/resource/sap3_7@1-1">fulge<lb ed="#S" n="58" break="no"/>bunt iusti sicut sol</quote>, ut dicitur, Sapientiae iii.
         </p>
         <p xml:id="bptdom-a28dol-d1e7587">
           <lb ed="#S" n="59"/>Sequitur: De tuis donis, ratione spiritualium,
@@ -3606,7 +3606,7 @@
           <lb ed="#S" n="1"/>sanctum quia sanctificante, vitae aeternae quia
           <lb ed="#S" n="2"/>dator est vitae aeternae quantum ad stolam
           <lb ed="#S" n="3"/>carnis, et calicem salutis perpetuae quantum ad
-          <lb ed="#S" n="4"/>stolam animae, Io. vi: <quote source="http://scta.info/resource/io6_51@1-8 http://scta.info/resource/io6_52@1-9">Ego sum panis
+          <lb ed="#S" n="4"/>stolam animae, Io. vi: <quote xml:id="bptdom-a28dol-Qd1e8026" source="http://scta.info/resource/io6_51@1-8 http://scta.info/resource/io6_52@1-9">Ego sum panis
           <lb ed="#S" n="5"/>vivus qui de caelo descendi; si quis
           man<lb ed="#S" n="6" break="no"/>ducaverit ex hoc pane vivet in aeternum</quote>.
           <lb ed="#S" n="7"/>Viso de expositione verborum videndum secundo
@@ -3616,7 +3616,7 @@
           <lb ed="#S" n="11"/>brachia dicendo: Tam beatae passionis, in
           mo<lb ed="#S" n="12" break="no"/>dum crucis; postmodum dicendo: Nec non et
           <lb ed="#S" n="13"/>ab inferis resurrectionis, illa parum plus
-          eri<lb ed="#S" n="14" break="no"/>gere, in signum quod <quote source="http://scta.info/resource/ap5_5@10-14">vicit leo de tribu Iuda</quote>,
+          eri<lb ed="#S" n="14" break="no"/>gere, in signum quod <quote xml:id="bptdom-a28dol-Qd1e8050" source="http://scta.info/resource/ap5_5@10-14">vicit leo de tribu Iuda</quote>,
           <lb ed="#S" n="15"/>Apocal. v, scilicet dum surrexerit; rursum
           dicen<lb ed="#S" n="16" break="no"/>do: Sed et in caelos gloriosae ascensionis, plus
           <lb ed="#S" n="17"/>adhuc erigere, in signum quod Christus deus et
@@ -3645,14 +3645,14 @@
           <lb ed="#S" n="40"/>maiorem caritatem arguit, iuxta illud
           ma<lb ed="#S" n="41" break="no"/>iorem caritatem; non potest maius dari donum
           <lb ed="#S" n="42"/>nec bonum quam vita propria, iuxta illud:
-          <quote source="http://scta.info/resource/io15_13@1-3">Ma<lb ed="#S" n="43" break="no"/>iorem dilectionem</quote> etc. Per resurrectionem in
+          <quote xml:id="bptdom-a28dol-Qd1e8114" source="http://scta.info/resource/io15_13@1-3">Ma<lb ed="#S" n="43" break="no"/>iorem dilectionem</quote> etc. Per resurrectionem in
           fi<lb ed="#S" n="44" break="no"/>de roboramur, quia si Christus non resurrexisset,
           <lb ed="#S" n="45"/>dubitatio fuisset; nunc autem, secundum apostolum, i ad
           <cb ed="#S" n="b"/>
           <lb ed="#S" n="46"/>Cho. xv: Si Christus resurrexit, et nos resurgemus.
           <lb ed="#S" n="47"/>Tertio per ascensionem in spe elevamur, quia
           <lb ed="#S" n="48"/>ex eo quod caelum aperuit et ascendit, habent spem
-          <lb ed="#S" n="49"/>membra ibi esse, Math. ii: <quote source="http://scta.info/resource/mic2_13@1-6">Ascendit
+          <lb ed="#S" n="49"/>membra ibi esse, Math. ii: <quote xml:id="bptdom-a28dol-Qd1e8135" source="http://scta.info/resource/mic2_13@1-6">Ascendit
           pan<lb ed="#S" n="50" break="no"/>dens iter ante eos</quote>. Quarto videndum est quid
           <lb ed="#S" n="51"/>significant illae quinque cruces quae fiunt
           dicen<lb ed="#S" n="52" break="no"/>do: Hostiam puram etc. Et dicendum quod significant
@@ -3661,7 +3661,7 @@
           <lb ed="#S" n="55"/>ii; secunda in sudore, Lu. xxii; tertia in
           flagel<lb ed="#S" n="56" break="no"/>latione ad columnam ligatus, Io. xix; quarta
           <lb ed="#S" n="57"/>in crucifixione; quinta in lateris apertione,
-          <lb ed="#S" n="58"/>quando <quote source="http://scta.info/resource/io19_34@8-13">exivit continuo sanguis et aqua</quote>, ut
+          <lb ed="#S" n="58"/>quando <quote xml:id="bptdom-a28dol-Qd1e8157" source="http://scta.info/resource/io19_34@8-13">exivit continuo sanguis et aqua</quote>, ut
           ha<lb ed="#S" n="59" break="no"/>betur Io. xix.
         </p>
         <p xml:id="bptdom-a28dol-d1e7791">
@@ -3690,7 +3690,7 @@
           <lb ed="#S" n="80"/>figuralis exemplificatio: Sicuti accepta, id est
           <lb ed="#S" n="81"/>grata habere dignatus es munera pueri
           <lb ed="#S" n="82"/>tui iusti Abel, de quo dicitur, Gene. iiii, quod
-          <lb ed="#S" n="83"/><quote source="http://scta.info/resource/gen4_4@12-20">respexit deus ad Abel et ad munera eius</quote>.
+          <lb ed="#S" n="83"/><quote xml:id="bptdom-a28dol-Qd1e8218" source="http://scta.info/resource/gen4_4@12-20">respexit deus ad Abel et ad munera eius</quote>.
         </p>
         <p xml:id="bptdom-a28dol-d1e7848">
           <lb ed="#S" n="84"/>Sequitur: Et sacrificium patriarchae nostri
@@ -3730,18 +3730,18 @@
           <lb ed="#S" n="27"/>eius non mutatur aliquando, sed tunc deus
           vul<lb ed="#S" n="28" break="no"/>tum suum illuminat super nos, id est
           sere<lb ed="#S" n="29" break="no"/>nat cum misericordiam suam super nos exhibet
-          <lb ed="#S" n="30"/>et declarat, secundum illud psalmus: <quote source="http://scta.info/resource/ps66_2@7-14">Illuminat
+          <lb ed="#S" n="30"/>et declarat, secundum illud psalmus: <quote xml:id="bptdom-a28dol-Qd1e8306" source="http://scta.info/resource/ps66_2@7-14">Illuminat
           vul<lb ed="#S" n="31" break="no"/>tum suum super nos et misereatur nostri</quote>.
           Se<lb ed="#S" n="32" break="no"/>cundum dubium: quare dicit respicere
           dig<lb ed="#S" n="33" break="no"/>neris? Numquid non omnia sunt in conspectu eius
           <lb ed="#S" n="34"/>et in prospectu, iuxta illud ad Hebre. iiii:
-          <lb ed="#S" n="35"/><quote source="http://scta.info/resource/hebr4_13@10-17">Omnia nuda et aperta sunt oculis eius</quote>? Sed
+          <lb ed="#S" n="35"/><quote xml:id="bptdom-a28dol-Qd1e8319" source="http://scta.info/resource/hebr4_13@10-17">Omnia nuda et aperta sunt oculis eius</quote>? Sed
           <lb ed="#S" n="36"/>dicendum quod, quamvis nihil sit occultum deo,
           <lb ed="#S" n="37"/>quia omnia videt oculus eius, tantum illa proprie
           <lb ed="#S" n="38"/>dicitur respicere deus quae accepta sunt et
-          gra<lb ed="#S" n="39" break="no"/>ta, sicut legitur Gen. iiii quod <quote source="http://scta.info/resource/gen4_4@12-20">respexit deus ad
+          gra<lb ed="#S" n="39" break="no"/>ta, sicut legitur Gen. iiii quod <quote xml:id="bptdom-a28dol-Qd1e8331" source="http://scta.info/resource/gen4_4@12-20">respexit deus ad
           <lb ed="#S" n="40"/>Abel et ad munera eius</quote>, ideo quia fuerunt
-          <lb ed="#S" n="41"/>sibi accepta et grata; <quote source="http://scta.info/resource/gen4_5@1-9">ad Cayn non
+          <lb ed="#S" n="41"/>sibi accepta et grata; <quote xml:id="bptdom-a28dol-Qd1e8338" source="http://scta.info/resource/gen4_5@1-9">ad Cayn non
           respex<lb ed="#S" n="42" break="no"/>it nec ad munera eius</quote>, ideo non acceptavit.
           <lb ed="#S" n="43"/>Petimus ergo nos hic quod respiciat, id est
           <lb ed="#S" n="44"/>acceptet; propter quod statim sequitur: Et
@@ -3757,25 +3757,25 @@
           <lb ed="#S" n="53"/>fratribus, et invidia et malitia a Iudaeis
           oc<lb ed="#S" n="54" break="no"/>cisus? Quid per sacrificium Abrahae dilectum
           <lb ed="#S" n="55"/>et unicum filium offerentis nisi passio domini
-          de<lb ed="#S" n="56" break="no"/>signatur, de quo apostolus: <quote source="http://scta.info/resource/rom8_32@1-6">Proprio filio suo
+          de<lb ed="#S" n="56" break="no"/>signatur, de quo apostolus: <quote xml:id="bptdom-a28dol-Qd1e8376" source="http://scta.info/resource/rom8_32@1-6">Proprio filio suo
           <lb ed="#S" n="57"/>non pepercit deus</quote> etc.? Oblatio etiam
           Melchi<lb ed="#S" n="58" break="no"/>sedech tam proprium novum sacrificium signat,
-          <lb ed="#S" n="59"/>ut a Christo dicatur: <quote source="http://scta.info/resource/ps109_4@7-14">Tu es sacerdos in aeternum
+          <lb ed="#S" n="59"/>ut a Christo dicatur: <quote xml:id="bptdom-a28dol-Qd1e8385" source="http://scta.info/resource/ps109_4@7-14">Tu es sacerdos in aeternum
           <lb ed="#S" n="60"/>secundum ordinem Melchisedech</quote>. Ideo isti tres
           <lb ed="#S" n="61"/>nominantur. Quarto: quare Abel
           vo<lb ed="#S" n="62" break="no"/>catur puer et Abraham patriarcha?
           Dicen<lb ed="#S" n="63" break="no"/>dum quod Abel vocatur puer non solum a
-          pu<lb ed="#S" n="64" break="no"/>eritia sed a puritate, secundum illud Isa. xlii: <quote source="http://scta.info/resource/is42_1@1-18">Ecce
+          pu<lb ed="#S" n="64" break="no"/>eritia sed a puritate, secundum illud Isa. xlii: <quote xml:id="bptdom-a28dol-Qd1e8399" source="http://scta.info/resource/is42_1@1-18">Ecce
           <lb ed="#S" n="65"/>puer meus quem elegi, posui super eum
           <lb ed="#S" n="66"/>spiritum meum</quote>. Abraham dicitur
           patri<lb ed="#S" n="67" break="no"/>archa, id est princeps patrum, non solum
           ple<lb ed="#S" n="68" break="no"/>bis Israhelitae sed etiam Christianae, sed differenter,
           <lb ed="#S" n="69"/>quia illius per carnem, istius autem per fidem.
-          Melchi<lb ed="#S" n="70" break="no"/>sedech etiam dicitur, quia <quote source="http://scta.info/resource/hebr7_2@8-20">interpretatur rex
+          Melchi<lb ed="#S" n="70" break="no"/>sedech etiam dicitur, quia <quote xml:id="bptdom-a28dol-Qd1e8415" source="http://scta.info/resource/hebr7_2@8-20">interpretatur rex
           iusti<lb ed="#S" n="71" break="no"/>tiae et rex Salem, id est pacis</quote>, qui fuit homo iustus et
           <lb ed="#S" n="72"/>pacificus. Sic Christus fuit purus, fuit pater,
           <lb ed="#S" n="73"/>fuit iustus, fuit etiam rex pacis, iuxta illud
-          <lb ed="#S" n="74"/>psalmus: <quote source="http://scta.info/resource/ps71_7@1-8">Orietur in diebus iustitia et habundantia
+          <lb ed="#S" n="74"/>psalmus: <quote xml:id="bptdom-a28dol-Qd1e8427" source="http://scta.info/resource/ps71_7@1-8">Orietur in diebus iustitia et habundantia
           <lb ed="#S" n="75"/>pacis</quote> etc.
         </p>
         <p xml:id="bptdom-a28dol-d1e8033">
@@ -3798,7 +3798,7 @@
           <pb ed="#S" n="73-r"/>
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>et populi deo praesentet, secundum illud Apocali. viii:
-          <lb ed="#S" n="2"/><quote source="http://scta.info/resource/ap8_4@1-12">Ascendit fumus aromatum in conspectu domini
+          <lb ed="#S" n="2"/><quote xml:id="bptdom-a28dol-Qd1e8475" source="http://scta.info/resource/ap8_4@1-12">Ascendit fumus aromatum in conspectu domini
           <lb ed="#S" n="3"/>de manu angeli, quae sunt orationes sanctorum</quote>.
           Pe<lb ed="#S" n="4" break="no"/>tit ergo sacerdos ut haec, id est
           significa<lb ed="#S" n="5" break="no"/>ta per hoc, scilicet corpus mysticum, per manus
@@ -3806,7 +3806,7 @@
           <lb ed="#S" n="7"/>altare sublime, id est ecclesia triumphantem
           <lb ed="#S" n="8"/>vel participatione divinitatis plenam, quia deus
           <lb ed="#S" n="9"/>ipse est altare sublime; unde dicitur, Exo. xx:
-          <lb ed="#S" n="10"/><quote source="http://scta.info/resource/ex20_26@1-7">Non ascendes in altare meum per gradus</quote>,
+          <lb ed="#S" n="10"/><quote xml:id="bptdom-a28dol-Qd1e8495" source="http://scta.info/resource/ex20_26@1-7">Non ascendes in altare meum per gradus</quote>,
           <lb ed="#S" n="11"/>id est in trinitatem non facies gradus, quia
           aequa<lb ed="#S" n="12" break="no"/>les sunt tres personae; vel aliter per angelum
           <lb ed="#S" n="13"/>ipse Christus intelligitur, qui est magni consilii
@@ -3818,14 +3818,14 @@
           <lb ed="#S" n="19"/>panem et vinum, transferri, id est transmutari,
           <lb ed="#S" n="20"/>in sublime altare tuum, id est in corpus et
           <lb ed="#S" n="21"/>sanguinem Christi filii tui, qui dicitur altare,
-          iux<lb ed="#S" n="22" break="no"/>ta illud Exo. xx: <quote source="http://scta.info/resource/ex20_24@1-5">Altare de terra facietis
+          iux<lb ed="#S" n="22" break="no"/>ta illud Exo. xx: <quote xml:id="bptdom-a28dol-Qd1e8524" source="http://scta.info/resource/ex20_24@1-5">Altare de terra facietis
           <lb ed="#S" n="23"/>mihi</quote>. Vel aliter: Iube haec, id est vota et
           oratio<lb ed="#S" n="24" break="no"/>nes nostras, perferri, id est praesentari, in
           sub<lb ed="#S" n="25" break="no"/>lime altare tuum in praesentia curiae caelestis
           <lb ed="#S" n="26"/>et in conspectu divinitatis tuae; et hoc per
           ma<lb ed="#S" n="27" break="no"/>nus angeli tui; nam angeli vota nostra deo
           <lb ed="#S" n="28"/>offerunt, Thob. xii: Dixit Raphael ad
-          Thobi<lb ed="#S" n="29" break="no"/>am: <quote source="http://scta.info/resource/tob12_12@1-26">Quando orabas, ego obtuli orationes deo</quote>.
+          Thobi<lb ed="#S" n="29" break="no"/>am: <quote xml:id="bptdom-a28dol-Qd1e8542" source="http://scta.info/resource/tob12_12@1-26">Quando orabas, ego obtuli orationes deo</quote>.
           <lb ed="#S" n="30"/>Sequitur: Ut quotquot ex hoc altaris
           par<lb ed="#S" n="31" break="no"/>ticipatione sacrosanctum filii tui corpus et
           <lb ed="#S" n="32"/>sanguinem sumpserimus, vel sacramentaliter,
@@ -3872,14 +3872,14 @@
           <lb ed="#S" n="73"/>quod Christus imminente passione ter oravit
           <lb ed="#S" n="74"/>ut habetur Lu. xxii et Math. xxvi ca.; vel sic
           <lb ed="#S" n="75"/>istae tres cruces significant verba quae dixit
-          do<lb ed="#S" n="76" break="no"/>minus in cruce. Primum est: <quote source="http://scta.info/resource/lc23_34@4-11">Pater,
+          do<lb ed="#S" n="76" break="no"/>minus in cruce. Primum est: <quote xml:id="bptdom-a28dol-Qd1e8648" source="http://scta.info/resource/lc23_34@4-11">Pater,
           di<lb ed="#S" n="77" break="no"/>mitte illis, quia nesciunt quid faciunt</quote>; et haec
           <lb ed="#S" n="78"/>crux fit super corpus quia virtute corporis fit
-          <lb ed="#S" n="79"/>peccatorum remissio. Secundum est: <quote source="http://scta.info/resource/lc23_46@7-13">Pater, in
+          <lb ed="#S" n="79"/>peccatorum remissio. Secundum est: <quote xml:id="bptdom-a28dol-Qd1e8658" source="http://scta.info/resource/lc23_46@7-13">Pater, in
           <lb ed="#S" n="80"/>manus tuas commendo spiritum meum</quote>
           <lb ed="#S" n="81"/>et haec crux fit super sanguinem quia virtute
           <lb ed="#S" n="82"/>sanguinis fit introductio in caelum.
-          Ter<lb ed="#S" n="83" break="no"/>tium est: <quote source="http://scta.info/resource/mt27_46@16-23">Deus meus, ut quid
+          Ter<lb ed="#S" n="83" break="no"/>tium est: <quote xml:id="bptdom-a28dol-Qd1e8669" source="http://scta.info/resource/mt27_46@16-23">Deus meus, ut quid
           dereliqui<lb ed="#S" n="84" break="no"/>sti me</quote>; et haec crux fit super celebrantem
           <lb ed="#S" n="85"/>et super nos quia tunc Christus condoluit
           <lb ed="#S" n="86"/>nobis plangens defectum nostrum. Vel
@@ -3929,7 +3929,7 @@
           <lb ed="#S" n="34"/>mundo. Et haec memoria debet fieri vel no
           <lb ed="#S" n="35"/>minaliter vel mentaliter, quia deo sufficit
           <lb ed="#S" n="36"/>mente et corde loqui, quia dicitur in psalmo:
-          <quote source="http://scta.info/resource/ps93_11@1-4">Do<lb ed="#S" n="37" break="no"/>minus scit cogitationes hominum</quote>. Secundo
+          <quote xml:id="bptdom-a28dol-Qd1e8776" source="http://scta.info/resource/ps93_11@1-4">Do<lb ed="#S" n="37" break="no"/>minus scit cogitationes hominum</quote>. Secundo
           <lb ed="#S" n="38"/>nota pro quibus mortuis est orandum. Et
           di<lb ed="#S" n="39" break="no"/>cendum quod mortui sunt in triplici
           gra<lb ed="#S" n="40" break="no"/>du; nam quidam sunt valde boni sicut
@@ -3968,29 +3968,29 @@
           <lb ed="#S" n="72"/>in memoria habuimus specialiter et omnibus
           <lb ed="#S" n="73"/>generaliter in Christo quiescentibus, id est in fide
           <lb ed="#S" n="74"/>et confessione Christi, de quibus dicitur, Apoca.
-          <lb ed="#S" n="75"/>xiiii: <quote source="http://scta.info/resource/ap14_13@8-13">Beati mortui qui in domino moriuntur</quote>, locum
+          <lb ed="#S" n="75"/>xiiii: <quote xml:id="bptdom-a28dol-Qd1e8866" source="http://scta.info/resource/ap14_13@8-13">Beati mortui qui in domino moriuntur</quote>, locum
           <lb ed="#S" n="76"/>refrigerii lucis et pacis indulgeas deprecamur.
           <lb ed="#S" n="77"/>Circa quod notandum quod locus inferni
           <lb ed="#S" n="78"/>dicitur umbrosus et tenebrosus, iuxta illud
-          <lb ed="#S" n="79"/>Math. xxii: <quote source="http://scta.info/resource/mt22_13@10-14">Mitte eum in tenebras
+          <lb ed="#S" n="79"/>Math. xxii: <quote xml:id="bptdom-a28dol-Qd1e8878" source="http://scta.info/resource/mt22_13@10-14">Mitte eum in tenebras
           exte<lb ed="#S" n="80" break="no"/>riores</quote>. Item dicitur locus inquietudinis
           <lb ed="#S" n="81"/>uredinis et caloris, iuxta illud Math. xxv:
-          <lb ed="#S" n="82"/><quote source="http://scta.info/resource/mt25_41@12-15">Ite maledicti in ignem aeternum</quote>. Item
+          <lb ed="#S" n="82"/><quote xml:id="bptdom-a28dol-Qd1e8886" source="http://scta.info/resource/mt25_41@12-15">Ite maledicti in ignem aeternum</quote>. Item
           <lb ed="#S" n="83"/>dicitur locus inquietudinis quia numquam
           <lb ed="#S" n="84"/>ibi mens quietatur propter remorsum
           con<lb ed="#S" n="85" break="no"/>scientiae, qui vermis conscientiae appellatur, de quo
-          <lb ed="#S" n="86"/>Isa.: <quote source="http://scta.info/resource/is66_24@12-15">Vermis eorum non morietur</quote>. Sed per
+          <lb ed="#S" n="86"/>Isa.: <quote xml:id="bptdom-a28dol-Qd1e8898" source="http://scta.info/resource/is66_24@12-15">Vermis eorum non morietur</quote>. Sed per
           opposi<lb ed="#S" n="87" break="no"/>tum locus paradisi dicitur locus refrigerii, psalmus:
-          <lb ed="#S" n="88"/><quote source="http://scta.info/resource/ps65_12@6-15">Transivimus per ignem et aquam et eduxisti
+          <lb ed="#S" n="88"/><quote xml:id="bptdom-a28dol-Qd1e8905" source="http://scta.info/resource/ps65_12@6-15">Transivimus per ignem et aquam et eduxisti
           <pb ed="#S" n="74-r"/>
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>nos in refrigerium</quote>. Dicitur locus lucis, Apo. xxi:
-          <lb ed="#S" n="2"/><quote source="http://scta.info/resource/ap21_23@12-16">Nox ibi non erit, sed claritas dei
+          <lb ed="#S" n="2"/><quote xml:id="bptdom-a28dol-Qd1e8915" source="http://scta.info/resource/ap21_23@12-16">Nox ibi non erit, sed claritas dei
           illumina<lb ed="#S" n="3" break="no"/>bit eam</quote>, scilicet civitatem paradisi, de qua
           loqui<lb ed="#S" n="4" break="no"/>tur ad litteram. Dicitur etiam quietudinis
-          lo<lb ed="#S" n="5" break="no"/>cus et pacis propter quietem conscientiae, psalmus: <quote source="http://scta.info/resource/ps4_9@1-7">In
+          lo<lb ed="#S" n="5" break="no"/>cus et pacis propter quietem conscientiae, psalmus: <quote xml:id="bptdom-a28dol-Qd1e8924" source="http://scta.info/resource/ps4_9@1-7">In
           <lb ed="#S" n="6"/>pace in idipsum dormiam et requiescam</quote>; et
-          ali<lb ed="#S" n="7" break="no"/>bi: <quote source="http://scta.info/resource/ps75_3@1-7">In pace factus est locus eius</quote>. Ideo
+          ali<lb ed="#S" n="7" break="no"/>bi: <quote xml:id="bptdom-a28dol-Qd1e8932" source="http://scta.info/resource/ps75_3@1-7">In pace factus est locus eius</quote>. Ideo
           di<lb ed="#S" n="8" break="no"/>cimus: Locum refrigerii, lucis et pacis. Quare
           <lb ed="#S" n="9"/>ante consecrationem et post oratur pro vivis et
           <lb ed="#S" n="10"/>mortuis tantum? Quarto notandum
@@ -4038,7 +4038,7 @@
           <lb ed="#S" n="49"/>ecclesiae, non solum ad vivos sed extendit
           <lb ed="#S" n="50"/>se ad mortuos qui in caritate decedunt.
           <lb ed="#S" n="51"/>Caritas enim vita corporis non finitur, quia,
-          <lb ed="#S" n="52"/>primo ad Cho. xiii, dicitur quod <quote source="http://scta.info/resource/Icor13_8@1-9">caritas numquam
+          <lb ed="#S" n="52"/>primo ad Cho. xiii, dicitur quod <quote xml:id="bptdom-a28dol-Qd1e9037" source="http://scta.info/resource/Icor13_8@1-9">caritas numquam
           <lb ed="#S" n="53"/>excidit, sive prophetiae evacuabuntur, sive
           <lb ed="#S" n="54"/>linguae cessabunt</quote>. Similiter etiam mortui in
           me<lb ed="#S" n="55" break="no"/>moriis hominum viventium vivunt, ideo
@@ -4052,7 +4052,7 @@
           <lb ed="#S" n="61"/>Secundo quaeritur utrum suffragia
           va<lb ed="#S" n="62" break="no"/>leant illis qui sunt in inferno. Et
           vide<lb ed="#S" n="63" break="no"/>tur quod sic, quia, secundum Mach. xii, legitur quod
-          <quote source="http://scta.info/resource/IImac12_43@4-12">Iu<lb ed="#S" n="64" break="no"/>das xii milia dragmas argenti misit
+          <quote xml:id="bptdom-a28dol-Qd1e9066" source="http://scta.info/resource/IImac12_43@4-12">Iu<lb ed="#S" n="64" break="no"/>das xii milia dragmas argenti misit
           <lb ed="#S" n="65"/>Iherosolimam offerri pro peccatis
           mor<lb ed="#S" n="66" break="no"/>tuorum</quote>, de quibus constat quod peccaverunt
           <lb ed="#S" n="67"/>mortaliter contra legem agentes et in
@@ -4196,7 +4196,7 @@
           fi<lb ed="#S" n="23" break="no"/>at communiter. Tertio quaeritur utrum
           <lb ed="#S" n="24"/>suffragia valeant his qui in
           purgato<lb ed="#S" n="25" break="no"/>rio sunt. Dicendum quod sic, ut ii macha.
-          <lb ed="#S" n="26"/>xii: <quote source="http://scta.info/resource/IImac12_46@1-12">Sancta et salubris est cogitatio pro
+          <lb ed="#S" n="26"/>xii: <quote xml:id="bptdom-a28dol-Qd1e9384" source="http://scta.info/resource/IImac12_46@1-12">Sancta et salubris est cogitatio pro
           <lb ed="#S" n="27"/>defunctis exorare, ut a peccatis
           solvan<lb ed="#S" n="28" break="no"/>tur</quote>; ut dicit Augustinus, non negandum spiritus
           de<lb ed="#S" n="29" break="no"/>functorum pietate suorum viventium posse
@@ -4297,7 +4297,7 @@
           <lb ed="#S" n="29"/>aeternae, quod habet in quantum procedit ex
           <lb ed="#S" n="30"/>radice caritatis; et secundum hoc non solum
           pro<lb ed="#S" n="31" break="no"/>dest ei pro quo fit, sed etiam facienti, ut in
-          <lb ed="#S" n="32"/>psalmo: <quote source="http://scta.info/resource/ps34_13@14-20">Oratio mea in sinu meo convertetur</quote>.
+          <lb ed="#S" n="32"/>psalmo: <quote xml:id="bptdom-a28dol-Qd1e9603" source="http://scta.info/resource/ps34_13@14-20">Oratio mea in sinu meo convertetur</quote>.
           <lb ed="#S" n="33"/>Et ideo Damascenus dixit quod aliquis
           ung<lb ed="#S" n="34" break="no"/>vento vel aliquo oleo sancto linire
           vo<lb ed="#S" n="35" break="no"/>lens infirmum, primo enim iste, scilicet liniens,
@@ -4380,7 +4380,7 @@
           cla<lb ed="#S" n="17" break="no"/>rius videt solem quam homo, sic erit in paradiso:
           <lb ed="#S" n="18"/>secundum quod erunt maiores meriti, gratiae et
           carita<lb ed="#S" n="19" break="no"/>tis, secundum hoc limpidius et clarius deum
-          vide<lb ed="#S" n="20" break="no"/>bunt; unde illud quod dicitur Io. xiiii: <quote source="http://scta.info/resource/io14_2@1-7">In domo
+          vide<lb ed="#S" n="20" break="no"/>bunt; unde illud quod dicitur Io. xiiii: <quote xml:id="bptdom-a28dol-Qd1e9784" source="http://scta.info/resource/io14_2@1-7">In domo
           <lb ed="#S" n="21"/>patris mei mansiones multae sunt</quote>,
           exponi<lb ed="#S" n="22" break="no"/>tur de diversis gradibus beatitudinis
           se<lb ed="#S" n="23" break="no"/>cundum quod unus alio perfectius videbit
@@ -4428,11 +4428,11 @@
           sacer<lb ed="#S" n="61" break="no"/>dos secundum aliquos tondere pectus et
           per<lb ed="#S" n="62" break="no"/>cuttere cum tribus digitis inferioribus,
           du<lb ed="#S" n="63" break="no"/>obus, ut praedixi, quibus corpus Christi tetigit
-          con<lb ed="#S" n="64" break="no"/>iunctis simul, quia <quote source="http://scta.info/resource/Ipetr3_18@3-8">Christus pro peccatis mortuus est</quote>,
+          con<lb ed="#S" n="64" break="no"/>iunctis simul, quia <quote xml:id="bptdom-a28dol-Qd1e9888" source="http://scta.info/resource/Ipetr3_18@3-8">Christus pro peccatis mortuus est</quote>,
           <lb ed="#S" n="65"/>ad Ro. vi. Sed secundum alios ter debet pectus
           per<lb ed="#S" n="66" break="no"/>cuttere sacerdos, exaltans vocem suam, in qua
           <lb ed="#S" n="67"/>confessio latronis notatur, de quo dicitur Lu. xxiii:
-          <lb ed="#S" n="68"/><quote source="http://scta.info/resource/lc23_42@6-12">Memento mei, domine, dum veneris in
+          <lb ed="#S" n="68"/><quote xml:id="bptdom-a28dol-Qd1e9899" source="http://scta.info/resource/lc23_42@6-12">Memento mei, domine, dum veneris in
           reg<lb ed="#S" n="69" break="no"/>num tuum</quote>. Tertio notandum quod hic in fine,
           <lb ed="#S" n="70"/>quando dicitur: Per Christum dominum nostrum, non
           re<lb ed="#S" n="71" break="no"/>spondetur Amen. Ratio est quia continuatio ad
@@ -4455,19 +4455,19 @@
           <lb ed="#S" n="86"/>dando nobis vitam gloriae; Benedicis
           <lb ed="#S" n="87"/>dando nobis augmentum gratiae; Et
           <lb ed="#S" n="88"/>praestas quantum ad usum. Per Christum enim
-          <lb ed="#S" n="89"/>omnia creantur, Iohan. i: <quote source="http://scta.info/resource/io1_3@1-5">Omnia per
+          <lb ed="#S" n="89"/>omnia creantur, Iohan. i: <quote xml:id="bptdom-a28dol-Qd1e9950" source="http://scta.info/resource/io1_3@1-5">Omnia per
           ip<lb ed="#S" n="90" break="no"/>sum facta sunt</quote>. Ideo dicitur: Creas.
           <pb ed="#S" n="76-v"/>
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>Item omnia sanctificantur per eum et
-          <lb ed="#S" n="2"/>gratiam eius, quia <quote source="http://scta.info/resource/io1_16@1-7">de plenitudine eius omnes
-          acce<lb ed="#S" n="3" break="no"/>pimus</quote>, Io. i; unde Io. xvii: <quote source="http://scta.info/resource/io17_17@1-4">Pater, sanctifica
+          <lb ed="#S" n="2"/>gratiam eius, quia <quote xml:id="bptdom-a28dol-Qd1e9964" source="http://scta.info/resource/io1_16@1-7">de plenitudine eius omnes
+          acce<lb ed="#S" n="3" break="no"/>pimus</quote>, Io. i; unde Io. xvii: <quote xml:id="bptdom-a28dol-Qd1e9969" source="http://scta.info/resource/io17_17@1-4">Pater, sanctifica
           <lb ed="#S" n="4"/>eos in veritate</quote>, id est in filio. Ideo dicit:
           <lb ed="#S" n="5"/>Sanctificas. Item omnia per eum
-          vivifican<lb ed="#S" n="6" break="no"/>tur, quia ipsa est vita, Io. xiiii: <quote source="http://scta.info/resource/io14_6@4-10">Ego sum
+          vivifican<lb ed="#S" n="6" break="no"/>tur, quia ipsa est vita, Io. xiiii: <quote xml:id="bptdom-a28dol-Qd1e9979" source="http://scta.info/resource/io14_6@4-10">Ego sum
           <lb ed="#S" n="7"/>via, veritas et vita</quote>. Ideo dicit: Vivificas.
           <lb ed="#S" n="8"/>Item per ipsum benedictio datur; ideo de ipso
-          dici<lb ed="#S" n="9" break="no"/>tur, Lucae i: <quote source="http://scta.info/resource/lc1_42@12-15">Benedictus fructus ventris tui</quote>.
+          dici<lb ed="#S" n="9" break="no"/>tur, Lucae i: <quote xml:id="bptdom-a28dol-Qd1e9988" source="http://scta.info/resource/lc1_42@12-15">Benedictus fructus ventris tui</quote>.
           Pro<lb ed="#S" n="10" break="no"/>pter hoc dicit: Benedicis. Et sequitur: Per ipsum,
           <lb ed="#S" n="11"/>inquantum est homo manifestans patrem per
           prae<lb ed="#S" n="12" break="no"/>dicationem, et cum ipso, inquantum deus habens idem
@@ -4519,16 +4519,16 @@
           late<lb ed="#S" n="53" break="no"/>re Christi fluxerunt, vel secundum Innocentium (et est idem)
           <lb ed="#S" n="54"/>significant tres primae cruces tres cruciatus,
           <lb ed="#S" n="55"/>scilicet passionis in corpore, de quo Treno. i:
-          <lb ed="#S" n="56"/><quote source="http://scta.info/resource/lam1_12@2-17">O vos omnes qui transitis per viam, attendite et
+          <lb ed="#S" n="56"/><quote xml:id="bptdom-a28dol-Qd1e10100" source="http://scta.info/resource/lam1_12@2-17">O vos omnes qui transitis per viam, attendite et
           <lb ed="#S" n="57"/>videte si est dolor similis sicut dolor meus</quote>.
           <lb ed="#S" n="58"/>Passionem in mente, de qua Mat. xxvi:
-          <quote source="http://scta.info/resource/mt26_38@4-10">Tri<lb ed="#S" n="59" break="no"/>stis est anima mea usque ad mortem</quote>.
-          Com<lb ed="#S" n="60" break="no"/>passionem in corde, quia oravit dicens: <quote source="http://scta.info/resource/lc23_34@4-11">Pater,
+          <quote xml:id="bptdom-a28dol-Qd1e10107" source="http://scta.info/resource/mt26_38@4-10">Tri<lb ed="#S" n="59" break="no"/>stis est anima mea usque ad mortem</quote>.
+          Com<lb ed="#S" n="60" break="no"/>passionem in corde, quia oravit dicens: <quote xml:id="bptdom-a28dol-Qd1e10114" source="http://scta.info/resource/lc23_34@4-11">Pater,
           <lb ed="#S" n="61"/>ignosce illis, quia nesciunt quid faciunt</quote>. Et
           fi<lb ed="#S" n="62" break="no"/>unt hae tres cruces super calicem, quia super
           <lb ed="#S" n="63"/>patibulum in corpore haec tria sustinuit, et
           <lb ed="#S" n="64"/>per calicem passio designatur, iuxta illud
-          <lb ed="#S" n="65"/>Mat. xxvi: <quote source="http://scta.info/resource/mt26_39@16-20">Transeat a me calix iste</quote>. Aliae
+          <lb ed="#S" n="65"/>Mat. xxvi: <quote xml:id="bptdom-a28dol-Qd1e10128" source="http://scta.info/resource/mt26_39@16-20">Transeat a me calix iste</quote>. Aliae
           <lb ed="#S" n="66"/>duae quae fiunt in parte anteriori signant duo
           <lb ed="#S" n="67"/>sacramenta quae fluxerunt de latere Christi, scilicet
           <lb ed="#S" n="68"/>aqua regenerationis et sanguis
@@ -4537,7 +4537,7 @@
           <lb ed="#S" n="71"/>Sanctificas etc. significant fidem centurionis,
           <lb ed="#S" n="72"/>qui in morte domini Christi trinitatem personarum et
           <lb ed="#S" n="73"/>ipsum Christum deum et hominem confessus est, cum
-          <lb ed="#S" n="74"/>dixit, Mat. xxvii: <quote source="http://scta.info/resource/mt27_54@19-23">Vere filius dei erat iste</quote>.
+          <lb ed="#S" n="74"/>dixit, Mat. xxvii: <quote xml:id="bptdom-a28dol-Qd1e10151" source="http://scta.info/resource/mt27_54@19-23">Vere filius dei erat iste</quote>.
           <lb ed="#S" n="75"/>Aliae tres cruces quae fiunt discooperto
           ca<lb ed="#S" n="76" break="no"/>lice: prima, quae fit extra calicem, signat quod
           <lb ed="#S" n="77"/>deus est extra omnia non exclusus; secunda, quae fit
@@ -4565,7 +4565,7 @@
           clamo<lb ed="#S" n="5" break="no"/>rem Christi in cruce quando clamans voce magna
           <lb ed="#S" n="6"/>expiravit. Et respondetur: Amen; et significat
           <lb ed="#S" n="7"/>clamorem mulierum lamentantium, quibus
-          <lb ed="#S" n="8"/>dicit Christus: <quote source="http://scta.info/resource/lc23_28@7-12">Filiae Ierusalem, nolite flere super
+          <lb ed="#S" n="8"/>dicit Christus: <quote xml:id="bptdom-a28dol-Qd1e10213" source="http://scta.info/resource/lc23_28@7-12">Filiae Ierusalem, nolite flere super
           <lb ed="#S" n="9"/>me</quote> etc., ut habetur in evangelio.
         </p>
       </div>
